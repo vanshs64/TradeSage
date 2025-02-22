@@ -26,7 +26,7 @@ export default function TradingAssistant() {
         <div className="card highlight">
           <h2 className="card-title">Search Cryptocurrencies</h2>
           <form className="search-form">
-            <input type="text" placeholder="Enter cryptocurrency name..." className="input" />
+            <input id="search" type="text" placeholder="Enter cryptocurrency name..." className="input" />
             <button className="btn primary">Search</button>
           </form>
           <div className="button-group">
