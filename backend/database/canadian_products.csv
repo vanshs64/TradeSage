@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Supplier,Price,Stock_Status,Quantity
+01419a00-c9a2-4015-a2bf-ea79e04733d6,Bread,Grocery,Ross Ltd,18.85,Limited,4loaf
+125791c5-0f2b-4666-aba1-dc0878bff574,Action Figure,Toys,Saunders and Sons,78.61,Out of Stock,7each
+db4134e0-dfb1-4fd0-b430-46942b282290,Eggs,Grocery,Rogers-White,6.99,In Stock,1dozen
+a7056eec-a2c6-4680-af38-b995a8b5c332,Dress,Apparel,Cameron-Brown,16.93,In Stock,2each
+ff7b35ce-27cb-4b11-8680-8f256ff84008,Headphones,Electronics,"Hughes, Miller and Phillips",1082.08,Limited,1pair
+b3053bee-12fd-431c-a2ad-30c47393d344,Eggs,Grocery,"Brown, Le and Morgan",13.89,In Stock,3dozen
+257b8a50-4df5-4a4f-b61f-622d8fe222ac,Camera,Electronics,"Valdez, Johnson and Rodriguez",725.52,Limited,1each
+a7c6febe-2914-4dd8-94ba-7c3fe64cc5e5,Eggs,Grocery,"Boyd, Osborne and Freeman",14.94,Out of Stock,1dozen
+8587aa4f-cf09-41b5-8407-0933e407fed7,Action Figure,Toys,"Sellers, Hoffman and Campbell",23.93,Out of Stock,3each
+266968eb-387a-4d37-9d7b-c72829fab273,Baseball Glove,Sports,Porter and Sons,253.16,Limited,3each
+a3d0df06-03b8-41c1-acd8-46ba9fb07442,Butter,Grocery,Garcia Group,2.28,In Stock,2lb
+a1d35e3d-25ce-43f4-bdc6-39af73a69eb3,Headphones,Electronics,"Castillo, Skinner and Cook",901.43,Out of Stock,2pair
+b5f40d65-f078-44d2-b558-6356a1533c64,Smartwatch,Electronics,Snyder-Hernandez,630.59,Out of Stock,1each
+dc72e2ac-c297-4255-a508-957a219f79f0,Smartphone,Electronics,Peterson LLC,662.76,Out of Stock,5each
+6e91f74f-2958-407e-96c9-129a9e7d267a,Coffee Maker,Home & Kitchen,"Kim, Meadows and Knapp",33.54,Limited,2each
+7dd5f283-e16e-4d67-9a3f-bc3e9d256198,Soccer Ball,Sports,"Chang, Johnson and Foster",142.37,In Stock,5each
+2e653fc6-5cd3-44a3-99ca-ec0fb4b53984,Camera,Electronics,"Richard, Greene and Drake",660.17,In Stock,2each
+512a5a89-faca-4cc1-b477-075338770c1c,Headphones,Electronics,Lawrence LLC,1276.6,Limited,2pair
+48cedac5-0142-4dcb-971e-96a14030f8f8,Dishwasher,Home & Kitchen,Wilson-Rodriguez,128.91,Limited,1each
+93064aff-5f19-4834-9e8f-95905e6edfb6,Camera,Electronics,Powers-Crane,195.09,Out of Stock,2each
+89376b9a-d768-4885-9cac-20416e5f79f3,Toy Car,Toys,Roman-Reed,93.61,In Stock,1each
+37a127f1-4df6-49f0-bd54-58a5b782aa63,Jacket,Apparel,King-Black,221.49,In Stock,2each
+b66d37b3-0351-463d-a816-d6563d8b584a,Blender,Home & Kitchen,"Smith, Santiago and Cooper",463.96,In Stock,3each
+2844e4d4-cfe0-4032-a6c2-350e56571991,Smartphone,Electronics,White-Simon,283.38,In Stock,1each
+f50ec8fe-c9cf-4a59-b29d-3243a8fbbb9c,Soccer Ball,Sports,Johnson-Palmer,281.47,Limited,3each
+54c9a623-54f8-4cef-8f59-fc81806c509e,Running Shoes,Sports,"Johnson, Smith and Hayden",325.5,In Stock,3pair
+05a71216-d52a-4184-9f1f-f9cffc6cb273,Microwave,Home & Kitchen,Sawyer LLC,56.24,In Stock,3each
+54a54be1-7e05-4595-adca-ecb377a8356c,Baseball Glove,Sports,Morris-Blankenship,316.36,Limited,1each
+9b20d737-e607-4436-820f-d3972107702f,Coffee Maker,Home & Kitchen,"Vincent, Mccall and Harris",122.69,Out of Stock,3each
+8e6ffab7-ed89-4afe-9eb0-843e56da9498,Smartwatch,Electronics,Allen PLC,887.86,Out of Stock,2each
+0d4f68ac-582d-4f9e-9642-6bb97f053318,Jacket,Apparel,"Olson, Trujillo and Brown",294.17,In Stock,4each
+5f0c3cc2-2360-4539-99c1-a0adba9ee482,T-shirt,Apparel,"Jenkins, Osborne and Gomez",260.92,Limited,1each
+7ec01d10-ae9c-4b28-986c-5d279e03b96e,Laptop,Electronics,Dominguez PLC,1489.66,Out of Stock,2each
+8725d27d-5271-4b5e-9523-02aa6b405c0a,Puzzle,Toys,"Mcdonald, Patel and Miller",12.44,In Stock,9each
+117302fb-324f-450c-851a-a88ccc79ea3a,Puzzle,Toys,"Miller, Evans and Gregory",42.43,Limited,3each
+d5ca9d05-2544-4098-bc71-596527a91d52,Running Shoes,Sports,Long Ltd,289.71,Out of Stock,2pair
+724b499a-34de-4dab-949b-6c008937a8c5,Yoga Mat,Sports,"Olson, Mckee and Fitzgerald",332.25,In Stock,2each
+e390608e-24c7-4cc7-a700-5601a3f46a7b,T-shirt,Apparel,Allen LLC,103.85,In Stock,10each
+4b07c75d-6d6a-4518-b614-988bdaa799d4,Eggs,Grocery,"Williams, White and Patton",15.65,In Stock,2dozen
+fb7c928a-ff35-430f-ba8d-6b74d798cacc,Yoga Mat,Sports,"Little, Randolph and Garcia",174.68,Out of Stock,4each
+43205cfb-23cb-4a60-88d1-d665e155dd6f,Action Figure,Toys,"Harris, Cooke and Garcia",9.49,Out of Stock,4each
+91964ea3-3084-49bb-8559-c04225167d00,Dress,Apparel,Sanchez-Beasley,104.34,Out of Stock,2each
+5b204961-6c34-4886-a6ff-503b79b1437b,Yoga Mat,Sports,Aguilar Group,273.37,Limited,5each
+7eaab2f2-273d-4fac-9115-77557bba5d87,Vacuum Cleaner,Home & Kitchen,Strickland-Bass,442.22,In Stock,2each
+c936010f-5fdd-4884-9916-4231efb88d5c,T-shirt,Apparel,Salinas-Taylor,143.94,Limited,6each
+8cc30284-c55a-4df2-a196-abb000ec1a5c,Milk,Grocery,"Barnes, Henderson and Boyd",13.52,Limited,0.8L
+225b0b46-c2a2-4278-9d03-86841c55ff84,Baseball Glove,Sports,"Hansen, Pena and Smith",338.34,Out of Stock,2each
+1fc71fd7-7371-4d05-9b90-85aa8d8733f3,Blender,Home & Kitchen,Nash-Miller,431.9,In Stock,1each
+c24dd2bb-a741-4477-8620-dd8111e85e7f,Eggs,Grocery,"Payne, Cortez and Wilson",5.3,Limited,2dozen
+3b95b022-2675-4735-85fd-dcd80018d8b7,Board Game,Toys,Reynolds-Reyes,80.94,Limited,1each
+5b7308f8-6e54-4111-86d6-1bfe1b5d142e,Yoga Mat,Sports,Rodriguez-Smith,99.83,Limited,5each
+a4d619ed-c084-4cbd-83e2-e4be8dbb955d,Action Figure,Toys,"Meyer, Fox and Hardin",70.3,Limited,5each
+9a7dcf01-66ed-4fac-9d04-6ea1e6b0ce8e,Jacket,Apparel,"Perez, Franklin and Rios",103.03,Out of Stock,2each
+a7364b17-ea3c-4e99-aaf3-940b24dc0164,Baseball Glove,Sports,Jordan-Smith,206.12,In Stock,2each
+6442bfc5-4080-4a0e-81a0-727a4401160c,Smartwatch,Electronics,Gonzalez PLC,1299.99,Out of Stock,1each
+fefedd59-47c9-4266-8312-db1d4a02a5e0,Baseball Glove,Sports,Larson-Boone,371.56,Limited,1each
+aed3f45e-0061-4cee-aacb-5c0acc837801,Headphones,Electronics,"Walsh, Taylor and Hubbard",851.42,In Stock,3pair
+1221af4c-ba52-437b-a464-2d6196935603,Microwave,Home & Kitchen,Quinn-Frank,181.23,Limited,1each
+1355c0bb-b6c2-493d-b685-2da962de2b85,Smartphone,Electronics,Dixon PLC,1166.29,In Stock,4each
+036f38d5-a166-42bd-a6b8-20804cf9d74b,Dishwasher,Home & Kitchen,"Walters, Henderson and Brennan",135.0,Out of Stock,1each
+b03bc72b-ea95-489b-8092-ad1636209c21,Yoga Mat,Sports,Maldonado LLC,169.42,In Stock,2each
+5a92f8b2-e884-494b-adcd-6c9f69d3f218,Blender,Home & Kitchen,Whitehead PLC,59.05,Out of Stock,1each
+91844630-5b38-4f3d-8ad9-fceef56b31da,Board Game,Toys,Wall-Burton,11.05,Out of Stock,5each
+ea2f398e-401e-4f2a-a8a7-df01a29f9bb0,Jacket,Apparel,"Nelson, Carter and Harmon",99.37,Limited,3each
+a8810ac0-5c13-40fc-b354-eb0992c11cf8,Yoga Mat,Sports,"Jensen, Miller and Carter",230.08,Out of Stock,4each
+3a19a673-755f-4e36-ae64-4fa025bebba8,Toy Car,Toys,"Doyle, Garcia and Wilson",76.21,Limited,1each
+06ffab39-8c41-4c06-9090-f8adf1012efd,Jacket,Apparel,"Walsh, Velasquez and Noble",20.88,Limited,2each
+6a6ca7ea-73f9-4c4a-bc72-20b8407a57f2,Puzzle,Toys,Santos-Porter,7.93,Limited,7each
+2ed7b87c-124f-4116-9ae8-079d9d141669,Coffee Maker,Home & Kitchen,Bowman Group,302.6,In Stock,3each
+ec9640b8-61f9-4684-8038-83ca0ee97594,Butter,Grocery,Vance Group,15.46,In Stock,1lb
+b4557e54-7275-4a2b-97cf-7b7ec73ae480,Action Figure,Toys,Richards-Murphy,36.79,Limited,9each
+caa54096-8ff8-4482-bf2a-ca9fb2c95c0c,Board Game,Toys,"Martinez, Manning and Long",56.49,In Stock,4each
+4df86e83-16e4-4bec-898d-a21559b24598,Tennis Racket,Sports,Neal Group,166.11,Limited,1each
+d1c65ad6-d1ff-4465-b13f-db66ef25b80b,Vacuum Cleaner,Home & Kitchen,"Orozco, Owen and Wise",338.07,Out of Stock,2each
+339a26af-c7d4-4a98-a6ef-56be17600a00,Sneakers,Apparel,Taylor Group,40.79,Out of Stock,2pair
+5d0bae24-62df-4029-9443-8dd6836eb4be,Smartwatch,Electronics,"White, Gaines and Mitchell",746.83,Out of Stock,2each
+510f2a89-d1c5-479e-8731-3d3ee9b80da0,Cheese,Grocery,Galvan Inc,8.56,Limited,2lb
+acd49ae1-1793-465d-a079-9364c384a754,Yoga Mat,Sports,"Sims, Douglas and Adams",364.63,Out of Stock,2each
+09d58cd3-04bd-4d1e-876b-8fb5f905bd50,Milk,Grocery,"Jimenez, Mahoney and Martin",5.15,In Stock,1.5L
+a062f55e-1586-4ad6-b88b-2f845b272dcd,Action Figure,Toys,"Harris, Rivers and Fitzgerald",6.72,Out of Stock,10each
+0f43a1af-f37d-45a5-b1de-39313fa588d0,Baseball Glove,Sports,Lewis-Cruz,170.15,Limited,3each
+d188a924-38bf-48b4-88a2-c39e92211080,Jacket,Apparel,Griffin LLC,256.05,Limited,1each
+be90d94b-2359-4998-8a89-ed1e770c7bc1,Yoga Mat,Sports,"Gaines, Smith and Warren",233.95,In Stock,4each
+74e54e83-07ed-4abe-916b-732e3f530ca6,Microwave,Home & Kitchen,Mclaughlin Group,203.74,Out of Stock,1each
+edf7baab-f8b0-47c0-a4ad-c140ce61f21b,Laptop,Electronics,Sanchez PLC,1015.32,Out of Stock,1each
+8c4eab81-8bb3-4dbe-afc9-7c00e3de21e5,Smartphone,Electronics,"May, Lee and Smith",808.83,In Stock,1each
+91ed7f47-6b07-4ef0-ae02-2369908cc883,Vacuum Cleaner,Home & Kitchen,"White, Huff and Hanna",401.19,Limited,1each
+9de351f8-f316-4fc2-b5bb-1b5f89d623b6,Milk,Grocery,Curtis-Williams,1.93,In Stock,1.4L
+5cba4525-c78d-4c75-815e-235db043fa61,Soccer Ball,Sports,Pitts-Diaz,92.23,Limited,1each
+7fd574cd-62e9-4275-a774-e69d6c563f01,Smartwatch,Electronics,Parker-Stewart,1257.44,Out of Stock,1each
+dc8f0303-5497-4ff0-8a77-63b271d62914,Cheese,Grocery,"Castillo, Stewart and Daugherty",24.42,Out of Stock,2lb
+322e6fe4-2b7e-4f6d-b05d-3cbde6562d38,Butter,Grocery,Jenkins-Perez,3.67,Out of Stock,3lb
+edbfd2fb-6f5d-4113-851a-fe5a3a632517,Coffee Maker,Home & Kitchen,"Smith, Morse and Palmer",301.61,Limited,3each
+f9873fb0-d901-44ee-a55e-5e3a785f7bd3,Camera,Electronics,Stone Group,1085.44,Limited,3each
+f167f63d-cddc-4db3-a321-a54997b6fe56,Board Game,Toys,Byrd-Wallace,91.57,Limited,3each
+1271428c-80e4-4fff-a960-c006fd445a9d,Puzzle,Toys,Jones Inc,5.61,Out of Stock,9each
+a130178c-8ff7-4ddb-b97a-a1f95d05cb7e,Dishwasher,Home & Kitchen,Lewis-Woods,473.05,Out of Stock,1each
+cb3b4594-90e5-4753-9b86-ed8827d6b1af,Toy Car,Toys,Benson Inc,34.06,Limited,2each
+a255411e-1f84-42d2-8262-407d2d655c2a,Tennis Racket,Sports,Hall Group,386.53,Limited,3each
+246ed98c-7af6-4df1-b064-ac6cd3b426c7,Action Figure,Toys,Brewer Group,20.24,Out of Stock,5each
+5bb55385-6747-41d7-830e-e74d42d8c650,Sneakers,Apparel,Maldonado Ltd,247.44,Out of Stock,4pair
+9dc3692c-83cd-457a-8fe0-d9538c40a958,Eggs,Grocery,Yoder Inc,8.31,Limited,3dozen
+c2e742c1-64fd-4c8b-a16c-870241fdadb8,Toy Car,Toys,"Woods, Herman and Barnes",70.79,Out of Stock,10each
+8c27616f-b4b3-4e70-bd64-56a7416d8327,Vacuum Cleaner,Home & Kitchen,Pennington Group,445.22,Limited,2each
+527d09d6-ba7f-438a-ac84-322593b5fcca,Vacuum Cleaner,Home & Kitchen,Berg PLC,338.91,In Stock,2each
+3de82620-06a4-45fe-b98a-2beb7a5c6bd6,Yoga Mat,Sports,Anderson Ltd,151.76,In Stock,5each
+29b823fd-7ad2-4676-8042-3b7b4267137c,Cheese,Grocery,"Riddle, Tucker and Elliott",16.72,Limited,1lb
+691ef66d-719b-4de9-9d69-875ea1b77e98,Milk,Grocery,Austin-Ryan,19.11,Limited,1.8L
+5dce7047-1f15-4b21-aa0c-93a4872b5dc6,Milk,Grocery,Marshall-Hogan,0.64,Out of Stock,0.9L
+07a430c1-b22a-4630-bea3-887b2f51766d,Baseball Glove,Sports,Perez PLC,395.11,Out of Stock,1each
+be86651c-32d4-4ef6-b681-33f29702a439,Milk,Grocery,Vargas-Quinn,24.17,In Stock,1.8L
+e497567f-9560-4c7a-90ec-6bbcb6642e6b,Microwave,Home & Kitchen,Miller-Rivera,313.99,Limited,2each
+e2e641db-f145-447c-8560-ad6330d069fb,Eggs,Grocery,Cherry PLC,3.77,Limited,2dozen
+e070eca4-2384-496b-857e-a2e6d1f52f2f,Coffee Maker,Home & Kitchen,Richmond-Jones,263.65,In Stock,3each
+5e8e2e79-e9c6-4cc0-b515-cef7b97be8dd,Milk,Grocery,Martinez PLC,4.4,In Stock,0.9L
+d5a1eae5-d9d6-4051-bb25-106ec6437658,Jacket,Apparel,Le Inc,140.78,In Stock,1each
+7929851b-6e2e-4c52-84ec-1c59e23a9a7d,Smartphone,Electronics,Johnson Inc,924.56,In Stock,2each
+7b0476c4-4225-45cd-9aa0-4c3a496f66cc,Dishwasher,Home & Kitchen,Kline-Jimenez,387.61,In Stock,2each
+11f7c51f-e820-4c2c-8949-073897bf908f,Vacuum Cleaner,Home & Kitchen,Harris PLC,90.1,In Stock,1each
+d426b4db-8781-41e4-8bbf-7454130aa6f4,Action Figure,Toys,"Moon, Gonzalez and Robbins",42.73,In Stock,8each
+3a1b3ec7-8a08-407c-b07f-2be7236ee795,Dress,Apparel,"Martinez, Hughes and Mitchell",215.95,Limited,4each
+dc2d4d50-91bd-49e4-8546-75270cd19672,Toy Car,Toys,Richards-Jacobs,49.95,Out of Stock,7each
+f45eeda2-3682-4c44-b1b7-387635ece806,Laptop,Electronics,"Clark, Keller and Ware",1490.01,Limited,3each
+d7493f11-80f8-4b7f-bf74-f92c3a0671de,Cheese,Grocery,Roberts and Sons,21.63,Limited,2lb
+2d174c1e-7bcc-45e7-9bd0-7233e52b92c2,Soccer Ball,Sports,Nelson and Sons,91.79,In Stock,3each
+9decce8f-f254-485c-b6d3-95259a2d401b,Soccer Ball,Sports,Spencer and Sons,335.31,Limited,5each
+65f9582e-8e3b-4631-9157-7b1bb6681e0c,Cheese,Grocery,Stone-Wheeler,12.91,Out of Stock,5lb
+17b25afa-828c-45e9-9457-ed4567bebbb6,Baseball Glove,Sports,Scott-Banks,221.92,Out of Stock,3each
+d3ebdce2-2b0c-4503-b6d9-d023ef28a31f,Butter,Grocery,Baker Ltd,3.61,Limited,2lb
+3e459066-6b1f-4176-82bb-28d612bd5d71,Toy Car,Toys,"White, Wilson and Haas",77.75,Out of Stock,3each
+9bd5e4ce-830b-4bfe-b1ee-bf519cb67dee,Milk,Grocery,Smith Inc,16.26,Limited,1.4L
+b43e3f00-957a-48e6-975c-9e166d006648,Headphones,Electronics,Browning LLC,977.85,Limited,2pair
+e91928fa-1ebf-4155-8e6e-2c059881b8ea,Cheese,Grocery,Sampson-Guerrero,16.35,In Stock,5lb
+a892e33c-5674-4177-a497-e6eb71f7b405,Tennis Racket,Sports,Yoder-Hopkins,32.08,Limited,3each
+991fd10a-38c4-49af-891e-e4aa659743fe,Doll,Toys,Jones-Kent,93.91,Limited,2each
+c63fb567-02d6-4bde-999a-4ce112dd18fb,Tennis Racket,Sports,Frank-Gomez,288.58,In Stock,3each
+f54c80a1-39e2-424c-a87c-5e1e70f21acc,Dishwasher,Home & Kitchen,"Alexander, Taylor and Mccarthy",342.46,In Stock,2each
+ca27e6b8-b995-4c6f-b0f1-a8e91878759f,Camera,Electronics,Anderson-Reid,561.46,In Stock,2each
+a2746047-a4e2-4637-84ab-b82fd4f9a097,Camera,Electronics,"Anderson, Nixon and Robinson",1061.9,Limited,1each
+a74ca89b-c979-4b24-9d91-181966c33c76,Jeans,Apparel,"Cox, White and Hernandez",241.83,Out of Stock,2each
+7e774e1c-b1d4-494b-9c87-7935f002683d,Vacuum Cleaner,Home & Kitchen,"Lamb, Evans and Ho",291.77,Out of Stock,1each
+45914607-477b-4efd-bbb5-f1912c8265a7,Toy Car,Toys,"Mills, Floyd and Flores",12.7,In Stock,7each
+0d3f5ddc-935c-4656-a351-b4eca7fc0c67,Butter,Grocery,Sullivan-Sherman,6.82,Limited,5lb
+ce97db25-345b-477d-823d-3b540e604b3e,Baseball Glove,Sports,"Maddox, Hernandez and Hicks",252.86,In Stock,2each
+8abd66a3-ae61-47a8-8206-56c0ac3a2f4e,Blender,Home & Kitchen,Travis-Dean,88.3,Limited,2each
+a04aa1cb-4406-4370-b09d-a3cf906614de,Eggs,Grocery,Myers Ltd,20.24,Out of Stock,2dozen
+00441c8a-688d-4af1-a13f-41c9fea9e631,Dress,Apparel,Smith-Wood,276.04,Limited,4each
+f706182d-eb9e-459d-9a93-c0bd81fdb876,Sneakers,Apparel,"Gray, Avila and Haynes",207.23,Limited,2pair
+be423e04-37a9-4cd0-8c9a-7645e10c84a5,Cheese,Grocery,Ayala Ltd,8.32,Out of Stock,1lb
+37d6f2f2-0702-45a4-971d-35138b241071,T-shirt,Apparel,"Miller, Villarreal and Fleming",53.84,In Stock,2each
+3962c4f3-7f73-4043-b5dd-a36c383a8661,Cheese,Grocery,"Rasmussen, Martin and Walter",7.51,In Stock,5lb
+b02e2a40-f6b8-4fcd-bcc7-06df48c3f9a8,Yoga Mat,Sports,"Davis, Travis and Davis",282.35,Limited,4each
+10f1cc64-4ecc-49ee-9a93-db42788340f9,Yoga Mat,Sports,Taylor Inc,85.92,In Stock,2each
+17bbb2e4-6dce-4c9d-bb69-0c39402d5606,Eggs,Grocery,"King, Pearson and Cruz",5.99,In Stock,2dozen
+64dc0aa9-e53d-4396-b813-ba05ec2ed318,Headphones,Electronics,"King, Hampton and Jimenez",1298.32,In Stock,1pair
+4f206d0a-ad4d-40ca-8fd6-48015346f3f3,Coffee Maker,Home & Kitchen,Johnson Inc,406.69,Limited,2each
+92487277-c338-4773-bb6f-ebb0e7cb49fc,Doll,Toys,"Williams, Paul and Long",74.08,In Stock,2each
+23d12085-a6f2-4123-bf7e-2737cb11ae9f,Vacuum Cleaner,Home & Kitchen,"Gonzalez, Campbell and Davis",62.0,Limited,1each
+0513aa9c-b5cd-44b8-ad4c-c35b63de5151,Dress,Apparel,Howe-Scott,289.37,In Stock,4each
+820d057d-1320-46b6-aed8-3dfed39a2352,Blender,Home & Kitchen,"Guerrero, Padilla and Miller",497.23,Limited,1each
+15446144-9342-4de5-9331-c9e2bfcf9c20,Laptop,Electronics,Beltran-Clements,268.98,In Stock,3each
+9fd943d9-76ec-4e58-bc29-2a49d25e3820,Puzzle,Toys,"Knight, Watson and Christian",82.44,Limited,10each
+e6500874-3e95-4f92-85bd-76fcb3781025,Baseball Glove,Sports,"Miller, Benjamin and Mendoza",374.5,Limited,3each
+fe717fbb-6ea8-4c4b-965b-a841a61bbb26,Cheese,Grocery,Smith and Sons,13.62,Limited,2lb
+507f3575-929d-4fa1-8956-75f07248d7f6,Sneakers,Apparel,Porter-Wright,170.7,In Stock,1pair
+dd79db6e-405a-4994-9890-680f53483a2f,Board Game,Toys,Shepherd-Lowe,83.52,Out of Stock,3each
+627c00e2-ecb1-4ed7-92b8-9d6b0840a312,Doll,Toys,"Snyder, Cortez and Henson",45.36,In Stock,1each
+d0335bf5-20d4-4cb4-bdf3-73765606017d,T-shirt,Apparel,Clay-Haas,73.45,In Stock,3each
+0e7d2e4d-d98f-4156-a729-47d530a3c61a,Doll,Toys,Perkins-Hayes,24.69,In Stock,2each
+db9b7467-7e9d-4dd2-b4f3-7f85a43e8ec2,Yoga Mat,Sports,Smith Ltd,102.56,In Stock,4each
+56d1ee0f-a9a4-43b4-a12c-bfe505ba5a7b,Action Figure,Toys,"Mayer, Ward and Hampton",66.69,Limited,9each
+fa7f4eea-5a77-4faa-b284-663a43f1a67f,Sneakers,Apparel,Mathis-Potter,159.98,In Stock,2pair
+346d0391-90a9-4b21-ba3e-9949fba729af,Smartphone,Electronics,"Jordan, Clark and Kelly",1287.06,Limited,3each
+8a9aa51a-ca1e-47d4-9cac-f39280d1aa4d,Cheese,Grocery,"Moore, Vazquez and James",9.34,Limited,4lb
+917d0061-fadc-4d95-86cf-bae1f1cef04a,Smartwatch,Electronics,"Bailey, Dickson and Long",692.27,In Stock,3each
+909abab4-0da1-47b5-8c88-9064f1d790aa,Jeans,Apparel,Stevens and Sons,259.5,Out of Stock,4each
+4eedf329-3e5d-481b-8c13-254e217761fa,Laptop,Electronics,Peters-Harris,360.11,Out of Stock,1each
+e53585d1-a261-4c69-a1ee-1c52ead9b213,Smartphone,Electronics,Evans-Barnett,56.46,Out of Stock,5each
+7a6f6ae2-f672-4bb2-ab8d-ca2e79820e5b,Yoga Mat,Sports,Davis LLC,33.12,Limited,2each
+e128e9e8-18fc-4c31-99a6-bf100669e4af,Jeans,Apparel,"Christensen, Williams and Carson",171.85,Limited,1each
+805f931e-0ff0-499f-a181-5f8357018f98,Puzzle,Toys,"Potter, Hunter and Parks",21.4,Limited,7each
+822a05da-e230-4cc9-b6ad-08fb406958ec,Jeans,Apparel,Holloway PLC,94.43,Limited,3each
+f486e723-6564-4d00-8d28-2e297903b1b0,Toy Car,Toys,Gomez and Sons,87.99,Limited,10each
+3d51f2ed-93fc-42e0-beff-7b7b206a70cc,Cheese,Grocery,Anderson and Sons,6.68,Out of Stock,1lb
+799baf1f-7d73-4baf-abdb-0a33d47aafca,Dress,Apparel,Monroe-Davis,156.67,Limited,4each
+6826e7ca-0ffd-4ac4-a163-b2ca4afcc6c3,Yoga Mat,Sports,Huynh Group,70.3,In Stock,3each
+2ec2f701-de53-4202-9c54-c02f0d419dda,Smartphone,Electronics,Jackson and Sons,244.46,Limited,5each
+84530acd-c08b-4fd1-aff2-f9d62962f4c0,Soccer Ball,Sports,Jones LLC,203.48,In Stock,3each
+a842c82f-5f4b-4f05-b835-02b6cf38a8d8,Microwave,Home & Kitchen,Singleton-Whitehead,282.19,In Stock,2each
+35cd7243-5e7b-45be-8a51-3a40accc4f3e,Baseball Glove,Sports,"Larson, Patterson and Meyer",35.3,In Stock,1each
+9be5048b-e011-4e60-8081-3f8afa9e3170,Butter,Grocery,Salas and Sons,11.22,In Stock,3lb
+4e72cf6e-0657-488e-addb-b614055b6296,Smartwatch,Electronics,Schmidt-Wallace,1261.0,Limited,1each
+ef94920a-4595-4ca6-823d-7332213ee7f6,Board Game,Toys,Jones and Sons,56.45,Limited,5each
+977e2ad5-f2bd-4d6b-8c23-4540cbae101b,Coffee Maker,Home & Kitchen,"Henry, Olson and Blackwell",184.55,Out of Stock,3each
+05596976-55b0-4543-b1ae-25eeb329c26c,Action Figure,Toys,"Williams, Dickson and Harmon",74.32,Limited,10each
+a3cfca70-cb71-4ff6-8f6c-fca18ac9da47,T-shirt,Apparel,Kelly-Bradford,144.81,In Stock,3each
+7e741a2f-02f4-4a77-8a05-f2d3f7d81224,Coffee Maker,Home & Kitchen,"King, Brown and Horton",376.5,In Stock,1each
+322620ed-8c28-4c3d-9e60-2896bfb60e27,Toy Car,Toys,"Clark, Lopez and Day",73.15,Limited,2each
+275f9b36-e348-47ad-af75-22a21bd7485f,Baseball Glove,Sports,Jackson and Sons,386.39,In Stock,3each
+3b3af73e-4b52-467e-8168-f0b962931677,Blender,Home & Kitchen,Willis LLC,460.0,Out of Stock,2each
+d12dc5c6-aef4-4016-92f3-208798c7f823,Camera,Electronics,Mccarthy-Garza,1148.31,Limited,1each
+9edad1c9-7a8d-4ae7-9ea5-9379f8152dab,Yoga Mat,Sports,"Haynes, Reed and Warner",152.64,In Stock,1each
+ce9b007a-350f-4840-a096-2853f1ef4cac,Smartphone,Electronics,Campbell-Wells,245.16,Out of Stock,1each
+b692c54e-3497-4693-9f5c-381e62798682,Microwave,Home & Kitchen,Obrien LLC,263.49,Out of Stock,2each
+028b86a4-5c5e-4911-aae6-ed4c771727e7,Coffee Maker,Home & Kitchen,Navarro-Schroeder,193.28,Limited,2each
+b4e59bdf-ae9c-4206-8988-781c3d378625,Sneakers,Apparel,"Stewart, Rhodes and Lewis",136.6,Limited,1pair
+8efcfbe6-df18-47b5-82a2-19fb727ebd30,Vacuum Cleaner,Home & Kitchen,Anderson-Patterson,386.83,Out of Stock,1each
+69d9aecb-f502-4e58-af1d-a2b20458f172,Blender,Home & Kitchen,Collins-Hunt,134.18,Out of Stock,2each
+c80da604-e307-47a5-bed9-42304b8f0882,Soccer Ball,Sports,"Chase, Diaz and Montgomery",176.78,In Stock,2each
+f4fb8d83-0ac9-478f-b0d8-da9182397a6e,Camera,Electronics,Howard PLC,1143.14,Out of Stock,2each
+03fe3aa8-be52-4344-9d4f-70e0b8097628,Smartwatch,Electronics,Mathews-Patterson,1006.38,Limited,1each
+d494a3eb-3962-4432-a808-855f382bb12e,Jeans,Apparel,Rivera Ltd,151.09,Out of Stock,3each
+d403eb12-31c1-4faf-85c9-9894946d3d6e,Microwave,Home & Kitchen,"Allen, Davenport and Sanford",141.05,Out of Stock,2each
+6cf0670a-11cb-4350-ba0f-47023d2882c8,Jeans,Apparel,Hill Inc,278.12,Limited,5each
+226812e7-42c7-441a-8702-f1c16adadb80,Tennis Racket,Sports,Ingram-Owens,361.59,Limited,1each
+aee9de87-25c9-4f58-8172-84173dd9eb9c,Butter,Grocery,Parsons and Sons,4.18,Limited,5lb
+6a4bb994-1d41-4f1a-9258-e09ddc693e4a,Bread,Grocery,Tran-Martin,20.07,In Stock,5loaf
+9ce6ee3f-2332-4a25-ae24-a7f53bf9889e,Smartphone,Electronics,Kim Inc,1340.1,Out of Stock,5each
+f2d1f812-c2bf-4266-b60d-2b2eacac3be7,Doll,Toys,Johnson-Norton,69.96,Out of Stock,1each
+61617914-f44e-4ebb-b6e3-9e368d19c2f7,Soccer Ball,Sports,"Holder, Johnson and Sanchez",67.13,Limited,1each
+89556045-5bdb-40a1-a76a-54a2bed9ca17,T-shirt,Apparel,George Group,141.09,Out of Stock,8each
+204cdea3-e386-4abf-a897-8ec109345e3a,Vacuum Cleaner,Home & Kitchen,Garrett-Chen,250.09,In Stock,2each
+c44d863f-652e-4327-a4cf-229c75b54c66,Eggs,Grocery,Rose-Mathews,20.05,Out of Stock,1dozen
+4a897bd7-0004-4c88-90fe-c572620508dd,Tennis Racket,Sports,Harper Ltd,390.2,In Stock,2each
+ca247945-3166-426d-8c27-075badfb7287,Smartwatch,Electronics,Santana Group,281.76,Limited,3each
+fd5f65e5-4117-4667-97cb-6b9863516d1b,Butter,Grocery,Hernandez Group,17.41,Out of Stock,1lb
+f161c2b4-ece1-4662-a45d-ea30c2c29700,Soccer Ball,Sports,"Ward, Wade and Wilkinson",297.02,In Stock,2each
+977523d6-51f0-4c52-8704-31b289293b85,Toy Car,Toys,Olson-Ward,83.22,In Stock,3each
+83036295-4413-414a-8f2c-02977da4d79a,Eggs,Grocery,"Preston, Holden and Riggs",11.34,Out of Stock,3dozen
+1f4524b4-ba0b-4462-8ae1-5935e3514567,Tennis Racket,Sports,"Carter, King and Hernandez",136.26,Out of Stock,2each
+fe5c3bfd-717c-4f4d-95a9-1d6c408ead35,Yoga Mat,Sports,Stevenson-Sparks,356.86,In Stock,2each
+d7fe7416-5a98-4642-af85-cbbb645d99ce,Bread,Grocery,Montgomery-Gray,19.52,Limited,1loaf
+e781e21d-9c21-4680-91b7-bcb3cd826018,T-shirt,Apparel,"Williams, Calderon and Martin",62.74,In Stock,9each
+4f1d3f7a-5c11-49da-a76c-e7438f8b8e8e,Sneakers,Apparel,"Gaines, Benton and Bowman",32.35,Out of Stock,1pair
+b04a97f4-0db2-4918-b8b6-c84d01f03838,Smartphone,Electronics,Schultz-King,501.9,Out of Stock,4each
+82989a67-43d0-4d8c-9f29-26793b81bb8a,Cheese,Grocery,Nichols Ltd,1.26,In Stock,3lb
+a3882d6b-69f1-4b7a-817b-d3dd4f31378c,Laptop,Electronics,Conner-Ayala,653.11,In Stock,3each
+d76ca408-1dab-497b-89cc-a22a609c0c7f,Dishwasher,Home & Kitchen,"Wright, Myers and Espinoza",328.46,Limited,1each
+a8115ed1-39f2-44c4-be3e-e204859f8a21,Soccer Ball,Sports,Mosley Inc,365.34,In Stock,3each
+925c8419-bc85-44bd-95cd-33e1c24fbef4,Sneakers,Apparel,Sanchez Ltd,43.83,In Stock,1pair
+56f6d45f-0b25-4ad3-9929-6ded5d0ad3a3,Bread,Grocery,"Brewer, Lara and Ramirez",17.46,Limited,4loaf
+231aa765-e756-43e2-9fd6-4e47efc5cd8d,Baseball Glove,Sports,Haynes Inc,365.48,Out of Stock,3each
+103209db-8f7a-47b1-97b8-d322c9123639,Vacuum Cleaner,Home & Kitchen,"French, Rose and Johnson",46.48,Out of Stock,1each
+cf3d8382-cc57-498b-ab56-9e8acee379da,Soccer Ball,Sports,Cardenas-Macdonald,319.69,In Stock,3each
+551aca71-a385-4f48-b5cf-42428e318f43,Smartphone,Electronics,"Robinson, Barnett and Poole",1320.19,Out of Stock,5each
+bc971376-0f10-471f-b503-7e0c7a1b6627,T-shirt,Apparel,Matthews-Carson,67.48,In Stock,2each
+85628bdf-c4df-4859-b63f-9dfe6f616558,Soccer Ball,Sports,"Johnson, Scott and Chavez",298.52,Limited,2each
+bf2973dc-2ef2-4ec7-b820-7d550b7ba3ec,Smartwatch,Electronics,"Sherman, Jackson and Hampton",1208.68,Limited,2each
+3f590aed-8aff-4538-9931-1c544a43a1f3,Jacket,Apparel,"Figueroa, Scott and Maldonado",143.86,Limited,5each
+e044d41b-6b83-47b9-9d44-194ff8eb626d,Bread,Grocery,Griffith Group,13.94,Limited,2loaf
+2be65e93-7a3c-41d2-97f0-721a1f14d98c,Camera,Electronics,Jennings Group,607.58,Limited,1each
+17d375c2-5ddf-4be6-ab6e-a22c60479736,Camera,Electronics,Jensen PLC,691.82,In Stock,1each
+ff3e513a-d91a-4942-afb1-f15eb9ed8564,Jeans,Apparel,Rodriguez Inc,117.55,In Stock,4each
+8146b416-ae96-44c1-b0b6-86bf46f649dd,Action Figure,Toys,"Foster, Rodriguez and Garza",9.79,Limited,10each
+05a40584-3f97-4930-9f80-365a09a9f5fe,Doll,Toys,Fletcher-Jackson,35.69,Out of Stock,5each
+884988c1-663f-4079-b380-af56c2a19f4e,Bread,Grocery,Young Inc,17.98,Out of Stock,1loaf
+a2e9cacf-bce5-4285-877f-54825c9a7270,Bread,Grocery,Sanchez Inc,17.17,In Stock,5loaf
+b407fce6-2495-4c10-a49d-a31f90e152ac,Toy Car,Toys,"Reed, Bryant and Hansen",70.54,In Stock,10each
+585e74bb-827e-478a-a7f4-e89606ebe735,Toy Car,Toys,Gill and Sons,50.32,In Stock,10each
+869e0321-46df-449c-8e18-91368a24321c,Milk,Grocery,Harris Inc,0.93,In Stock,0.8L
+236329eb-baba-4546-a9f3-1d12c56c3a6c,Coffee Maker,Home & Kitchen,Smith and Sons,254.72,Limited,3each
+f73e2698-0d16-4deb-8aa1-5a4be34d9b5f,Puzzle,Toys,Rodriguez Inc,32.49,In Stock,9each
+32cc3412-511b-4438-8caf-d08ae0872842,Eggs,Grocery,"Baker, Fields and Hunter",18.95,Out of Stock,2dozen
+6ea624b0-9340-4887-ae73-8066d4109bd6,Puzzle,Toys,Todd Group,37.85,Out of Stock,4each
+c6d7fedd-3fb0-4922-84d5-eeb6aaf43899,Doll,Toys,"Gross, Robinson and Robertson",55.4,In Stock,2each
+22d1b17d-04e1-4d52-87c1-38b01b8087d3,Vacuum Cleaner,Home & Kitchen,"Chan, Baker and Callahan",391.31,Limited,1each
+3341a9b5-42b8-4dd9-971f-6305a4ac8e69,Vacuum Cleaner,Home & Kitchen,Morgan Group,213.74,In Stock,1each
+cafe6184-096a-4370-9fbb-d485e7085c46,Yoga Mat,Sports,"Olson, Abbott and Cantrell",40.3,In Stock,5each
+f789fc64-1297-4bca-a503-8bebf5ce091c,Coffee Maker,Home & Kitchen,Buck PLC,464.48,Limited,2each
+d06536eb-6c45-47d8-bbe8-47b77aa356cc,Smartwatch,Electronics,Tapia-Meyer,948.7,In Stock,3each
+9046c571-256d-4c19-a8f1-e49bbddf3af0,Smartwatch,Electronics,White-Martinez,1364.56,Limited,4each
+81ea734f-62ca-42ae-902a-476a85abc907,Dishwasher,Home & Kitchen,Burnett and Sons,205.14,Limited,1each
+1004b44a-4953-4dac-ae36-3ceef8f5b2c5,Doll,Toys,Terry Group,46.67,Out of Stock,2each
+5c154cd1-f121-4ecb-9772-beb2341a37ae,Coffee Maker,Home & Kitchen,Fuller PLC,44.2,Limited,3each
+0deea030-fbf0-43f1-a331-2ef632347dca,Microwave,Home & Kitchen,Reilly-Williams,495.83,In Stock,3each
+d16e4c39-05e0-4ba0-90f6-0b771ef5a903,Jeans,Apparel,Evans-Schneider,24.32,In Stock,1each
+43fc8182-8503-458e-a896-619732d37b2f,Tennis Racket,Sports,"Tucker, Choi and Estes",308.95,Out of Stock,2each
+4603ca38-278d-489b-be88-647617cdd34f,Sneakers,Apparel,Rasmussen Inc,160.45,In Stock,2pair
+c3a4e306-1d68-4250-b95b-f20c33bd365d,Blender,Home & Kitchen,Strickland-Harris,63.68,Limited,3each
+2b88c6d8-fe89-4e0d-b0c4-7399a6945435,Sneakers,Apparel,"Logan, Mejia and Singleton",134.08,In Stock,2pair
+b12c1536-b1d3-4ea9-9f04-8734dca23686,Action Figure,Toys,Gray LLC,62.41,Out of Stock,7each
+44372542-2ba2-4205-b523-486164132b9c,Laptop,Electronics,Davis Ltd,71.98,Limited,3each
+eb9144d5-8ad3-41c9-b61b-17261f2ecd16,Dishwasher,Home & Kitchen,Nash Group,317.6,Out of Stock,1each
+f603f288-1436-47cc-aa47-5322ff5ec072,Board Game,Toys,"Cantrell, Cannon and Sullivan",16.55,Out of Stock,5each
+296d3758-b240-471f-a759-4de7294c026a,Smartwatch,Electronics,Evans-Freeman,99.15,Limited,2each
+913da5a6-7e16-453d-9eeb-85182f419627,Dishwasher,Home & Kitchen,Soto-Eaton,49.27,Out of Stock,2each
+b7ae9054-6340-4466-a31e-55b52c7b5b00,Smartphone,Electronics,Johnson-Smith,704.31,Limited,1each
+e9a65a9d-dc2b-4c35-8c78-3de1ea47ebe8,Yoga Mat,Sports,Osborn-Sampson,37.04,In Stock,4each
+e18c070b-e5f6-42a8-8eee-a835bbac523f,Jeans,Apparel,"Williams, Hall and Smith",107.87,Limited,2each
+690db246-9717-4815-b6c3-0f12ab00c872,Action Figure,Toys,Rollins-Mitchell,91.48,Limited,8each
+fd57001d-d3ff-49db-9eea-7ea025e10c41,Toy Car,Toys,Gillespie Inc,22.18,Out of Stock,8each
+9949b266-e8a3-46fb-ac4a-7c290234587a,Jeans,Apparel,Stephens PLC,17.39,In Stock,1each
+300356bf-c5fa-40eb-a5a8-eb9837cc260e,Vacuum Cleaner,Home & Kitchen,Brown-Evans,382.79,Out of Stock,1each
+9d571e8c-7bb6-4baf-b46b-35b4c645f909,Running Shoes,Sports,Johnson-Miller,224.15,Out of Stock,2pair
+276c6069-d72a-46ef-8b79-08f9c1001375,Vacuum Cleaner,Home & Kitchen,"Adams, Miller and Matthews",67.86,Out of Stock,1each
+c7eebb65-6f07-4b02-9732-4de19fdcbd9f,Headphones,Electronics,"Ward, Juarez and Wolf",1226.68,In Stock,3pair
+08d584d6-431e-4b80-9f87-005d2ac57679,Sneakers,Apparel,Johnson PLC,272.27,Out of Stock,3pair
+bec84377-ecd2-4236-84a7-ed6d2133b4cb,Running Shoes,Sports,Garcia-West,166.83,In Stock,2pair
+870d33ab-8181-412f-b8fa-599ed52ff49b,Eggs,Grocery,Martin-Boyd,8.4,In Stock,2dozen
+8eded2e0-da00-420f-af0b-fb1d68cefbf6,Board Game,Toys,Young LLC,94.37,In Stock,3each
+ea26d573-cda6-4489-b4f0-5e67438622c1,Vacuum Cleaner,Home & Kitchen,Hall Inc,287.21,Limited,2each
+bd784c43-c7ab-49df-b49f-3afd51cd759b,Smartwatch,Electronics,Stevens Ltd,332.52,Limited,3each
+6949d28d-1f5e-4f2f-bd6b-b0a7331354e3,Blender,Home & Kitchen,"Lopez, Russell and Drake",430.14,Limited,3each
+54da0ca7-b4c1-4326-ad7a-6ee5f529d5fc,Baseball Glove,Sports,Morgan and Sons,224.72,Out of Stock,2each
+d9daffbd-0298-490c-9c16-03ae6590543c,Dress,Apparel,"Ramirez, Barr and Reeves",47.89,In Stock,5each
+e1bc183a-c94e-474b-8dfe-03fa6736a48d,Smartwatch,Electronics,English-Lawson,600.23,Limited,3each
+b237554a-79a2-491d-9fdd-d08824c81b68,Dress,Apparel,Roberts-Stone,120.84,Out of Stock,4each
+ea382a65-10a3-4d69-b474-090bee90cd0c,Sneakers,Apparel,"Dyer, Perez and Kennedy",248.86,Out of Stock,1pair
+e17c20bc-a739-48f8-87bf-aa89f09946a5,Puzzle,Toys,Mejia-Sanders,94.68,Limited,5each
+c42937ec-a0ef-454c-bdd5-492abbfa4521,Coffee Maker,Home & Kitchen,"Sanchez, Johnson and Hart",295.19,Out of Stock,2each
+f62070ae-05f7-4d36-b2ac-e77427924021,Camera,Electronics,"Dawson, Carter and Douglas",802.03,Out of Stock,2each
+dabe8dc7-f60e-4b4c-a030-ca89a88d0ba7,Tennis Racket,Sports,Wilson-Johnson,378.37,Out of Stock,1each
+396d7935-fa75-4d91-b5d2-927e82b45fce,Sneakers,Apparel,"Marshall, Rodriguez and Moore",62.37,In Stock,3pair
+fb6c10a9-1e71-4578-b18f-ec2ec672892a,Eggs,Grocery,Vasquez Ltd,23.49,In Stock,2dozen
+15df11e4-aa06-49bb-a436-4894ca418b3a,Blender,Home & Kitchen,"Bryant, Martin and Smith",316.51,In Stock,3each
+b584143d-1769-4520-b26d-776a6b2a13f0,Action Figure,Toys,Taylor-Harmon,89.31,Out of Stock,10each
+325b6258-0aa4-4ef5-a2f7-286c2170335c,Sneakers,Apparel,Hampton-Jackson,242.78,In Stock,5pair
+4a10e19c-b55e-49ea-83a3-7707777e2feb,Dishwasher,Home & Kitchen,Decker-Williams,419.61,Limited,1each
+04f4452c-d94a-4626-8c77-333d9f15b66d,Dress,Apparel,"Leblanc, Snyder and Austin",241.51,Out of Stock,1each
+5303421d-c91d-4ddf-901c-1652898c9bac,Headphones,Electronics,Murray Inc,871.49,Limited,1pair
+216619e9-40c2-4d5f-baf0-b362fc15c29a,Butter,Grocery,"Murphy, Smith and Griffin",6.78,Out of Stock,1lb
+e0549237-d80f-4282-a93f-fdfcc57fb79c,Microwave,Home & Kitchen,"Wilson, Shelton and Lopez",106.77,Limited,2each
+41d25ba8-407e-4b12-a714-3d2f9c55fa8f,Coffee Maker,Home & Kitchen,Sanchez-Bridges,299.27,Limited,3each
+6e34daa3-1c12-4764-85fa-6325d2bec6ff,Jeans,Apparel,"Morton, Evans and Garrison",59.07,In Stock,2each
+bbdc68fe-adfc-405a-9bf2-ccd7e31301af,Butter,Grocery,Norman-Bell,12.48,Limited,1lb
+f2d96f4e-b10a-4e11-b428-19e2dbb65cc2,Sneakers,Apparel,"Cole, Hobbs and Johnson",196.59,Out of Stock,3pair
+b80473c5-0cf7-485d-8503-aeca8983d524,Headphones,Electronics,Maldonado-Jackson,628.32,Limited,2pair
+3afdeb4d-5b4d-4550-bf47-731d61af6431,T-shirt,Apparel,Espinoza PLC,171.35,Limited,9each
+4e82ac4f-46b2-4bfd-acd3-080d7331430d,Puzzle,Toys,"Hickman, Jensen and Villegas",58.93,Limited,5each
+e767665b-3928-475f-bc9a-09161402f983,Smartphone,Electronics,Fuentes-Cisneros,720.0,In Stock,2each
+9cc96a49-b23d-48b3-9d4d-e40c508c18ee,Tennis Racket,Sports,Medina LLC,320.86,In Stock,1each
+b9b4a9a2-b73c-4c33-ae9e-ae186d9b4e6c,Board Game,Toys,Moore Ltd,55.44,In Stock,5each
+a136102b-cebf-4764-b4f4-af8adac734e4,Bread,Grocery,Dixon-Ortega,4.45,Out of Stock,2loaf
+8d7dbcf5-9256-4131-abf0-d9082b609617,Yoga Mat,Sports,Welch-Anderson,53.19,Out of Stock,2each
+be8d3231-1de9-48d7-8f07-e08858452da0,Soccer Ball,Sports,Day PLC,47.29,Out of Stock,2each
+fa29beb5-d575-4537-ba46-12a57601fb72,Toy Car,Toys,"Potter, Fernandez and Harrison",69.71,Limited,9each
+e0ddd44d-06cd-4c51-9a2f-3b2ceb5ebf15,Smartwatch,Electronics,"Spencer, Suarez and Escobar",1205.91,Out of Stock,4each
+90da7540-3ac9-4b50-b962-85f7a45e6134,Board Game,Toys,Walker Inc,50.19,Limited,1each
+8f6be6c5-b357-4697-8542-15d2c1c99426,Milk,Grocery,"Suarez, White and Juarez",24.55,Out of Stock,1.1L
+3b7a1f9a-00e4-4738-8f2a-004d113bee43,Yoga Mat,Sports,Harrison-Martin,153.98,Out of Stock,3each
+31c82b77-a89d-4e4d-9268-bc71b9c6bdc6,Soccer Ball,Sports,Fisher-Harris,381.71,In Stock,4each
+5fae1b18-3faf-488e-8f27-7f693f285b7c,Laptop,Electronics,Williams Ltd,170.73,Out of Stock,2each
+b27959ce-e318-4b2f-a2b9-d67bdb7700fb,Eggs,Grocery,"Wilson, Cox and Montoya",17.17,Out of Stock,1dozen
+34cd0206-9946-4464-8bd4-f159a0fdc63e,Camera,Electronics,Fernandez-Knox,913.23,Out of Stock,1each
+e31dc72d-1fa3-4035-b83d-f9f4f8c7f5c7,Microwave,Home & Kitchen,"Charles, Adams and Norton",71.41,Out of Stock,3each
+09daa5c4-3eb1-46c8-8acb-5bf7eb6844e9,Milk,Grocery,"Adkins, Jackson and Stafford",3.55,Out of Stock,1.2L
+b99735c1-de8e-40c5-a7c1-ce22dff50e37,Eggs,Grocery,Gardner-Dalton,12.84,Out of Stock,2dozen
+1b4af914-e488-4c5b-8c86-a5b39b2bbdd8,Jacket,Apparel,Alexander-Wilkinson,78.96,Out of Stock,3each
+ab20d853-eafa-4ddf-8f63-20f83f5288d0,Vacuum Cleaner,Home & Kitchen,"Newman, Harvey and Whitaker",309.44,Out of Stock,2each
+510c2551-1f96-4c7b-b04c-0f4dd079ab5e,Action Figure,Toys,Taylor PLC,55.95,Out of Stock,10each
+b49d54b1-56f7-494a-b4a6-89d6357da95a,Yoga Mat,Sports,"Luna, Mcdowell and Green",73.18,Out of Stock,2each
+6a3e5562-581c-479c-8588-90a66f4554ba,Laptop,Electronics,"Dixon, Parks and Hernandez",791.19,Limited,1each
+b2c4f19e-01f3-4294-862f-c2f9b1270222,Eggs,Grocery,Elliott PLC,21.01,In Stock,3dozen
+6e6fc7ad-6a51-4600-adc8-e36e348628ef,Vacuum Cleaner,Home & Kitchen,"Hernandez, Cortez and Cannon",50.51,In Stock,2each
+fe12ca8a-a997-4611-82fa-69fcb90bdd4e,Microwave,Home & Kitchen,"Reed, Hill and Cunningham",386.85,In Stock,2each
+b8a9a703-eb24-43a3-9361-27788d5cd7c5,Smartphone,Electronics,Burns-Evans,874.07,Limited,1each
+6aac2479-f63d-4fa4-b90b-20d8a959587f,Sneakers,Apparel,"Reynolds, Hancock and Miller",141.71,In Stock,1pair
+335d9d51-016c-4a1d-b044-e9feb7b35975,Smartphone,Electronics,Morrison Group,174.5,In Stock,2each
+65f8b4cd-2f3f-4eb4-a644-a3b749617639,Smartphone,Electronics,Huynh-Hicks,969.69,Out of Stock,3each
+81b67a11-13c1-4ea0-853f-e9d9d560d7da,Smartwatch,Electronics,Chambers-Figueroa,780.62,Limited,2each
+2f36bc49-4db9-4639-a9d0-32a397d25425,Laptop,Electronics,"Johnson, Williams and Norman",192.56,In Stock,2each
+6fa02504-bd6a-46d0-9589-332ad0629905,Soccer Ball,Sports,Gutierrez-Snow,53.32,Limited,3each
+98a09aa9-b965-4acb-9d31-720e87a81f5d,Blender,Home & Kitchen,Wilson PLC,335.98,Out of Stock,2each
+0236481b-f2bb-4381-ab8e-432f78fb042f,Camera,Electronics,"Sullivan, Jones and Cox",808.91,In Stock,2each
+af581c1a-338c-4b6a-9e8e-a0fe0d1e8a8c,Eggs,Grocery,Atkinson-Powell,13.82,Out of Stock,1dozen
+3a0704f6-baed-4825-8246-9591e3c65ecb,Running Shoes,Sports,Moreno Ltd,135.55,Out of Stock,2pair
+55b4925d-2c3b-4a2f-aa39-ec9dbb179f50,Baseball Glove,Sports,Jackson-Scott,191.42,Out of Stock,1each
+5ac371a4-1750-4f00-aa88-c5a00e188f20,T-shirt,Apparel,Carter Inc,69.03,Limited,10each
+f1137037-0757-44f1-80fb-65c731e5e53e,Jacket,Apparel,Lucas-Miller,156.01,Limited,2each
+0e4045b1-42b1-41e9-adc8-90353478c76c,Cheese,Grocery,"Ross, Ruiz and Villarreal",16.96,Out of Stock,5lb
+a1342d9c-7a21-47fc-8d22-794077fd2aae,Yoga Mat,Sports,"Davis, Walker and Bennett",352.47,In Stock,2each
+f6afc707-3a33-41d8-abe7-3272d42616d9,Toy Car,Toys,Henry Group,82.43,Limited,7each
+62e1fe98-3348-4721-932b-23ea2d312e3d,Smartphone,Electronics,Patterson-Nunez,846.28,In Stock,5each
+51230e72-fa61-4f09-b443-39049fa3def6,Jacket,Apparel,Newman-Jensen,113.3,Out of Stock,3each
+9f594291-a876-4b7b-ac46-d872bb4401b8,Microwave,Home & Kitchen,"Powell, Mitchell and Bishop",472.03,Out of Stock,2each
+0368c03a-03f0-4511-b737-99cee8ebb705,Doll,Toys,Aguilar-Richardson,33.94,In Stock,5each
+e4f854ce-055a-43a2-8380-62a688573349,Dishwasher,Home & Kitchen,Cortez LLC,31.18,Limited,2each
+b11f1419-ee3e-4db9-b8e4-4c3efa2cc550,Dishwasher,Home & Kitchen,"Walker, Thompson and Dean",71.74,In Stock,1each
+8ab99361-e1a7-438a-ab32-f19426baf5be,Tennis Racket,Sports,Wilcox Group,345.44,Out of Stock,2each
+27635f05-14e1-46a0-8fb7-9b8e176bb59f,Smartwatch,Electronics,Elliott PLC,734.56,Out of Stock,4each
+bc0ab27d-d4d0-4f04-9362-20a7a88226dc,Smartphone,Electronics,"Griffith, Cooper and Haney",1032.98,Out of Stock,1each
+40653efa-5ac9-4352-849b-5813490310ea,Eggs,Grocery,Lopez-Shepherd,18.43,Limited,3dozen
+ec2d5ba9-b6d4-4beb-908f-5a7fd38e1c3d,Yoga Mat,Sports,Lee Inc,53.07,Limited,2each
+1a45d9fb-5c4a-4ed5-8e4c-7dee990164af,Soccer Ball,Sports,Gray-Wells,245.11,Limited,5each
+6b0b32c1-9bf6-4fc1-938b-670a5ed77bba,Jacket,Apparel,Perry Ltd,144.16,Out of Stock,3each
+669c0385-bfc1-4429-a9ed-4d66db09be85,Toy Car,Toys,Williams-Rice,36.94,Limited,5each
+fb73d9df-e070-4d68-9584-0b6d2779b2ce,Soccer Ball,Sports,"Walker, Thompson and Mcgee",349.11,In Stock,1each
+d523a8b6-c920-4621-b990-3d620410094c,Jeans,Apparel,Fuller Ltd,108.91,Out of Stock,5each
+b8390818-16f8-4f31-ad18-fa36b8a05fb6,Toy Car,Toys,Blankenship Ltd,6.71,Out of Stock,9each
+035ea282-7aad-4dc9-b6b8-100edc7db618,Smartphone,Electronics,"Gentry, Scott and Wells",325.34,Out of Stock,1each
+5e126947-1cc0-4493-a34c-360327e61f11,Microwave,Home & Kitchen,Hobbs and Sons,53.35,In Stock,2each
+3f4cf5c7-5e67-4f0f-9c63-1dd73d621bf5,Smartwatch,Electronics,Lynch Inc,911.48,Limited,2each
+d122a227-46b9-4a03-91f4-1966a8aad2d2,Toy Car,Toys,Williams-Donovan,73.35,Out of Stock,4each
+797fe512-906b-4e97-8ab9-dfc40afb8a03,Board Game,Toys,Miller Inc,67.82,Limited,1each
+dd3e8471-fb48-43f2-aeda-ffa3621cd775,Blender,Home & Kitchen,Kennedy PLC,212.3,In Stock,3each
+4295b41d-5aa0-4bdb-a8e3-ca04b5ac01a4,Puzzle,Toys,Parker Group,18.43,In Stock,1each
+643427c9-6be9-42d7-8c2e-05d1d2e7cdef,Bread,Grocery,"Castillo, Smith and Franklin",3.26,Limited,3loaf
+d94a708c-4e2b-44b4-80b5-ba7fd98801d5,T-shirt,Apparel,"Jones, Smith and Rose",206.21,Out of Stock,10each
+b0827d95-8140-423d-aff2-6f2a4e2d2f4a,Smartwatch,Electronics,Miller Ltd,1124.58,In Stock,3each
+cd3aa0de-eaa0-4590-9ac0-b883c7062cba,Sneakers,Apparel,Mills Group,241.4,Limited,3pair
+ce15d333-0bb8-48e8-aa12-0d320b93654e,Soccer Ball,Sports,Hawkins-Wood,51.89,In Stock,3each
+2d96c7e9-bcfb-47f5-a2cb-cac78f302266,Jacket,Apparel,Hernandez-Lyons,11.44,Out of Stock,5each
+02c0ee39-93c8-409c-adf6-0a5fe164d162,Toy Car,Toys,Edwards-Robles,57.86,Out of Stock,4each
+01e33976-118f-4711-8913-fdeed4214815,Smartphone,Electronics,"Mercer, Mcclain and Greene",667.88,Limited,4each
+685b8639-9aff-4902-92ee-5c3ed41445cf,Camera,Electronics,Kelly and Sons,1304.74,In Stock,1each
+f5860953-5167-4e49-9c52-719aa832a6f6,Running Shoes,Sports,Jones and Sons,93.29,In Stock,1pair
+9e6a3e1c-370b-4561-ae98-84ccfa6eab1f,Sneakers,Apparel,Pena Inc,189.77,Limited,5pair
+075bb2e6-29a9-437b-aa8f-66d7eee1f3da,Toy Car,Toys,"Snyder, Lewis and Sellers",41.51,Out of Stock,5each
+7a47f285-b6b7-4855-b746-003fec55d8b3,Sneakers,Apparel,Decker-Jones,144.25,Limited,1pair
+9068de20-7e5c-499a-859a-b14b035aee32,Laptop,Electronics,"Martinez, Casey and Miller",1363.44,Limited,1each
+55d08148-c89b-4c5a-95ca-0641e52e8a6b,Cheese,Grocery,"Edwards, Barrett and Johnson",24.38,Limited,2lb
+309f28a1-32f9-446e-a116-32b0cb22a50e,Coffee Maker,Home & Kitchen,Taylor-Johnson,249.74,Limited,1each
+fe91b353-9aea-4ef8-939b-57c133ab753c,Tennis Racket,Sports,Cochran-Cantu,240.75,Limited,3each
+c59ec09a-2024-42e8-890a-25f50d8121bc,Milk,Grocery,"Mitchell, Robinson and Long",10.19,In Stock,1.5L
+8d43eeb6-7345-4420-b611-94b2d40a521b,Headphones,Electronics,Thompson-Robertson,1148.61,In Stock,2pair
+ceb95682-ad9c-4a6e-b3e1-4b4dd411db7f,Puzzle,Toys,Lawrence LLC,22.81,Limited,6each
+552a0eb3-7a5a-4ec5-95b2-222472357729,Coffee Maker,Home & Kitchen,"Medina, Clayton and Stokes",272.18,Limited,2each
+01afc360-de6b-43f5-9da7-04dd72378b25,Doll,Toys,Rodriguez Group,21.07,In Stock,5each
+72c243b2-fc26-4d8d-8cbd-1df135897128,Running Shoes,Sports,Carlson-Peck,284.62,In Stock,1pair
+52a5fbaf-8139-46c6-bd13-935e8ff9a443,Dishwasher,Home & Kitchen,Roberts-Wright,41.6,In Stock,2each
+557c5556-c8de-49c1-b154-32dad3331f0f,Tennis Racket,Sports,Miller LLC,195.38,Out of Stock,2each
+6ee07f01-b331-41df-9187-d20b2abc7cfc,Running Shoes,Sports,Peterson Ltd,326.39,Limited,2pair
+e390eb62-4666-4652-972d-69aa1ede33d0,Action Figure,Toys,Figueroa-Reed,73.16,Limited,9each
+81c71519-533a-4570-9336-6a65ee73ec9f,Baseball Glove,Sports,"Miller, Stafford and Williams",39.94,Limited,3each
+056ee1b9-874d-450b-b8fd-02abc04d016e,Toy Car,Toys,Davidson-Arnold,95.46,Out of Stock,9each
+21de2cf9-6d93-42cf-956d-66362c707020,Running Shoes,Sports,Simpson-Barnes,388.82,Limited,3pair
+8c4dda6c-c4ef-401c-986f-707c5370720d,Yoga Mat,Sports,Mcintyre-Cain,320.12,In Stock,5each
+edba505d-4232-48ca-965a-7a731832b9c1,Coffee Maker,Home & Kitchen,Salas Group,425.97,Limited,1each
+106ca234-75cf-4f58-8fb3-79a3c1fcf559,Smartwatch,Electronics,Vazquez Ltd,1368.44,Out of Stock,2each
+e26e339f-2d42-4556-a6b0-71d4d9c97f00,Jeans,Apparel,"Mason, Gonzalez and Wallace",237.45,Limited,5each
+88fd2d94-8f38-47ee-b3cb-a0bfff5dc020,Milk,Grocery,Pennington LLC,14.59,Limited,1.6L
+c8c7b234-468a-487d-a356-eadeec1787ae,Coffee Maker,Home & Kitchen,Arellano LLC,326.58,Limited,2each
+831cad50-115b-41c9-b40f-b81e0791632f,Microwave,Home & Kitchen,"Price, Barnes and Campbell",25.2,Out of Stock,3each
+067ea658-9ee8-4cd8-91d1-bd44926e8e8b,Microwave,Home & Kitchen,Rosales LLC,159.06,Out of Stock,1each
+d0874dcf-4492-4ca1-8d42-549f920d9136,Yoga Mat,Sports,Torres PLC,214.34,In Stock,4each
+edea0f37-5731-4853-ad31-09ad55461a64,Bread,Grocery,"Moore, Nelson and Reyes",5.89,Out of Stock,5loaf
+8f826415-b69f-4ace-9da1-1b3e03c4a227,Baseball Glove,Sports,Adams-Kennedy,180.79,Out of Stock,1each
+614c9897-e739-40bf-8519-1d40c0a25f0c,T-shirt,Apparel,Johnston Group,254.38,Out of Stock,7each
+1cc64601-682a-417f-99bb-3d315a0d5804,T-shirt,Apparel,Moses-Hamilton,284.34,In Stock,10each
+0ecb8ede-572b-40e8-9a96-c934b65a94ad,Action Figure,Toys,"Gallegos, Adams and Mcneil",40.83,In Stock,9each
+76ae5a70-6daf-4235-987b-f25b7b5d80ec,Toy Car,Toys,Williams PLC,69.06,Limited,1each
+c7fa3532-db96-4db6-a88a-29a335570a11,Jacket,Apparel,Walters LLC,155.45,Out of Stock,3each
+981f9748-5ba8-43b9-9d76-f50d8178a2a7,Smartphone,Electronics,Carpenter PLC,898.25,Out of Stock,4each
+cb673182-6db1-49fb-9d46-9d937ae0ea47,Cheese,Grocery,Graham-Dorsey,5.56,In Stock,3lb
+13d27660-0786-4da6-8237-d0290eca8f01,Soccer Ball,Sports,Anderson Ltd,250.67,Out of Stock,2each
+5963ec8d-c1e6-4710-b235-d42ce7a05eaf,Smartphone,Electronics,Peterson Ltd,1464.42,Limited,5each
+5fbab946-3753-4e95-b06d-91b04e425ee4,Jeans,Apparel,Lee-Jackson,44.33,In Stock,4each
+12f1648e-fe42-4461-9d16-a565dca5cbb4,Jacket,Apparel,Taylor-Flores,204.24,Out of Stock,2each
+3d01004d-563b-4b6c-b4fc-3d7e57413b65,Doll,Toys,"Perry, Wilson and Wilson",52.19,Limited,3each
+93b267d4-9308-49dc-bb2c-16f8f1ac374e,Dress,Apparel,Patterson-Reynolds,264.8,In Stock,4each
+885f85a0-f4be-429e-a218-0c429ae6afb4,Jeans,Apparel,Allen Inc,63.33,Out of Stock,2each
+1647dc05-959f-40bf-984c-38d30ae6071c,Doll,Toys,"Brooks, Singh and Saunders",56.13,Limited,2each
+a0f94f7c-bf2b-43ef-a259-a7ff29c9f6ca,Tennis Racket,Sports,Flowers Group,343.5,Out of Stock,3each
+d66bf4ee-dac7-437f-847c-84bf3091bc36,Doll,Toys,Daniels LLC,26.08,Out of Stock,2each
+571f293a-6f33-4bc8-9517-e6688fce97c9,Tennis Racket,Sports,Bennett-Johnson,64.02,Limited,1each
+c18d3f9d-bc15-4e7a-8626-dedea315fd3b,Board Game,Toys,"Morgan, Benson and Cruz",53.49,Out of Stock,2each
+f48bd2cc-b514-4f1c-9dc6-0edc2e88f3e2,Tennis Racket,Sports,Richards-Sosa,250.32,In Stock,1each
+74b51586-3dcb-429b-8da2-c70964982149,Milk,Grocery,Jones LLC,1.1,Out of Stock,1.5L
+4ecf6aa5-df8b-40fd-a62f-ccf9157947a7,Eggs,Grocery,Brown Group,14.95,Out of Stock,3dozen
+2657c80a-0dd5-491c-90a1-f29a1b5229c2,Eggs,Grocery,"Grant, Li and Sanders",0.66,Out of Stock,2dozen
+4e0d3460-c72b-4680-9d4f-54bfa93c0e4a,Milk,Grocery,Allen Group,22.14,In Stock,1.6L
+f80eae48-84b3-42d3-8e1d-95f85d70783b,Soccer Ball,Sports,"Reynolds, Moreno and Douglas",348.63,Out of Stock,1each
+ae00aa8a-638d-45e5-98fe-08788c244239,Laptop,Electronics,Buckley-Harris,764.49,Out of Stock,1each
+750669e2-ed8c-4c9d-b38e-3ed8161890bd,Soccer Ball,Sports,Williams-Shaw,19.67,In Stock,1each
+688c87eb-be54-46de-a318-9e0cc546e222,Dress,Apparel,Knox-Palmer,160.32,Out of Stock,4each
+b82ab4d1-d416-4cc6-a180-957d65469982,Blender,Home & Kitchen,Carlson-Fischer,148.67,Out of Stock,2each
+b20280c4-aa75-4a5a-95a8-9f01359d6b25,Headphones,Electronics,Lynch-Mason,364.3,In Stock,3pair
+91f0fc9a-3cad-4c12-95d9-22bdbc69f9ef,Jacket,Apparel,Cunningham LLC,85.49,In Stock,3each
+bf9d7593-315f-4bcf-93af-76cdf9c2e909,Butter,Grocery,Sanchez Group,15.28,Out of Stock,3lb
+46aba3d4-9c60-46ab-b1a3-bc426f32ef5d,Camera,Electronics,Bailey-Johnson,491.14,Out of Stock,3each
+d0844b5c-120b-4b68-ae27-0444d4fb9ff0,Baseball Glove,Sports,Smith-Rose,85.74,Limited,1each
+50c31c0e-7c8a-4d29-a310-70110f2ee31b,Action Figure,Toys,Robinson-Rivera,34.29,Out of Stock,4each
+41ef4913-de91-4d2d-95aa-fe5411b7d281,Blender,Home & Kitchen,"Good, Webb and George",83.49,Out of Stock,1each
+5d50432f-bd92-44f1-aedb-78d1c87919bd,T-shirt,Apparel,Hernandez LLC,121.77,Out of Stock,7each
+155db85b-5c63-40d2-a523-61637f3fefa4,Dishwasher,Home & Kitchen,"Byrd, Byrd and Clarke",179.11,In Stock,1each
+7338cf64-c0cb-4623-b768-1e82649fdb0e,Jeans,Apparel,Steele-Smith,156.88,In Stock,1each
+658c9aac-dc51-46fb-abda-9c29a483ed72,Blender,Home & Kitchen,Kennedy-Bell,68.63,In Stock,3each
+d6c76d62-d54e-4a6b-837d-992ff8b11c4b,Jeans,Apparel,Sanchez-Fox,122.1,In Stock,5each
+4f8f21ec-718c-48c6-9c84-e11631fc712e,Jeans,Apparel,"Caldwell, Boyd and Bryant",175.44,Limited,2each
+83d70ab5-1ca2-4e2e-b04e-bd5f887f86c6,Butter,Grocery,"Golden, Valentine and Sanchez",19.66,Limited,1lb
+073bfcdc-167d-4ce7-911f-539173e43af2,Smartphone,Electronics,"Barber, Camacho and Marshall",1066.0,Out of Stock,2each
+fe244d06-efc6-4f70-8617-3c72d76914f4,Smartphone,Electronics,Castillo-Campbell,1042.69,Out of Stock,3each
+e7b589c2-2a58-4d43-a279-f3e4fb6e57ba,Butter,Grocery,Chen and Sons,13.77,Limited,3lb
+d65d0a7a-6740-42e1-9845-e970d5e80ef6,Toy Car,Toys,Smith Inc,54.72,Out of Stock,10each
+604a175a-dbf6-4a46-b8e3-428505433b66,Headphones,Electronics,Morrison-Finley,667.05,In Stock,2pair
+95a2fd5c-473f-410f-aac0-6be8fd9c1a96,Camera,Electronics,"Roberts, Parker and Lee",832.1,Limited,3each
+9c66adad-0752-42de-bd5f-c3fc1570b52e,Headphones,Electronics,"Joseph, Anderson and Edwards",520.1,Limited,1pair
+6b4ff5c0-534a-4093-9e74-573b9ada7bb5,Baseball Glove,Sports,Hall Group,334.96,Limited,2each
+562f931c-f459-4b4a-9072-9e6b1f2bf2c5,Coffee Maker,Home & Kitchen,Wilkinson Group,453.43,Limited,1each
+c941f667-a9a0-4040-80a3-d6ecc1935ff1,Butter,Grocery,"Delgado, Shaw and Jones",5.55,Out of Stock,2lb
+81b385e0-15e4-446e-b6ef-eff450695ecd,Running Shoes,Sports,"Kelly, Webb and Patterson",370.79,Out of Stock,4pair
+c4877116-0c8a-446d-bfdf-41331c980e1c,Milk,Grocery,Green-Ortiz,2.04,Limited,0.9L
+d4d9f632-3e28-433c-84eb-3c3af0163cff,Laptop,Electronics,"Evans, Hill and Cochran",560.07,Out of Stock,2each
+8a0f468f-2629-4f01-aa04-93298a757744,Laptop,Electronics,Walker-Lopez,764.22,Limited,1each
+9a54ca31-eeee-4d00-938e-a266bd3a5db6,Butter,Grocery,Hernandez-Tanner,12.42,Limited,4lb
+2de2189d-7392-423b-a8b6-25f2ca1ec9d4,Dress,Apparel,Robinson-Berry,228.4,Out of Stock,4each
+8f64d664-353c-4794-adf6-6b479475007d,Soccer Ball,Sports,"Jones, Miller and Robles",268.19,Limited,5each
+994bd500-e891-49fb-87d0-101497ed3952,Baseball Glove,Sports,Wright-Dean,307.3,Out of Stock,3each
+a365c725-ca4d-49d2-a2f6-538f9152d34d,Toy Car,Toys,Gallagher and Sons,49.16,In Stock,8each
+104eebe6-6243-4431-ac52-8d61c2ee18cc,Board Game,Toys,Ray PLC,23.51,In Stock,4each

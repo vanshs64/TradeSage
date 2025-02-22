@@ -1,0 +1,522 @@
+Product_ID	Product_Name	Category	Supplier	                         Price	Quantity
+            40   Apricots         Fruit      Downey's Big Apple Farm         0.6          1kg
+            41   Macadamia nuts   Fruit      Montral Nut Factory             10.3         1kg
+
+
+            42   Carbonated Drinks, Grocery, Bec Cola, 2.18 1liter
+            43 Concentrate Tungsten Content, Raw Materials, Canada-One Steel Inc, 366.42 1000kg
+
+Product_ID	Product_Name	Category	Supplier	          Price	Tariff_Amount	Tariff_Code	Final_Price	Quantity
+                Apricots         Fruit  Great fresh LLC    0.9             0.2            0809.10.00       1.1         1kg
+                Macadamia nuts   Fruit  Tierra Farm        9.1             1.9            0802.52.00       11          1kg
+
+
+        40        Apricots         Fruit  Great fresh LLC    0.9             0.2            0809.10.00       1.1         1kg
+        41        Macadamia nuts   Fruit  Tierra Farm        9.1            1.9            0802.52.00       11           1kg
+
+
+
+        42      Carbonated Drinks  Grocery  Alternate Soda International  2.21 0.2, 2202.10.00, 2.23, 1liter
+        43      Concentrate Tungsten Content, Raw Materials, Almag Aluminum, 370 37.5, 2611.00.60, 407.5 1000kg
+          
+
+cabb75e9-962a-4811-9aa4-31b522ea0cef,Dishwasher,Home & Kitchen,Lopez-Cain,493.45,5,9405,China,518.12,1each
+73b9a27c-f1cc-46d1-8531-71703b22887c,Butter,Grocery,"Butler, Ross and Russo",15.69,5,2106,Germany,16.47,3lb
+922a9d74-4b04-4770-81bd-0e26d634afca,Headphones,Electronics,"Hughes, Ashley and Solis",1009.86,0,8517,India,1009.86,1pair
+be72ca22-ab9b-4647-87dd-86a63010757f,Puzzle,Toys,Rivera-Davis,91.59,5,9503,Germany,96.17,6each
+cf8c15b4-8126-4245-bdad-3173a3fb598f,Jeans,Apparel,Johnson Group,91.04,15,6204,Mexico,104.7,3each
+e4d51fb0-cbc0-4d69-90a5-cd6783e0b99d,Running Shoes,Sports,"Sampson, Becker and Gonzales",373.83,10,9503,China,411.21,4pair
+15b7f7f0-e5da-4f49-b390-2e0d2c4f17fb,Doll,Toys,Thomas PLC,15.81,5,9503,Mexico,16.6,5each
+82d695c9-3019-482f-9454-65142832a2c0,Microwave,Home & Kitchen,"Mejia, Edwards and Padilla",365.11,5,9405,China,383.37,3each
+bf8aa18b-c06f-4587-a06d-0ac47cc103c9,Bread,Grocery,"Grant, Cabrera and Carlson",3.47,10,2106,India,3.82,4loaf
+08c1d56e-587f-45e3-acca-50f9a3458dec,Puzzle,Toys,Mcdonald-Cannon,92.72,20,9503,India,111.26,8each
+a148a380-b2a1-4e91-bf54-8949ea63f884,Smartphone,Electronics,"Ponce, Mcfarland and Gray",824.88,15,8517,India,948.61,1each
+6b3a77a8-f415-4703-87ac-ca096066a6ce,Running Shoes,Sports,Stone and Sons,36.73,20,9503,Germany,44.08,4pair
+743e6852-aa78-476b-a0e2-c40ee891ecfe,Board Game,Toys,Cervantes PLC,13.71,15,9503,Mexico,15.77,2each
+3fccc05f-d746-4df1-b4ee-fecdf104c2c7,Sneakers,Apparel,"Gonzalez, Lewis and Nguyen",73.61,10,6204,Germany,80.97,4pair
+2d199d48-b999-41c5-94d4-e365518bd583,Dress,Apparel,Cooke Inc,238.94,20,6204,China,286.73,4each
+b03f313b-9668-4043-af1e-25f1fc068fda,Doll,Toys,Guzman-Wilson,42.3,0,9503,Mexico,42.3,5each
+97cb4767-7f48-4276-b21c-3dd4c640e470,Headphones,Electronics,"Odonnell, Miranda and Harvey",804.42,10,8517,India,884.86,1pair
+fe741d0d-007f-4218-8df6-9ab2a583ef14,Board Game,Toys,Wright-Steele,81.14,10,9503,Germany,89.25,4each
+63cd71c6-f645-4c9b-b585-21b1dda65c4d,Microwave,Home & Kitchen,"Watson, Williams and Rodriguez",145.52,5,9405,India,152.8,1each
+95077a73-4a62-4663-908b-ed917444f909,Camera,Electronics,"Lopez, Perez and Blake",833.75,10,8517,India,917.13,2each
+dc62319d-5581-4d02-bf54-c731d35ae9f2,Headphones,Electronics,Collier Ltd,1111.2,0,8517,China,1111.2,3pair
+4d334795-ecce-4550-9709-b3681508e06c,Blender,Home & Kitchen,"Bird, Raymond and Hodges",157.58,20,9405,China,189.1,1each
+f1df7780-30a3-49fe-8b20-d5e7de1e97f6,Vacuum Cleaner,Home & Kitchen,Zimmerman and Sons,490.35,10,9405,Mexico,539.39,1each
+98270474-8a3c-4da5-9f90-e673b7e63595,Running Shoes,Sports,Webb-Pitts,290.33,5,9503,USA,304.85,2pair
+9ff88fbc-cd53-457a-8550-a30626e332e9,Smartwatch,Electronics,Graves LLC,623.06,10,8517,USA,685.37,4each
+bd2a1ef1-fd37-4d0d-882a-e062900de06d,Action Figure,Toys,Wallace and Sons,76.64,0,9503,Mexico,76.64,5each
+bd6799ed-a49f-48bf-83ad-d8763b441d08,Dishwasher,Home & Kitchen,"Cabrera, Rodriguez and Hamilton",480.57,10,9405,India,528.63,2each
+b89a9bbe-6120-4e48-a1ea-211b291696ff,Jacket,Apparel,Washington-Rich,260.63,0,6204,USA,260.63,3each
+0784bcf9-87e3-4d46-9d01-bff9ced4bf22,Microwave,Home & Kitchen,Reid Ltd,83.75,10,9405,India,92.13,1each
+2eaa6b48-cc79-4614-bc12-a42dba573d0c,T-shirt,Apparel,Maxwell-Drake,212.94,5,6204,USA,223.59,10each
+e35d807d-7824-4eba-b37e-e7e6307504f1,Bread,Grocery,Garrett Inc,9.48,15,2106,Germany,10.9,2loaf
+2ef56cff-dbc2-487d-b802-5bd3dacf79cf,Bread,Grocery,Morgan PLC,0.95,5,2106,USA,1.0,4loaf
+47aafa6d-15cd-4ed2-a1ec-f1f8356b2459,Eggs,Grocery,Long-Lewis,19.39,20,2106,Germany,23.27,2dozen
+07d9c6eb-d815-47cd-a26c-81ce2a478d71,Jacket,Apparel,Baker Inc,250.67,15,6204,USA,288.27,1each
+73afd2c1-0174-44ea-835c-07ea906edd45,Toy Car,Toys,Spencer PLC,72.18,20,9503,USA,86.62,4each
+9ea8f809-f17b-48f0-a15e-f4e142f66e9f,Blender,Home & Kitchen,Stokes-Long,70.77,0,9405,USA,70.77,3each
+ff08532b-77b0-4c9e-a27b-349a8298ecbd,Puzzle,Toys,"Simon, Howard and Chaney",63.21,0,9503,China,63.21,8each
+cc7ae939-ba03-45d5-9f41-8823022a726a,Sneakers,Apparel,Morales-Buchanan,15.57,10,6204,China,17.13,1pair
+7547e778-423c-4fd3-afa2-5186b2c222da,Running Shoes,Sports,Nguyen PLC,16.3,15,9503,Mexico,18.75,4pair
+5fa49262-be51-45ea-8366-8991ea5d7df2,Doll,Toys,Hicks-Wilson,56.75,20,9503,India,68.1,1each
+81b1fb08-fdfa-432e-a355-d6eb2fb778aa,Laptop,Electronics,Livingston-Campbell,1104.37,20,8517,China,1325.24,3each
+7b523de2-aa57-4b92-a7df-f9081a73625d,Tennis Racket,Sports,"Tucker, Jordan and Mahoney",133.13,5,9503,China,139.79,2each
+11c2dbb0-ceab-4cb3-82f1-9df169b0056b,Baseball Glove,Sports,Brown PLC,22.93,15,9503,Mexico,26.37,1each
+b6e6095f-5d36-4c9f-9584-0fa73f72e168,Jacket,Apparel,"Watkins, Lyons and Williams",16.61,0,6204,Mexico,16.61,4each
+224fb22e-37f3-49c6-bce3-50200c310653,Yoga Mat,Sports,Lopez-Marquez,219.67,0,9503,India,219.67,4each
+53d9e597-20ca-42aa-aca3-350b0971214a,Puzzle,Toys,Webb Group,75.83,5,9503,Germany,79.62,5each
+bb423c5d-8ff8-4831-875d-008c83311a49,Jacket,Apparel,Richards-Thompson,231.06,10,6204,India,254.17,4each
+6e2ca192-b36b-438f-a403-6bb128bd9d5f,Eggs,Grocery,Webb-Reed,11.52,5,2106,USA,12.1,1dozen
+20d6974f-98c5-40dd-a7ba-0c7b8190f6ec,Laptop,Electronics,Reese-Miller,510.42,10,8517,Mexico,561.46,2each
+78483bd5-8e7f-4dc5-8820-870755899bd3,Microwave,Home & Kitchen,Smith Inc,101.5,0,9405,China,101.5,3each
+cc3548b9-bce1-43d5-bace-d8ea56813f26,Toy Car,Toys,Gardner-Collier,76.17,20,9503,USA,91.4,10each
+aa88f4bc-ce14-455a-bad8-e4f65849809d,Sneakers,Apparel,Raymond LLC,286.2,20,6204,Mexico,343.44,5pair
+2a9947e7-a136-44a6-b181-f9f4ff05b979,Sneakers,Apparel,Young PLC,51.19,5,6204,Mexico,53.75,2pair
+644d0d39-0d8a-463a-b348-b4b276fc1660,Smartwatch,Electronics,"Tucker, Marshall and Wilson",1101.5,15,8517,Germany,1266.72,2each
+5df957dd-67a5-4fcc-a17b-3023129f60b9,Baseball Glove,Sports,Mcintyre-Chan,95.86,20,9503,India,115.03,1each
+5f7d2f54-271e-46e5-878b-2e77781e9853,Baseball Glove,Sports,Thompson LLC,84.28,15,9503,India,96.92,2each
+473990e2-f0f9-474a-8512-289f02935909,Bread,Grocery,"Matthews, Henson and King",22.74,20,2106,China,27.29,1loaf
+3daabf3c-8e18-4017-9dd3-c77dfe01f60d,Jacket,Apparel,Duran Ltd,157.32,10,6204,India,173.05,2each
+786a9c16-9558-4551-a25e-f49fbbc4919b,Board Game,Toys,"Williams, Thomas and Harris",78.93,20,9503,Germany,94.72,4each
+07c8973b-1316-41f7-8e44-0bfeb354260f,Eggs,Grocery,Robinson LLC,10.12,0,2106,Mexico,10.12,3dozen
+96e89b48-c530-487e-aa37-acea936c2ddb,Headphones,Electronics,Castillo and Sons,1400.68,20,8517,USA,1680.82,2pair
+5045bc13-481e-42f4-b437-04f47ef93649,Jeans,Apparel,Hines and Sons,139.52,10,6204,China,153.47,2each
+481deb88-2fa1-4bb5-8de9-442d5991d017,Blender,Home & Kitchen,Erickson-Horton,343.8,10,9405,India,378.18,2each
+e8f5416d-2d41-4fe1-b103-94ac4178a84c,Baseball Glove,Sports,"Garcia, Bryant and Hanna",279.82,20,9503,Germany,335.78,3each
+cb274688-4914-485a-95fc-e5ab90908bb4,Laptop,Electronics,"Mann, Holmes and Anderson",1205.2,15,8517,USA,1385.98,3each
+bc08f73c-8ef0-4a96-abec-aaa4c1c5323c,Vacuum Cleaner,Home & Kitchen,Cook LLC,195.44,0,9405,Germany,195.44,1each
+cdf46515-11cf-4b5e-b869-6bf139b7440d,Vacuum Cleaner,Home & Kitchen,"Brooks, Miller and Smith",91.19,0,9405,China,91.19,1each
+57a02cf9-98c5-45d3-8481-847f35448251,Doll,Toys,"Torres, James and Hurley",84.45,10,9503,USA,92.9,3each
+0836775e-5f4b-4d89-b222-0621ba0f448e,Tennis Racket,Sports,Guzman-Hampton,118.35,15,9503,India,136.1,3each
+78a5f739-4d86-4ad1-bc47-333c7109ff13,Microwave,Home & Kitchen,Young PLC,56.18,10,9405,India,61.8,3each
+9d5a3460-1e1b-4008-83f2-da0012352ece,T-shirt,Apparel,Stone Ltd,50.19,10,6204,China,55.21,2each
+62de3617-2385-4a47-b819-fa195a9123d7,Butter,Grocery,"Rogers, Rhodes and Miller",19.66,15,2106,China,22.61,5lb
+41db90bf-f8aa-4d40-b4aa-61cd618333f3,Cheese,Grocery,"Lewis, Anderson and Bennett",13.89,10,2106,Mexico,15.28,1lb
+2884df37-028c-4952-bbb1-691f1d924da4,Toy Car,Toys,"Smith, Jordan and Porter",83.64,20,9503,USA,100.37,2each
+566222fe-832c-45a5-b145-b28ff4dc6b33,Butter,Grocery,"Frank, Rodriguez and Sutton",0.55,20,2106,Germany,0.66,5lb
+6c9edc12-1c72-4248-b089-86877d9acbb5,Running Shoes,Sports,Lee-Ford,297.25,10,9503,USA,326.98,2pair
+86b7b8b9-0623-4457-ac76-9ef74991307e,Microwave,Home & Kitchen,"Curry, Yates and Huang",438.83,20,9405,Germany,526.6,2each
+61f506ee-ed96-451b-b2c6-8922dbc4dfe6,Vacuum Cleaner,Home & Kitchen,Mendez-Schneider,99.36,20,9405,India,119.23,2each
+00ac8b72-f542-4c06-872c-2a10e9cb42ef,Tennis Racket,Sports,Hayes Ltd,230.28,20,9503,Germany,276.34,2each
+3952f598-d4eb-4d97-abec-0ecff55d78d2,Puzzle,Toys,Hart-Ortiz,72.57,20,9503,Mexico,87.08,7each
+3604225a-14c6-4011-846d-b0b931e7eed1,Dishwasher,Home & Kitchen,Delgado-Spencer,21.07,10,9405,USA,23.18,2each
+46da25d8-0b79-498f-980f-8b9749434cb0,Sneakers,Apparel,Webb Inc,205.63,0,6204,Germany,205.63,4pair
+0ef8f6cb-de2c-410c-96e7-e323b746e454,Puzzle,Toys,Fuller-Beasley,15.06,10,9503,India,16.57,4each
+4fb6611a-1e0a-47ed-895e-8ad8d091a847,Microwave,Home & Kitchen,Christensen-Smith,479.26,20,9405,India,575.11,3each
+40b035df-b1b4-45d4-ac06-25e6936206c8,Cheese,Grocery,Carroll-Patterson,14.45,0,2106,China,14.45,3lb
+9b53d6f7-4c38-4e7a-8932-732aa8fdbc2d,Milk,Grocery,Pearson and Sons,2.43,0,2106,Germany,2.43,1.5L
+1ec39e3a-b5a1-4534-b37b-4ddb25005ee6,Tennis Racket,Sports,"Graham, Stone and Sloan",28.33,10,9503,Mexico,31.16,2each
+db244b3e-b6a3-416c-9c03-77af32ee360c,Dress,Apparel,Robinson-Dean,195.44,10,6204,Germany,214.98,4each
+fdcfcbcc-eb28-43f7-8937-be375927de74,Butter,Grocery,Williams PLC,12.97,20,2106,India,15.56,5lb
+5f21a907-02d3-41ca-b6db-6fd4a76535f8,Jacket,Apparel,West-Reilly,92.18,5,6204,Germany,96.79,2each
+def82f0d-8d59-48da-b39e-26d2bdecedfb,Bread,Grocery,Ward and Sons,16.68,15,2106,USA,19.18,4loaf
+45ead21d-01c1-420d-b3c6-18314619bed5,Toy Car,Toys,"Hart, Stevens and Cox",7.59,20,9503,USA,9.11,8each
+2128bd6f-3482-45bf-a17d-dae5a52d2b81,Action Figure,Toys,Bryan Ltd,60.88,20,9503,India,73.06,5each
+3ff798ce-2e71-47c5-b755-88352a3f21ab,Baseball Glove,Sports,Hart PLC,351.75,15,9503,USA,404.51,1each
+a10d70a3-4536-453c-b4a8-38806f0c27fd,Board Game,Toys,Duncan PLC,76.1,5,9503,Germany,79.91,5each
+fd7d65c8-d454-426b-8a30-da8600fc9cfc,Laptop,Electronics,Weaver-Arnold,86.25,15,8517,Germany,99.19,3each
+be52a640-9794-4e43-b607-ae55244ca5ef,Bread,Grocery,Paul-Quinn,22.46,0,2106,USA,22.46,5loaf
+426a7b52-10b1-4123-8e43-92b38438b730,Laptop,Electronics,Travis LLC,574.33,20,8517,USA,689.2,3each
+6f4ab975-7b62-45fe-934e-1cfd5e103a3d,T-shirt,Apparel,"Griffin, Marsh and Collier",242.0,10,6204,USA,266.2,6each
+86d22fb5-588e-419b-9957-fbda9a2b5afd,Yoga Mat,Sports,Reyes-Cunningham,191.39,10,9503,USA,210.53,5each
+b92915fe-25e3-439d-aa78-9451692309a7,Eggs,Grocery,Fields-Harris,10.34,10,2106,Mexico,11.37,3dozen
+8bc5d9cc-6c9b-4b07-bad8-975672f19d5f,Eggs,Grocery,Ayers-Brooks,22.79,20,2106,India,27.35,1dozen
+a59126e9-1485-4786-8bd1-b42ebabd2dcc,Milk,Grocery,Johnson-Reed,3.09,0,2106,Germany,3.09,2.0L
+57f1ba6e-f081-4fd6-a856-c1c244f12293,Doll,Toys,Allen-Melendez,42.14,10,9503,Germany,46.35,2each
+05a8285e-babf-4144-9829-d417fab53a0e,Milk,Grocery,Morrison and Sons,16.01,20,2106,USA,19.21,1.8L
+9aa7b2a3-f17e-4fdf-8c0b-8ff82d9e26b9,Jeans,Apparel,Shelton Inc,84.35,20,6204,India,101.22,2each
+2bde2104-2c60-4c6b-b714-91340cbb60e2,Microwave,Home & Kitchen,"Jones, Burke and Moore",495.7,0,9405,USA,495.7,2each
+dcdb343e-ee75-4f78-9ddf-605567d5f0b2,Sneakers,Apparel,Leonard-King,124.93,10,6204,USA,137.42,3pair
+8c286453-4910-4360-bbd6-732f641aceb2,T-shirt,Apparel,Thompson Ltd,88.08,20,6204,China,105.7,3each
+5100a0f7-5665-4b5b-a689-3e579361c4ac,Doll,Toys,Roberts Ltd,20.29,15,9503,China,23.33,2each
+3f6482a7-8fc0-446a-86c8-f7471565495c,Eggs,Grocery,"Norris, Henry and Payne",14.86,20,2106,Germany,17.83,2dozen
+92c2574c-f235-49ff-8235-eaaabeee9887,Tennis Racket,Sports,Moore Ltd,157.52,10,9503,Mexico,173.27,2each
+ea09c688-66d9-49c1-85e5-55fe7b50cc15,Milk,Grocery,Hunt-Smith,11.52,20,2106,Mexico,13.82,1.7L
+adc8eb27-6d2e-45d4-ab6f-7a037cb2c744,Dress,Apparel,Smith PLC,88.62,0,6204,Germany,88.62,5each
+b20a2263-58cd-4f0e-ad8b-d6255ff5e3f4,Laptop,Electronics,Boyd-Campbell,63.47,0,8517,Mexico,63.47,1each
+77f2ab42-4b46-4392-ba69-5b87b818872c,Jacket,Apparel,"Hall, Munoz and Baker",132.26,20,6204,Germany,158.71,5each
+8fe5b5c9-732b-4b50-b6df-00b34538b12c,Puzzle,Toys,"Ortiz, Wu and Jones",60.33,5,9503,Germany,63.35,5each
+003f6ab6-1e83-49bc-826d-493c01c15850,Sneakers,Apparel,Reese LLC,112.52,0,6204,China,112.52,1pair
+bdccc301-f9e7-4293-b71c-3508a3a9a413,Puzzle,Toys,"Evans, Riley and Haynes",91.84,0,9503,USA,91.84,7each
+4ff792e0-da2b-4750-a25f-a857a9c8ef0c,T-shirt,Apparel,"Anderson, Wells and Pitts",183.45,10,6204,India,201.8,5each
+81138f39-1608-4ac4-848c-89e96f70efe0,Headphones,Electronics,Valdez Inc,719.92,10,8517,India,791.91,3pair
+057005df-fa15-4ae3-8d50-98ec8bd46796,Soccer Ball,Sports,Mason-Wiggins,250.69,20,9503,China,300.83,5each
+f8a1451f-cac6-40d9-8d21-1de8cce78c59,Jacket,Apparel,Vargas Group,260.01,5,6204,China,273.01,1each
+ca4f0b9c-84bb-40f6-9c60-36417acdf7d5,Dress,Apparel,Schwartz-Williams,274.56,15,6204,USA,315.74,4each
+566d3568-746f-4d1a-a0d8-48996e49b268,Headphones,Electronics,Contreras-Wu,607.11,20,8517,China,728.53,2pair
+7bede459-7479-42a3-ac09-56c87d2edf73,Toy Car,Toys,Santiago Group,75.43,15,9503,China,86.74,7each
+59aa93be-7f68-4520-927a-07aa0dafdc39,Jeans,Apparel,"Oconnell, Rodriguez and Johnson",19.27,15,6204,China,22.16,5each
+ef767f18-8985-4af6-adbb-96eaca9470b2,Dishwasher,Home & Kitchen,"White, Murphy and Krause",22.53,10,9405,India,24.78,2each
+2b839209-4bae-4f64-b1d2-6960a494dd13,Blender,Home & Kitchen,Mayer Inc,45.78,20,9405,Mexico,54.94,3each
+5b9cc9fc-d17c-4891-a11e-c771c5cc6854,Smartphone,Electronics,Callahan LLC,1296.96,20,8517,USA,1556.35,4each
+045685bd-c229-4ffa-a0c5-f529dbb2b2b8,Cheese,Grocery,"Cummings, Gray and Elliott",13.11,15,2106,Mexico,15.08,2lb
+48eedcae-d3be-4c5e-96c5-2c3f974e3d51,Butter,Grocery,Kane PLC,21.1,5,2106,India,22.16,1lb
+b90ca9cb-39e8-4cf4-9606-182549885aee,Jeans,Apparel,"Waters, Lara and Grant",245.74,5,6204,Germany,258.03,2each
+d978f790-e568-4dc8-bd13-50fbab29b59f,Puzzle,Toys,Johnson Group,30.2,5,9503,USA,31.71,6each
+7a013e3b-c716-4c57-a561-a8873c51e473,Microwave,Home & Kitchen,Wang Ltd,252.61,5,9405,Germany,265.24,3each
+47a5649a-bbea-4781-b8ae-a4d44ec6e302,Running Shoes,Sports,Parker LLC,353.27,15,9503,USA,406.26,3pair
+b671853f-56cc-49cf-90a2-7938e27c1fdc,Eggs,Grocery,Tran-Stevenson,1.38,10,2106,India,1.52,3dozen
+e88d5d42-060a-4419-ae6c-9f1d8b531f96,Running Shoes,Sports,Reyes-Barnes,65.04,15,9503,USA,74.8,3pair
+c857319a-7987-41b5-97f4-1e3a9c3bce09,Blender,Home & Kitchen,Rice-Chen,406.81,5,9405,Mexico,427.15,1each
+5ce2e142-790a-4e3f-8aee-afe78d3da03e,Microwave,Home & Kitchen,Cobb-Castillo,409.92,20,9405,India,491.9,2each
+ad5c8269-bd50-4ef3-8c50-7d6c4dd0a2ef,Board Game,Toys,Aguilar Group,34.47,20,9503,India,41.36,3each
+0b5b0d91-b674-4a93-ae1a-ba954797f33e,Toy Car,Toys,"Paul, Barber and Smith",17.32,15,9503,India,19.92,5each
+59a41e56-7adb-4c73-bb6a-d9e2e07a9f62,Laptop,Electronics,Brock PLC,1344.5,15,8517,USA,1546.17,1each
+89bf0c4c-3596-492b-908e-04b254b96c94,Microwave,Home & Kitchen,Brown Group,316.42,0,9405,USA,316.42,1each
+b92207b4-91fd-4451-8d04-458d06aa2c36,Tennis Racket,Sports,Rivera-Flowers,176.86,0,9503,India,176.86,3each
+b10273b9-33ef-464b-ac64-913c788f8984,Sneakers,Apparel,Fields-Nunez,254.07,20,6204,Germany,304.88,3pair
+c12b4666-40d8-41b0-b344-dc93d77cee1a,Smartwatch,Electronics,Burns-Conley,303.83,0,8517,Germany,303.83,4each
+7aa355d7-eaf5-42ba-978a-c9e15423661a,Butter,Grocery,May Group,22.3,0,2106,Germany,22.3,4lb
+2aab6878-48e5-4d91-8966-3207ce63167d,Butter,Grocery,Morris-Brock,23.61,0,2106,India,23.61,4lb
+d45fae11-8872-4368-b24a-892d8f9e7df0,Camera,Electronics,"Baker, Salazar and Mejia",254.21,10,8517,India,279.63,2each
+c4fc0bb8-61bd-4c74-aae0-3b5272505e78,Milk,Grocery,Brown-Woodard,15.83,20,2106,Germany,19.0,1.3L
+7352aacf-40e5-4195-bffb-06693af2c191,Yoga Mat,Sports,"Aguilar, Garcia and Alexander",98.9,20,9503,China,118.68,1each
+a2f634a5-c4f4-496c-8485-80d156cbc475,Milk,Grocery,Brown-Juarez,21.55,15,2106,USA,24.78,0.6L
+953ee30a-7324-46c4-9870-de9bc23312c8,Doll,Toys,Rodriguez LLC,19.62,15,9503,China,22.56,3each
+cfe72e63-03e3-450a-8cc9-35072eaa2269,Jacket,Apparel,"Brown, Cline and Harris",269.34,15,6204,Mexico,309.74,2each
+02d3f428-2e71-4285-9d0c-8d27fa9cecf4,Butter,Grocery,Harris-Weber,21.15,10,2106,Mexico,23.27,2lb
+f655029f-dabe-4297-81db-5d3fab9b04e4,Soccer Ball,Sports,Murphy PLC,188.84,15,9503,Mexico,217.17,5each
+fb206c5a-6123-42a5-8e63-cfec9547e479,Smartphone,Electronics,"Hernandez, Williams and Bowman",966.52,15,8517,China,1111.5,5each
+70a32292-10c1-4946-91a7-4c5e2f4051ee,Jacket,Apparel,Becker and Sons,208.91,5,6204,Germany,219.36,2each
+0dcdfa1b-9205-4a24-a6ae-d71757b07c64,Microwave,Home & Kitchen,Johnson Ltd,297.82,10,9405,India,327.6,1each
+9bc7aeae-8544-4252-8afe-56dc5305aca3,Jeans,Apparel,Green-Stephens,181.62,20,6204,Germany,217.94,1each
+e2aebc25-2b70-4e93-8cf6-42e01027fc02,Jeans,Apparel,Bartlett LLC,278.23,10,6204,India,306.05,2each
+944a61ed-37a6-469e-aa6d-3d0fce3aab2a,Smartwatch,Electronics,"Alexander, Diaz and Ewing",1209.62,20,8517,India,1451.54,2each
+d997d02f-9402-45d0-9758-e68498e40d19,Blender,Home & Kitchen,Singh Ltd,157.28,0,9405,China,157.28,2each
+f2c45324-6bf7-4b67-bb30-b26550e17a4a,Running Shoes,Sports,Ford-Lee,295.7,5,9503,India,310.49,1pair
+d2a1676f-c765-47ab-9e10-d2831066079f,Puzzle,Toys,"Lee, Cabrera and Bradley",62.75,20,9503,USA,75.3,1each
+2964efba-4948-4e80-b80f-c6e63999c891,Headphones,Electronics,Gomez PLC,304.04,10,8517,Mexico,334.44,3pair
+b9daf790-a5c4-48a8-9ee4-32315c588f15,Smartphone,Electronics,Freeman LLC,1369.72,10,8517,USA,1506.69,2each
+1eeea706-09b0-4b4d-8c3b-02aa60c649c9,Coffee Maker,Home & Kitchen,Reilly PLC,390.29,20,9405,China,468.35,2each
+557d06dd-a098-4a28-8909-90bbbce1fc76,Butter,Grocery,Thomas-Becker,16.88,20,2106,USA,20.26,5lb
+6b4688ef-d0d2-4ef6-9df5-0e22bfbddb6b,Baseball Glove,Sports,Anderson Ltd,50.55,15,9503,China,58.13,3each
+1abdf36c-44f8-48d1-896a-ac666423e3b6,Board Game,Toys,Ball Group,32.41,10,9503,Germany,35.65,4each
+fa6ab84f-e9e6-42d5-b6ce-68b79365ec79,Camera,Electronics,Manning PLC,1414.52,15,8517,China,1626.7,2each
+6bc2530a-ff44-49c3-8c79-2179adad8273,Doll,Toys,Allen and Sons,42.39,20,9503,Germany,50.87,5each
+90b1d5d3-ed8d-4127-a175-7a3e3402e72b,Dress,Apparel,Brown-Browning,255.66,10,6204,India,281.23,2each
+d2e6a50f-3590-4844-a254-f8de8f5c83aa,Jacket,Apparel,"Delacruz, Harris and Sanford",124.1,15,6204,Mexico,142.71,5each
+da45c3ff-b2f7-4725-baff-ba9c6a588baa,T-shirt,Apparel,Williams LLC,102.31,5,6204,India,107.43,1each
+a550b8a3-d740-4acf-bfd1-746a13d7f9af,Tennis Racket,Sports,Goodwin-Conrad,287.32,0,9503,China,287.32,2each
+bc194fae-8d0a-45ce-aeba-6bfffe512829,Toy Car,Toys,"Reeves, Garcia and Curtis",21.86,10,9503,China,24.05,4each
+544fcf7b-d577-4922-b451-48e3d519b34a,Blender,Home & Kitchen,"Walker, Long and Pham",334.98,15,9405,Germany,385.23,1each
+d04d5e86-4bd8-4176-a4d6-32d5c5aace68,Dress,Apparel,"Robinson, Matthews and Hart",51.79,20,6204,Germany,62.15,2each
+cd3c8206-bdde-44da-a940-e8f529a6ba40,Vacuum Cleaner,Home & Kitchen,"Haynes, Tucker and Hill",339.25,5,9405,China,356.21,2each
+f35b0c50-6151-4e26-b4e4-948ac19c3f51,Smartphone,Electronics,Hill-Burnett,1245.09,5,8517,Mexico,1307.34,4each
+93ff7e4a-4f1e-4653-9742-0165ec3152c0,Tennis Racket,Sports,Smith and Sons,272.98,20,9503,China,327.58,1each
+5a3821bb-5faa-42a2-9a9a-4f9428e62675,Running Shoes,Sports,Erickson-Underwood,294.18,20,9503,Mexico,353.02,3pair
+ea982894-de7a-4360-a489-bfab926f8a7e,Doll,Toys,Duncan Ltd,87.91,0,9503,China,87.91,5each
+a1c18448-d5ce-48e1-a69b-fbb2b6ea3c0c,Cheese,Grocery,Velasquez-Lucas,7.9,15,2106,Mexico,9.08,2lb
+162af343-6827-4bf4-90d3-78de595f8a6f,Action Figure,Toys,Wallace Inc,49.88,0,9503,USA,49.88,5each
+69e92163-41cc-4ffd-8b3e-95681edd1767,Blender,Home & Kitchen,"Garner, Davis and Smith",289.34,10,9405,USA,318.27,1each
+cf3ca224-497b-4ceb-baf8-03cca050512a,Dress,Apparel,"Anderson, Beck and Delgado",207.12,0,6204,Mexico,207.12,2each
+3fa1b3fb-b8d7-42a7-8f85-27da5674ae5e,Puzzle,Toys,"Mccarthy, Greer and Davis",12.58,10,9503,Mexico,13.84,1each
+81b410c1-e4f1-4042-b7ff-9eb80a8ac14f,Toy Car,Toys,Sheppard-Lewis,65.48,10,9503,India,72.03,5each
+2079abfe-d850-48c9-b1e7-e2e880d1dccc,Action Figure,Toys,Martinez Inc,17.97,0,9503,USA,17.97,7each
+2340eb38-805f-4e3f-ad91-268792396b3c,Toy Car,Toys,Vasquez PLC,71.34,0,9503,Mexico,71.34,7each
+b885d6a4-ac29-4f1a-8994-9b49181e3d5e,Yoga Mat,Sports,Bates-Guerra,234.89,10,9503,Mexico,258.38,3each
+a8d9b2ad-543c-486f-9cb1-39947c05abca,Action Figure,Toys,"Smith, Lane and Haas",27.02,5,9503,China,28.37,9each
+d8389736-9ce3-4a2e-9c60-51f8607b3fc1,Microwave,Home & Kitchen,"Bean, Brandt and Jackson",68.29,5,9405,China,71.7,1each
+64518ae1-644b-4e07-97f3-7f9181c033d3,Vacuum Cleaner,Home & Kitchen,"Reynolds, Lewis and Davidson",413.77,10,9405,India,455.15,2each
+c2e75782-b605-4866-bfe4-906029bbaf55,Eggs,Grocery,"Blake, Mills and Randall",16.83,15,2106,USA,19.35,1dozen
+3ebdb408-d61e-4149-845c-2fde31a1ecd2,Microwave,Home & Kitchen,Stephens LLC,57.29,5,9405,Germany,60.15,1each
+2b737207-82de-454f-8b0f-ba85053c0c25,Coffee Maker,Home & Kitchen,"Ortiz, Wilson and Wood",488.46,0,9405,Germany,488.46,2each
+4663d77f-5372-447a-bee4-4c9d10500099,Dishwasher,Home & Kitchen,Morgan PLC,231.54,20,9405,China,277.85,2each
+06514a14-a5c2-41c0-9d3f-c8e133629c6c,Action Figure,Toys,Franco Ltd,64.6,10,9503,USA,71.06,2each
+cae75d50-b655-49d2-ad50-6ace31fd7c51,Smartphone,Electronics,"Snow, Reynolds and Shaw",1053.59,0,8517,China,1053.59,3each
+f46a47d7-e6ef-44b6-9f22-35a649daedb8,Soccer Ball,Sports,Woods and Sons,85.87,5,9503,Germany,90.16,2each
+ea827f49-01aa-4c60-b37a-d9f125ea9b96,Doll,Toys,"Jimenez, Richardson and Wood",39.28,20,9503,USA,47.14,5each
+7a91b511-2e09-4bbb-a4ef-fc710fd226dc,Cheese,Grocery,"Mcclure, Bowen and Hudson",10.18,0,2106,Germany,10.18,5lb
+3f349050-a39d-4a22-bbe5-41642e30d9b8,Soccer Ball,Sports,Stevens Group,154.16,15,9503,Mexico,177.28,1each
+636c5e71-57e9-4278-b57d-e78b4cfbf5bf,Eggs,Grocery,Watson LLC,21.34,20,2106,Germany,25.61,1dozen
+dd718686-b67f-492a-9a2c-29528b7dba4e,Running Shoes,Sports,Reyes Inc,280.36,0,9503,India,280.36,4pair
+fe1a882b-48ec-450b-a6fb-12e7ddd2acb9,Puzzle,Toys,Bridges PLC,30.05,15,9503,India,34.56,5each
+7690a09c-c363-42c8-b86e-6e9b6f8f5f93,Cheese,Grocery,"Adams, Ortiz and Cook",1.49,15,2106,Mexico,1.71,3lb
+dc0a9493-0600-42f3-a6aa-9b1e1f317fc8,Headphones,Electronics,"Petty, Stokes and Collins",1217.45,20,8517,Mexico,1460.94,2pair
+7e75cfde-7ae8-4e51-af7e-21461d2da248,Butter,Grocery,Campbell Ltd,10.93,20,2106,Mexico,13.12,5lb
+e8997ae6-658c-4ba3-87af-1f726bc3da42,Yoga Mat,Sports,Green PLC,43.08,5,9503,USA,45.23,3each
+bc435152-78aa-4df3-9d7b-4b842f8dd3d5,Blender,Home & Kitchen,Miller Group,200.76,10,9405,India,220.84,1each
+8f3e2e39-f7d9-49c7-ba9c-acc0be4a1efd,Toy Car,Toys,Martinez Group,29.85,15,9503,India,34.33,9each
+fcf60f21-43be-4140-82d5-9fbb4dfcc0b2,Laptop,Electronics,"Diaz, Moran and Brown",812.76,5,8517,China,853.4,2each
+dd95038c-28f1-4ee1-a1c0-cb11fd5c0851,Soccer Ball,Sports,Kim-Byrd,118.52,5,9503,Mexico,124.45,4each
+63cfc067-0002-46f2-8660-512c4b4c04c7,T-shirt,Apparel,Rice Ltd,124.05,15,6204,Mexico,142.66,6each
+94791b38-3924-43ae-b8a1-2800bf4bcc9a,Toy Car,Toys,"Kim, Dean and Williams",99.58,20,9503,Mexico,119.5,9each
+932be788-4d08-42ca-bd23-474f8716767a,Camera,Electronics,Perez-Quinn,86.03,20,8517,China,103.24,3each
+345331fb-ebe7-42b0-bb9e-6b7c448e3740,Coffee Maker,Home & Kitchen,Daniels Inc,226.42,0,9405,Germany,226.42,2each
+24175c31-36a4-4a14-b407-5caf7f20f59c,Jeans,Apparel,Evans Group,61.25,5,6204,Germany,64.31,2each
+b1ec5788-3071-4904-955f-33694977e75c,Puzzle,Toys,"Ruiz, Scott and Thomas",61.85,5,9503,India,64.94,10each
+1dea5cfc-f898-4745-8e83-492312c8cc5f,T-shirt,Apparel,"Cook, Eaton and Gonzalez",239.71,5,6204,India,251.7,4each
+e1af1a10-beee-45dd-829e-a1fc70a33493,Blender,Home & Kitchen,Simmons Group,74.79,20,9405,Mexico,89.75,2each
+f38cb3bf-1257-45bd-afe1-d820f82269e6,Board Game,Toys,"Gay, Phillips and Hernandez",45.06,10,9503,Mexico,49.57,5each
+43a4feb9-8f78-4e35-9cba-38421b298f00,Yoga Mat,Sports,"Smith, Hernandez and Allen",196.55,20,9503,India,235.86,3each
+ee74c75c-148b-4505-8f4b-4b4dbcc89060,Board Game,Toys,Moyer-Simmons,68.1,10,9503,China,74.91,3each
+58472af8-408c-4609-9fe2-64d3e6477924,Microwave,Home & Kitchen,Peterson-Kidd,84.06,5,9405,India,88.26,2each
+715ba52a-fe8b-4bf9-94c3-de9a52965ea5,Toy Car,Toys,Mathews LLC,29.01,0,9503,Germany,29.01,8each
+ffc06d44-ecd3-4373-a1ec-3a8adad67a83,Dress,Apparel,Miller Ltd,79.75,15,6204,India,91.71,1each
+fb47e8c1-28a3-4111-983f-20a4cd65a38e,Bread,Grocery,Jones-Glass,12.21,15,2106,Mexico,14.04,4loaf
+885780ad-fb5c-4a71-83c7-4a8af66da5c5,Blender,Home & Kitchen,"Haney, Thompson and Murphy",82.8,5,9405,USA,86.94,3each
+3337dee8-f4ff-4f8b-9990-f644f6a6b94f,Cheese,Grocery,Jackson-Sanders,11.49,10,2106,India,12.64,5lb
+663fbe7e-bdd3-49a7-97eb-e88565e87b5c,Yoga Mat,Sports,"Matthews, Patterson and Hicks",374.41,5,9503,USA,393.13,5each
+12726a57-161b-49e3-b18f-a253df899ff1,Cheese,Grocery,"Bautista, Thomas and Chan",9.52,20,2106,USA,11.42,5lb
+efd967e7-1f5b-4aa8-a44d-2c7dc48bc324,Doll,Toys,"Kennedy, Huerta and Stevens",74.81,10,9503,China,82.29,5each
+09cce847-0747-4fce-876e-00ce425be14f,T-shirt,Apparel,Cox LLC,254.72,20,6204,China,305.66,3each
+dd511c4d-1487-4427-afd9-e43cf9112064,Microwave,Home & Kitchen,Medina-Ferguson,136.08,0,9405,Mexico,136.08,2each
+e5e2351f-1461-4001-9db2-062bc38ee374,Coffee Maker,Home & Kitchen,"Ramsey, Shea and Franco",465.78,5,9405,Germany,489.07,3each
+8d0f7f79-2213-4b71-baee-3a5ec799db5d,Laptop,Electronics,"Roth, Sawyer and Price",779.27,10,8517,Germany,857.2,1each
+f7f2e033-64af-42c2-b608-fa257cbfb6db,Butter,Grocery,Baxter-Cannon,24.21,15,2106,Mexico,27.84,2lb
+aa823799-54bf-48cd-9c41-43d864e10bee,Tennis Racket,Sports,Ramos-Harris,202.2,10,9503,Mexico,222.42,1each
+955212f1-c2e7-4d33-b37e-e7ea42b2f1d6,Action Figure,Toys,"Underwood, Allen and Morris",45.66,0,9503,USA,45.66,3each
+752363b1-381d-4cb7-abfe-77d5d18fbaf3,Dress,Apparel,Raymond Inc,221.08,0,6204,USA,221.08,5each
+9c8a341a-0724-4e24-bb18-5c89078a6ac4,Cheese,Grocery,"Navarro, Blair and Mitchell",11.54,15,2106,USA,13.27,3lb
+99fc0bd7-68d3-4d0b-9eae-b729b12c3b1a,Cheese,Grocery,Keith Inc,14.82,15,2106,Mexico,17.04,1lb
+0baad76f-5a27-41a9-9d7d-ea1e41875136,Tennis Racket,Sports,Norris Inc,223.97,0,9503,USA,223.97,3each
+44d1f5a2-09fd-421b-8523-b4babb241192,Tennis Racket,Sports,Green-Castillo,71.15,0,9503,Mexico,71.15,3each
+384f456d-3cc1-497c-a468-0786bf2fd37c,Headphones,Electronics,Cook Group,172.16,5,8517,Germany,180.77,2pair
+4e789a76-2125-4d00-99ee-ab0ba5388f2b,Butter,Grocery,"Chase, Robertson and Petersen",9.32,10,2106,China,10.25,2lb
+96abbec6-dd01-4393-b4fb-685b8ec57890,Laptop,Electronics,Vasquez PLC,124.22,20,8517,Germany,149.06,3each
+c85580f1-cb01-4b1a-a481-b045e97b2e21,Running Shoes,Sports,"Lee, Smith and Green",127.02,20,9503,India,152.42,3pair
+9aab0c35-047d-447a-bdb3-85183e8b14c5,Coffee Maker,Home & Kitchen,"Ross, Maddox and Wilson",425.45,15,9405,USA,489.27,2each
+8b25753c-8434-494c-a914-87efdbf62767,Laptop,Electronics,Dickson-Henderson,736.69,0,8517,China,736.69,2each
+ef982a0d-d0a7-46bc-8618-fcc3f55987b0,Puzzle,Toys,"Long, Baker and Jones",99.84,0,9503,USA,99.84,4each
+aac3b943-7d3f-4929-8c44-f8e73b99eb9b,Puzzle,Toys,"Matthews, Hart and Smith",11.61,20,9503,India,13.93,2each
+3ba97160-d8f3-412f-aba2-bb2c0f973b6b,Action Figure,Toys,Faulkner-Schwartz,36.85,20,9503,India,44.22,9each
+e46baeb6-e32c-4f41-8865-d88a342b0221,Baseball Glove,Sports,Kelly and Sons,193.12,0,9503,Germany,193.12,3each
+ad72c6ce-572a-44c4-aa6f-3d9e41a63eaa,Smartphone,Electronics,"Evans, Herring and Hall",779.34,10,8517,USA,857.27,1each
+68cdcebd-4e17-4eec-b957-2ceb211a6529,Eggs,Grocery,"Smith, Jones and Singleton",17.22,20,2106,China,20.66,1dozen
+75a40019-aedd-4bef-be46-0475b40bab79,Vacuum Cleaner,Home & Kitchen,Thompson Inc,477.46,5,9405,Mexico,501.33,2each
+4c1024e5-6a95-44e2-95af-c41e6a3334dc,Eggs,Grocery,"Owens, Sanders and Miller",12.96,5,2106,India,13.61,1dozen
+ef251499-5ef7-408c-859a-7dd519c34094,Action Figure,Toys,Price Ltd,63.69,10,9503,Germany,70.06,1each
+d4b00953-9a36-4f0f-8897-4d1246e60f42,Baseball Glove,Sports,Williams and Sons,302.94,15,9503,Germany,348.38,3each
+0a09639f-9dc6-419d-8ac1-4506d2e7b9ec,Cheese,Grocery,Arnold Group,12.66,20,2106,USA,15.19,5lb
+fd50180c-db5c-467f-8a72-4164ca649be3,Jacket,Apparel,Myers and Sons,210.76,5,6204,China,221.3,5each
+33d5fdd1-a700-41ee-bbb6-a770bbd49c44,Microwave,Home & Kitchen,Smith-Frederick,460.69,15,9405,Mexico,529.79,2each
+e94fb3fb-a314-4f06-afcf-f1f1d944f630,Dishwasher,Home & Kitchen,Spencer-Jacobson,140.55,10,9405,USA,154.61,1each
+b0a0c838-6101-4986-aeb0-4bdc36a5c41a,Toy Car,Toys,Velazquez Inc,81.37,0,9503,USA,81.37,3each
+404669f9-e032-457f-93d2-4f50c63fb8d0,Yoga Mat,Sports,Boyd PLC,78.22,15,9503,China,89.95,3each
+4d71b1ae-fede-4894-8258-1b680003c85a,Dress,Apparel,Clark LLC,281.87,5,6204,USA,295.96,5each
+4c852c3a-d1d0-474a-909a-fc5248d53c57,Sneakers,Apparel,Gibson PLC,60.1,0,6204,USA,60.1,4pair
+eb8f5ace-42a6-4032-b36b-72a2adc0b8a3,Smartwatch,Electronics,George Ltd,501.54,0,8517,China,501.54,2each
+c7182419-af82-498d-ba0b-c441b35f17ed,Headphones,Electronics,"Perez, Wolf and Hicks",131.39,15,8517,Germany,151.1,3pair
+db264f59-a47a-4552-a22a-98dcb1cc03e3,Action Figure,Toys,"Crawford, Baxter and Flores",68.93,10,9503,China,75.82,7each
+09aabee8-9b4d-404d-baa9-7e40418c8c98,Baseball Glove,Sports,Reese Group,134.24,10,9503,Mexico,147.66,1each
+56aa7350-3238-46ca-b3ed-7ace11338dfb,Sneakers,Apparel,"Williams, Jones and Murray",158.88,0,6204,Germany,158.88,3pair
+4348baf2-91c3-402d-9337-e006630eb1f9,Coffee Maker,Home & Kitchen,Meyers-Lee,343.52,10,9405,USA,377.87,3each
+2bc3e8d8-3123-46c2-af00-5ad37a55d8dd,Baseball Glove,Sports,Hutchinson LLC,340.77,5,9503,India,357.81,1each
+43b2d82e-25d0-4460-89fb-dc65d3aa0250,Running Shoes,Sports,Clark-Shepherd,314.21,10,9503,USA,345.63,1pair
+42967afe-e435-4fdd-9031-bb2341c336e3,T-shirt,Apparel,Robinson Group,189.91,5,6204,India,199.41,8each
+ef1b488b-521a-4c39-93c0-b462dd125b44,Toy Car,Toys,Scott Ltd,58.07,15,9503,Mexico,66.78,1each
+4e1bad02-f4f6-423f-b052-f4988ca82b3e,Smartwatch,Electronics,"Underwood, Houston and Proctor",403.87,5,8517,India,424.06,1each
+ce93d043-4594-4f83-96ab-220bdf398467,Soccer Ball,Sports,"Steele, Banks and Robinson",89.17,15,9503,India,102.55,2each
+e426f52a-2e91-4124-b875-82d01c64bbc1,Yoga Mat,Sports,Dodson Group,52.89,10,9503,China,58.18,1each
+ec491aaa-b60c-41a3-b38c-8d4fa7de4e83,Camera,Electronics,Rivera-Mcdonald,1066.39,15,8517,Germany,1226.35,2each
+d82472c2-1b82-4bd1-9fbb-99fd5cce441c,Puzzle,Toys,"Mathews, Farmer and Barrett",43.18,20,9503,Mexico,51.82,8each
+593af54e-25a6-49e1-a118-32c847b65897,Milk,Grocery,Jones-Hopkins,17.34,15,2106,USA,19.94,0.9L
+85a08953-7ff0-4c4a-9d4a-8ec859068436,Action Figure,Toys,"Baker, Gutierrez and Baker",87.54,20,9503,China,105.05,8each
+37877fc2-d1c6-41cf-bc52-a6b5d6bc871b,Puzzle,Toys,"Banks, White and Olsen",75.68,0,9503,Mexico,75.68,4each
+270b3c2e-f669-4079-9056-004c5951b469,Jacket,Apparel,"Moore, Taylor and Park",299.08,5,6204,USA,314.03,2each
+4af83f74-dab2-481e-b77a-2737ac9ecc93,Smartphone,Electronics,Roberts Group,1064.4,20,8517,Germany,1277.28,5each
+430f4e28-8bf5-4c09-bf34-d2e2579854fc,Butter,Grocery,"Patrick, Smith and Taylor",21.27,10,2106,China,23.4,2lb
+be9d6c44-45f4-4d6b-8cd1-f67d297b9eec,Headphones,Electronics,Mclaughlin-Gilmore,566.92,5,8517,Mexico,595.27,1pair
+f311fe5d-1635-4249-be59-31f9c03af249,Blender,Home & Kitchen,Thompson Group,189.66,10,9405,China,208.63,2each
+6d6ce27b-33b5-4e4a-b322-42d94da1c0c0,Milk,Grocery,"Anderson, Young and Fischer",15.07,20,2106,China,18.08,1.7L
+3773a5e8-7491-4d7c-8551-943210bbcd06,Camera,Electronics,Hall-Chavez,902.73,10,8517,Germany,993.0,3each
+2205e930-1af3-4e1e-a32b-b7283542e6eb,Cheese,Grocery,"Butler, Ellis and Hill",21.45,0,2106,India,21.45,4lb
+86b683f0-21d1-446c-a601-f17a3615fdc3,Soccer Ball,Sports,"Reed, Walker and Lee",340.15,20,9503,China,408.18,4each
+36f7432e-150f-4f3e-946a-fd2cef478e95,Milk,Grocery,Day Inc,6.45,20,2106,Mexico,7.74,0.9L
+6546076d-b203-441c-beb1-2874541631a0,T-shirt,Apparel,"Lawrence, Heath and Moore",76.85,10,6204,India,84.53,4each
+609e278b-f507-42d1-935a-e7ecd1e2b26e,Sneakers,Apparel,Lopez and Sons,288.31,10,6204,China,317.14,5pair
+eb0c0728-50f5-4e49-a70d-e5a36e2c1b93,Sneakers,Apparel,Sherman Group,94.63,15,6204,India,108.82,3pair
+60e9d256-e4dd-444d-8273-02cd8f0b84fa,Eggs,Grocery,"Watson, Lawrence and Robinson",13.35,15,2106,China,15.35,3dozen
+7952f797-a26b-4b82-a368-c8e42db6c03d,Sneakers,Apparel,Roberts Group,196.66,5,6204,India,206.49,4pair
+27dbe5ea-664b-4337-a4c9-a18d821365a1,Soccer Ball,Sports,"Mendez, Khan and Marsh",84.77,0,9503,India,84.77,3each
+d058b93f-90d4-43cf-b453-db863d4a52c0,Baseball Glove,Sports,Wallace-Li,186.74,5,9503,USA,196.08,3each
+cfa9c189-1af9-4ba0-932c-ec13626c2d42,Sneakers,Apparel,"Schultz, Mooney and Vincent",262.71,10,6204,Germany,288.98,3pair
+2b81cc78-7e22-41b9-8710-ec87a929aac3,Smartphone,Electronics,Zavala-Green,239.87,10,8517,USA,263.86,2each
+e37c8b67-d9dc-4794-9883-982451f08522,Toy Car,Toys,Smith PLC,18.48,20,9503,USA,22.18,9each
+fee0d2a0-d32d-484f-aa85-4105fd73be39,Smartwatch,Electronics,Delgado-Sanders,915.54,15,8517,USA,1052.87,2each
+a47f651c-607f-4e13-8ee5-83b599e5836a,Running Shoes,Sports,"Aguilar, Lee and Mack",46.32,20,9503,Germany,55.58,3pair
+c744f896-73a7-4e93-93a7-87330230e34e,Baseball Glove,Sports,"George, Johnston and Smith",171.95,10,9503,China,189.15,1each
+51a569a8-0fa2-43e7-a109-7ae57f89d122,Sneakers,Apparel,"Villarreal, Shaffer and Martinez",79.24,0,6204,China,79.24,1pair
+122fad70-d011-4ced-be8f-cd4b06279ebb,T-shirt,Apparel,Myers-Mcdowell,101.48,5,6204,India,106.55,5each
+ec1d2ea9-58fb-4a26-9fb0-d271e44f68d7,Jeans,Apparel,"Charles, Nunez and Thomas",264.29,20,6204,Germany,317.15,4each
+e1c5d8d9-c153-4d1a-a9e4-6dd2c8e774aa,Tennis Racket,Sports,Mason-Burns,345.54,20,9503,China,414.65,2each
+d6cd194f-fa15-4b83-bc40-6f0c679e35f5,Dress,Apparel,"Harrison, Perez and Whitney",221.95,10,6204,Mexico,244.15,2each
+c476f578-d2dc-4cf4-b663-f5aa449c4365,Action Figure,Toys,"Fleming, Dixon and Macdonald",73.62,0,9503,Mexico,73.62,8each
+8580407b-4bc6-453f-831c-68d97a29fe48,Smartphone,Electronics,Williams-Curry,473.25,15,8517,Germany,544.24,3each
+92718c4a-b0f7-45d1-beb2-f275ec4f284a,Dishwasher,Home & Kitchen,"Irwin, Benitez and Curry",133.94,15,9405,USA,154.03,1each
+f2f9817d-3ef7-4f3a-a6a1-fbe4b541d85a,Microwave,Home & Kitchen,Jones Ltd,379.13,15,9405,Germany,436.0,3each
+5c0fe09f-dc48-487f-9d5c-49ea131999d8,Smartphone,Electronics,Glover Inc,342.71,20,8517,India,411.25,3each
+ed7433d3-db09-4082-adaa-b6d03c3dd34d,Tennis Racket,Sports,Gutierrez LLC,275.92,15,9503,India,317.31,1each
+eb8b7b90-77a9-437d-80dc-cf4f382404fa,Laptop,Electronics,Smith-Espinoza,809.47,15,8517,USA,930.89,2each
+127ea7b5-e7e3-4526-8f7c-7718ab2bb13e,Toy Car,Toys,"Velazquez, Wells and Lynn",77.56,15,9503,Mexico,89.19,9each
+675b9830-d4ac-4f0f-83c6-2ac2aca852a3,Laptop,Electronics,"Davis, Williams and Mendez",768.94,0,8517,Germany,768.94,2each
+b4e35b3e-3897-4e3f-af1c-889c96dcbf15,Blender,Home & Kitchen,Webb LLC,326.85,0,9405,Mexico,326.85,1each
+b38ed722-759f-4e76-bbde-544ec3630f48,Smartphone,Electronics,"Meyer, Nelson and Walsh",637.33,0,8517,China,637.33,5each
+f2e5c239-efdb-4c5d-89b3-fafbc857d30b,Soccer Ball,Sports,Shields-Graves,249.01,5,9503,China,261.46,4each
+c3362e5c-0dc5-471a-a6b7-98997268f07a,Yoga Mat,Sports,Moore and Sons,298.93,0,9503,Germany,298.93,5each
+5760d0fa-455c-4654-b4ca-226c14d6a5bf,Smartphone,Electronics,Mora-Bradley,1005.34,15,8517,Germany,1156.14,5each
+52960e27-65c3-4199-a810-c6d178eba5da,Vacuum Cleaner,Home & Kitchen,Moore-Williamson,255.57,10,9405,Germany,281.13,1each
+d4defeef-1d3e-41d0-9d90-cf9733854d8a,Tennis Racket,Sports,"Wilson, Snyder and Harris",16.53,10,9503,China,18.18,1each
+d76c7875-4489-4c84-b790-f94532fcbaee,Jacket,Apparel,"Schaefer, Stephenson and Taylor",264.11,0,6204,USA,264.11,1each
+329f3d64-8120-4f58-affd-9f632455eb07,Dress,Apparel,Smith Ltd,136.65,20,6204,Mexico,163.98,5each
+79a50de7-c008-4259-ab05-475b28c27593,Milk,Grocery,Ballard Ltd,15.33,15,2106,India,17.63,1.1L
+b9a6e990-b960-4e36-b0db-06150744a33b,Butter,Grocery,"Hayes, Diaz and Goodman",22.37,5,2106,China,23.49,1lb
+b9c7e0e9-a309-4b3d-a6de-0e5e5ae98986,Tennis Racket,Sports,"Thomas, Smith and Kelly",68.32,20,9503,China,81.98,1each
+b978647a-b4a3-4df4-bff6-fd105f433e76,Smartwatch,Electronics,Madden-Mitchell,1407.35,0,8517,USA,1407.35,2each
+40b90d81-8258-4787-a823-eb07fe6f9f21,Action Figure,Toys,"Brooks, White and Galloway",58.57,15,9503,China,67.36,9each
+dfba17d1-2918-4a49-b205-8e21b7231faf,Headphones,Electronics,Luna-King,686.33,15,8517,Germany,789.28,3pair
+4157771e-0030-4fbf-8264-6c0380eee9e4,Toy Car,Toys,Harris Inc,66.9,15,9503,Germany,76.94,3each
+f97a2a93-c64f-4592-abe9-d5c4dd6b1e67,Puzzle,Toys,"Edwards, Green and Tate",28.74,20,9503,Mexico,34.49,9each
+ef0268d7-f635-4e55-8784-63da6d29e1cb,Blender,Home & Kitchen,"Adams, Lee and Lee",398.9,5,9405,India,418.84,2each
+09d33db0-b309-4f36-87a9-a2393b0a61b4,Camera,Electronics,"Collins, Henry and Clark",687.24,5,8517,Mexico,721.6,2each
+cf97189c-30c2-4bf9-b9d8-7248b9dc8556,Toy Car,Toys,Huynh Group,49.35,10,9503,India,54.29,2each
+a83adfcc-6d35-406b-9c47-acf0b8c22551,Eggs,Grocery,"Carter, Johnson and Werner",12.84,15,2106,India,14.77,1dozen
+aec3a792-a750-4c4b-9b22-15862f083f77,Running Shoes,Sports,"Davies, Nelson and Fuller",58.78,20,9503,Germany,70.54,2pair
+432189cc-5302-47eb-a3e9-672b9bcb02d8,Baseball Glove,Sports,Bean Ltd,84.17,10,9503,India,92.59,3each
+5ee270ef-f61e-4bd2-944b-cf967231e44b,Smartwatch,Electronics,Meyers and Sons,1184.92,20,8517,Germany,1421.9,4each
+3dde3045-01e3-40e3-86d3-dd008d39c87c,Soccer Ball,Sports,"Torres, Jones and Owen",147.19,5,9503,Germany,154.55,4each
+cef2ebac-942f-45b7-bb90-ab9b6c218e81,Toy Car,Toys,"Foster, Skinner and Vazquez",69.08,0,9503,India,69.08,8each
+a44fcabe-5f9e-46dc-ba0a-1a4f5ab2d4fb,Yoga Mat,Sports,Nixon-Rogers,66.5,20,9503,Mexico,79.8,1each
+0632cd81-1073-4a92-a8a5-42cfe3460be4,Laptop,Electronics,Steele-Espinoza,327.37,0,8517,USA,327.37,3each
+1752cc47-fcde-4d18-b580-f2dc54ede686,Smartwatch,Electronics,Landry-Mitchell,1130.8,10,8517,India,1243.88,2each
+b2076e98-d491-4ab3-8d8b-a4bdc2e76967,Toy Car,Toys,Sweeney-Haney,61.66,15,9503,China,70.91,4each
+8ec6eb26-c57d-45f1-a469-6dcd1ebc94f0,Bread,Grocery,Phillips-Wilson,18.51,10,2106,Mexico,20.36,1loaf
+966b4f43-3a6a-4b93-a799-44a46ce36313,Smartwatch,Electronics,Garrett-Swanson,1207.26,20,8517,China,1448.71,1each
+2793954f-479c-4e7f-9874-9ed6ddd27a08,Puzzle,Toys,Conway-Shannon,37.16,15,9503,China,42.73,2each
+9e66206a-8d88-4010-a84d-b6a5202d1115,Sneakers,Apparel,Armstrong Group,162.04,0,6204,Germany,162.04,4pair
+c1664b2a-d410-4031-b9f5-e01a9755f665,Laptop,Electronics,"Moore, Smith and Hernandez",887.98,20,8517,Mexico,1065.58,3each
+591df4d6-6d2a-4daa-92b3-c8ccd9552f90,Soccer Ball,Sports,"Leach, Lynch and Hubbard",233.71,0,9503,USA,233.71,3each
+00cab988-487d-459a-a738-bfbf75cc8b79,Laptop,Electronics,Poole-Miller,57.93,5,8517,China,60.83,3each
+bc2f2b64-41c5-4efd-874f-afa63646abf6,Vacuum Cleaner,Home & Kitchen,Dodson and Sons,467.92,10,9405,USA,514.71,2each
+d26281fc-74f8-45c3-95cc-936f6a73a3bb,Jacket,Apparel,Griffin Ltd,18.46,15,6204,Germany,21.23,3each
+6202d3ee-37f5-4b3d-a35b-80d493a617e1,Doll,Toys,Moore Inc,95.69,10,9503,Germany,105.26,2each
+ebe49ace-c965-40fa-8231-e1fd65aa339b,Soccer Ball,Sports,"Davis, Thompson and Green",272.34,0,9503,Germany,272.34,4each
+f69a9028-47c9-44a4-ad38-9c58c091844f,Dishwasher,Home & Kitchen,Reynolds-Roberts,427.29,20,9405,Mexico,512.75,2each
+41b8234a-0028-432f-82c4-a2d8c8bf93d8,Microwave,Home & Kitchen,Adams Ltd,253.73,5,9405,USA,266.42,2each
+f5b29ba2-dba7-4488-8542-2844d57b66fc,Butter,Grocery,Robinson-Wang,21.29,15,2106,Germany,24.48,4lb
+0470372b-81e9-4ab3-b58f-b45be621173a,Laptop,Electronics,Moses Inc,290.1,10,8517,China,319.11,1each
+40c3a58f-6a27-4a0a-a1e5-bff19fb6b084,Soccer Ball,Sports,Kirk PLC,177.61,0,9503,Mexico,177.61,5each
+c2f2b447-32e1-4038-a8ad-31ff4329303c,Yoga Mat,Sports,Moreno Ltd,387.64,5,9503,Germany,407.02,5each
+bde88205-636b-47e0-9be6-89d04c66522f,Dishwasher,Home & Kitchen,Odonnell LLC,236.06,15,9405,Germany,271.47,2each
+bce683a1-c39a-4629-bf49-274470579c93,Eggs,Grocery,Cardenas-Reid,8.56,5,2106,China,8.99,3dozen
+f0a0163a-cdd5-4137-b7f8-33afcd0c4b53,Camera,Electronics,"Myers, Duran and Smith",974.38,0,8517,Germany,974.38,3each
+ea487979-ead4-4e6e-b70b-579b187d9c5b,Eggs,Grocery,Keller and Sons,2.63,0,2106,USA,2.63,3dozen
+e49fdddb-a79a-4402-bce6-48927b247ae6,Dress,Apparel,"Jones, Spencer and Young",35.58,20,6204,China,42.7,1each
+70e2bdb3-0fb2-4c04-a8c3-89a1adb2d4e1,Action Figure,Toys,Chapman-Mullen,57.31,0,9503,Germany,57.31,3each
+3219bd1d-4688-4025-ba7b-095ddbe15e00,Laptop,Electronics,Martin Ltd,465.45,0,8517,Germany,465.45,1each
+dc0881a2-0d2e-44e6-87cb-85621f225357,Laptop,Electronics,Figueroa-Phillips,444.43,15,8517,India,511.09,1each
+a97d7927-ff27-46c7-9ac8-867f69356116,Smartwatch,Electronics,Dean-Yoder,925.83,15,8517,Mexico,1064.7,4each
+66589095-9c9a-4584-9572-fb406ab9c427,Soccer Ball,Sports,Escobar-Ryan,270.15,15,9503,India,310.67,4each
+a0602316-33e8-4399-8b62-272d8e5f1df9,Camera,Electronics,"Petersen, Wood and Evans",1116.17,10,8517,Germany,1227.79,4each
+c10fa316-df57-4dac-bd37-ef04a5933b66,Laptop,Electronics,Strickland-Herrera,964.89,10,8517,USA,1061.38,2each
+2708a0d4-9fba-42b1-a52a-e7348c296489,Vacuum Cleaner,Home & Kitchen,Porter-Hays,286.62,0,9405,Germany,286.62,1each
+23fe72f5-edf7-48d3-8889-d3eb052b0641,Camera,Electronics,"Ball, Castillo and Davis",773.97,0,8517,India,773.97,1each
+0c1f286c-3aaa-4e0e-aa90-f6f3bb133051,Yoga Mat,Sports,"Bryant, Pollard and Williams",259.0,0,9503,Mexico,259.0,4each
+beabb006-b29d-4b74-9a63-d06f12c144f0,Puzzle,Toys,Branch PLC,85.8,0,9503,China,85.8,4each
+34496aaa-45e1-4e19-8b56-f0f800524dc1,T-shirt,Apparel,"Garcia, Lopez and Alexander",153.6,10,6204,China,168.96,3each
+2b17a174-166b-4332-a3c8-c0a7c1d3ff89,T-shirt,Apparel,Jarvis-Beard,139.74,10,6204,Mexico,153.71,5each
+8360c748-39f8-4fc4-b2c3-b02231510783,Butter,Grocery,Freeman and Sons,13.8,10,2106,China,15.18,2lb
+e5ce1fb0-3293-4868-9c29-30ecf4610e7b,Action Figure,Toys,Thompson and Sons,45.36,20,9503,China,54.43,9each
+f6071fb0-4e37-427a-a928-467109517daf,Running Shoes,Sports,Reese Inc,74.76,15,9503,India,85.97,4pair
+3ae024ef-68e1-4250-a2da-5cae435adada,Soccer Ball,Sports,Perry Inc,79.44,20,9503,Germany,95.33,1each
+c6542d22-406d-41f0-bec6-c86141b35418,Puzzle,Toys,Larson LLC,82.05,5,9503,USA,86.15,1each
+47d1e4e7-9645-486a-9053-2ee4d1d497e3,Laptop,Electronics,Mcconnell LLC,1462.63,15,8517,Germany,1682.02,3each
+5f5a5a66-8fbc-43d2-bc67-5b42ab72cf57,Soccer Ball,Sports,Rivera-Herrera,311.12,10,9503,Mexico,342.23,3each
+645bdf19-f2f6-41e8-b7a0-bbaaea75a679,Milk,Grocery,Harvey LLC,2.4,0,2106,USA,2.4,0.8L
+bbe894a7-e8ab-4f13-a015-3f5ecdf5d737,Cheese,Grocery,Silva-Perry,21.15,5,2106,USA,22.21,2lb
+ddf4db3e-36f9-4e12-bc8b-505c43b8c8d0,Action Figure,Toys,"Frey, Gilbert and Hendricks",17.31,5,9503,India,18.18,5each
+8e28b7b6-0c80-4584-acb9-e6374950af49,Jeans,Apparel,Williams PLC,69.55,15,6204,USA,79.98,2each
+02b1c3b5-ab96-40dc-907a-0311ffc9453e,Yoga Mat,Sports,Hickman-Powell,85.17,20,9503,China,102.2,3each
+8bddb25f-1ce0-4e22-a76a-867905768a89,Eggs,Grocery,Jackson Ltd,0.2,10,2106,China,0.22,1dozen
+ec6c3e3f-d266-4003-8c63-6d347a6b886c,Baseball Glove,Sports,Rice-Kelley,120.73,20,9503,China,144.88,2each
+9f241909-f23f-4624-b9e7-87121870d2bf,Running Shoes,Sports,"Douglas, Werner and Foley",185.72,20,9503,Germany,222.86,3pair
+71ae929e-c7fa-40c4-a99a-a08977ab843b,Blender,Home & Kitchen,Adams-Tran,316.0,15,9405,Germany,363.4,2each
+2dec5669-8429-4657-b8f9-2179a225c20e,Milk,Grocery,Mcgrath and Sons,22.65,20,2106,USA,27.18,1.2L
+f826e609-655b-4ab9-993e-6f5550956874,Yoga Mat,Sports,Santiago-Cameron,197.78,15,9503,India,227.45,5each
+c81e3680-ba06-4e24-862a-69fc75ef7c77,Baseball Glove,Sports,"Freeman, Nguyen and Wilson",202.98,0,9503,USA,202.98,3each
+a0801585-6b07-4b43-9ecc-5e2aa19e4dfd,Coffee Maker,Home & Kitchen,"Dorsey, Flores and Lambert",146.65,15,9405,India,168.65,2each
+cf7e4a5a-1d16-40f9-b0e8-43b65acecbbe,Jacket,Apparel,Taylor Inc,140.72,5,6204,India,147.76,1each
+e12b1404-18fb-41b5-bd3c-6f86c50eae70,Dress,Apparel,Smith LLC,157.04,20,6204,China,188.45,2each
+ee3fea9e-44d4-408e-b9c5-a9dbf3b832df,Jeans,Apparel,"Williams, Moore and Mendoza",197.14,15,6204,India,226.71,2each
+7622aed7-3c9f-498f-868a-a052bcbeed44,Tennis Racket,Sports,"Hess, Adams and Martinez",230.94,20,9503,China,277.13,3each
+a270307e-6990-4f19-83fb-2eabcfce2643,Jeans,Apparel,Owens LLC,51.62,20,6204,China,61.94,2each
+2f9e1c14-b1f6-4647-b71c-38572b22e3ee,Soccer Ball,Sports,"Taylor, Olson and Larsen",314.68,10,9503,USA,346.15,4each
+76fb1479-b6d6-46ad-b6ad-46829f1f96f2,Yoga Mat,Sports,Daniel-Nash,298.09,0,9503,India,298.09,5each
+cdcb9202-fb5d-490c-93d7-7258ce93affa,Vacuum Cleaner,Home & Kitchen,"Simmons, Moses and Webster",364.97,0,9405,Germany,364.97,2each
+20027109-592a-4d63-af93-04d8575f5355,Toy Car,Toys,"Castro, Hill and Jimenez",31.86,0,9503,USA,31.86,5each
+d2caad43-5e3f-445f-bc00-f00b3aac5e93,Bread,Grocery,Garcia Inc,9.7,15,2106,India,11.15,4loaf
+889c8130-54e2-4c77-be67-a17cfe9e9e40,Blender,Home & Kitchen,"Thornton, Lee and Christian",286.31,10,9405,Mexico,314.94,1each
+25418983-6fd0-47ae-b6d0-b2913c12e71d,Soccer Ball,Sports,Spencer-Wright,390.12,10,9503,Mexico,429.13,2each
+3043e66c-7445-48e9-afd9-952832b3e30d,Puzzle,Toys,Willis-Webster,22.95,20,9503,USA,27.54,7each
+eb6967f6-addf-4ccd-8a2d-a7de7ce9ef25,Yoga Mat,Sports,Gonzalez LLC,154.07,20,9503,India,184.88,4each
+4f7b2e1a-d66d-481b-937c-5ad6eed0ce28,Cheese,Grocery,Calderon-Wilcox,3.62,10,2106,Germany,3.98,4lb
+dd27dea0-afa1-4039-9e61-d3205625b3b8,Sneakers,Apparel,Hammond and Sons,57.51,10,6204,Mexico,63.26,3pair
+56090e8a-ba0a-440a-b080-4646095ba543,Tennis Racket,Sports,"Mendoza, Price and Harrell",326.44,5,9503,USA,342.76,1each
+bda613d4-b375-4ca3-b169-65fef0688242,Toy Car,Toys,Stevenson-Gross,21.59,5,9503,USA,22.67,7each
+955e2ba8-3ebe-4879-a3e6-65b664f5befc,Doll,Toys,Dunn-Wilkins,8.34,20,9503,Germany,10.01,1each
+0a07b52d-309e-4c3d-86ac-d1f9b54cb370,Jacket,Apparel,Hicks-Gibbs,193.52,10,6204,India,212.87,4each
+072a2369-673b-47a6-a7dc-f43454eafb87,Smartwatch,Electronics,"Zavala, Perez and Burns",1297.91,10,8517,Mexico,1427.7,1each
+e3def2d6-b031-48ae-b4c5-9e68b6424dbb,Board Game,Toys,Foster and Sons,19.15,15,9503,India,22.02,5each
+ac218917-95e8-458a-8f9d-b226f99ac3ba,Dishwasher,Home & Kitchen,Bowers-Little,398.83,5,9405,Mexico,418.77,1each
+3895adfa-5fbd-4477-94e6-09580b072115,Yoga Mat,Sports,Smith-Taylor,306.58,15,9503,USA,352.57,4each
+c07bf815-ee2f-4104-b9ad-86a194c82a48,Vacuum Cleaner,Home & Kitchen,Castro-Oneill,300.6,0,9405,China,300.6,1each
+e2bd81fe-34b3-4234-b2d8-e6c1a00b4283,Board Game,Toys,"Strickland, Clark and Jefferson",36.81,15,9503,India,42.33,4each
+284851ab-e2fd-436d-8d6a-38eb82871117,Running Shoes,Sports,Dickson PLC,244.74,5,9503,India,256.98,2pair
+ba01c116-c60b-4eda-b5e4-9dda4681bbad,Baseball Glove,Sports,"Underwood, Frederick and Lloyd",224.75,10,9503,Germany,247.23,2each
+711bf497-4eba-4b9c-868f-8d09753e545d,T-shirt,Apparel,"Holmes, Pineda and Schneider",64.7,0,6204,USA,64.7,2each
+a6b8aea5-4fad-46c8-9236-d921774042b8,Laptop,Electronics,Mclaughlin-West,864.53,15,8517,India,994.21,2each
+0e9bab95-ea12-477c-b2c8-38a4a7afe6d2,Yoga Mat,Sports,"Rubio, Vasquez and Butler",176.19,15,9503,Germany,202.62,5each
+5f9b161b-784c-4ea4-9cdd-90d0065bfc94,Vacuum Cleaner,Home & Kitchen,Holland LLC,370.03,5,9405,Germany,388.53,2each
+60a50558-1f3b-495f-8496-cd3e117e9e18,Microwave,Home & Kitchen,Thomas Group,370.35,20,9405,Mexico,444.42,1each
+3ba554a4-670e-4c49-844b-1386d9468a43,Yoga Mat,Sports,Wilson PLC,62.54,20,9503,India,75.05,5each
+20ee8067-cc0d-4fb8-b656-fc035ea5339d,Action Figure,Toys,Dennis-Allen,80.65,10,9503,USA,88.72,5each
+17f309e3-a73a-448e-9bb6-b1c1251d80ae,Blender,Home & Kitchen,Ross-Dixon,251.73,20,9405,China,302.08,3each
+607a4c81-6cec-42e2-90e8-942b0a327c1b,Action Figure,Toys,Riggs LLC,21.4,10,9503,USA,23.54,8each
+056b6d01-07c1-40d2-bf6a-5b76a21fecf2,Laptop,Electronics,"Orozco, Galvan and Jackson",1240.67,15,8517,India,1426.77,2each
+5f4276c1-e08b-4b76-860a-705c3eb728b8,Laptop,Electronics,Taylor Group,820.93,5,8517,USA,861.98,3each
+bdd238a9-0d16-4f3f-8cfa-e4ed66b268fa,Running Shoes,Sports,Vasquez LLC,292.09,15,9503,India,335.9,4pair
+560a3ac1-d7e9-4587-959e-164a22430628,Running Shoes,Sports,"Wood, Mayo and Gutierrez",48.92,15,9503,USA,56.26,3pair
+f792072b-70d8-476d-86b9-687b9530fc97,Board Game,Toys,Brown-Hughes,35.93,10,9503,Mexico,39.52,3each
+e425ee84-081f-481d-b29f-76c41dbbeec3,Jeans,Apparel,Garrison-Hill,199.22,5,6204,USA,209.18,2each
+90be46b1-125f-4002-9388-c509c5ab1478,Toy Car,Toys,"Nguyen, Wilson and Dyer",61.22,20,9503,Germany,73.46,5each
+17ca25a0-cf79-474f-8dea-7f0c16516c5f,Baseball Glove,Sports,"Thornton, Martinez and Adams",387.23,15,9503,India,445.31,2each
+440d462a-53cd-4f00-a0c8-ba52ad13de60,Camera,Electronics,West PLC,422.05,10,8517,China,464.26,1each
+8be7e97e-6205-44a9-98e6-524999d1889b,Tennis Racket,Sports,"Martin, Luna and Cunningham",176.8,15,9503,India,203.32,3each
+27d8a03e-c7a1-422b-bd3e-a5955ece76bf,Jeans,Apparel,"Burton, Flores and Velazquez",210.99,5,6204,Mexico,221.54,5each
+03bb83c7-716f-4267-b0c9-ecae7cc1c31a,Yoga Mat,Sports,Anderson-Harper,20.22,20,9503,India,24.26,4each
+d4ec4e24-3f85-4c02-949d-610bfa076dee,Tennis Racket,Sports,Robinson-Wilson,145.28,15,9503,Mexico,167.07,2each
+c9b18e5b-c5bd-4c0c-8f7b-c773542367b9,Baseball Glove,Sports,Salinas-Diaz,338.66,0,9503,China,338.66,3each
+4c46a59f-2d2b-45b4-bddd-1ea1cf90e331,Headphones,Electronics,Lee and Sons,462.7,15,8517,India,532.1,3pair
+849160d1-054f-44a5-aafb-32062ca44dd8,Laptop,Electronics,Walters PLC,154.63,0,8517,Mexico,154.63,3each
+0c686c2e-14c0-4fa1-a9d5-9042ecb91a48,Sneakers,Apparel,"Fowler, Mills and Salazar",239.7,15,6204,China,275.65,4pair
+d177e252-2887-4003-b71e-724e86774a27,Blender,Home & Kitchen,"Valenzuela, Bolton and Williamson",54.61,10,9405,Germany,60.07,3each
+18a074f7-b734-497b-a36c-9b9a3c71f5cf,Board Game,Toys,"Odom, Robertson and Hamilton",55.23,5,9503,Germany,57.99,2each
+72607420-670c-4b2f-92c8-6fe1ca86cd23,Doll,Toys,Mckinney-Oneill,32.4,10,9503,Mexico,35.64,3each
+0fdd1bd6-7506-4233-9638-0069370041c7,Tennis Racket,Sports,"Nelson, Mahoney and Griffith",60.58,15,9503,China,69.67,3each
+6f7670cf-83ac-45be-b771-376f05e7d243,Blender,Home & Kitchen,Castro Inc,107.34,5,9405,India,112.71,3each
+5e535989-3ce1-4f8a-a76a-2394fbf69bc8,Jeans,Apparel,Murphy LLC,95.38,5,6204,USA,100.15,4each
+feafa162-1627-46e9-bc10-acd4582446e1,Doll,Toys,"Schultz, Jimenez and Wells",48.42,10,9503,Mexico,53.26,4each
+c7552c8d-1d23-45b4-bb14-da95f828264e,Cheese,Grocery,Rich Inc,11.36,10,2106,Germany,12.5,5lb
+e654ccf4-8145-4301-b8b7-699279bf6b98,Action Figure,Toys,Nguyen-Reed,22.36,20,9503,India,26.83,2each
+564f077e-0a34-46d4-a905-ddb09826317a,Action Figure,Toys,"King, Gonzales and Garcia",91.17,20,9503,Germany,109.4,1each
+36a53097-b049-49ef-9f2b-e794a50e6ad3,Running Shoes,Sports,"Bullock, Cline and Rose",344.93,10,9503,USA,379.42,1pair
+85b9acb4-f45a-46b2-8620-3365f42aeffc,Smartphone,Electronics,Hubbard LLC,96.62,15,8517,India,111.11,1each
+6af19d8e-98b0-43bc-a000-786dabfc3ebf,Dress,Apparel,"Mahoney, Ramirez and Robertson",103.68,10,6204,China,114.05,3each
+c171e45d-a06a-490c-8bbd-1e99b210b0d7,Microwave,Home & Kitchen,Bentley-Barry,378.32,0,9405,India,378.32,1each
+3e91923c-077c-481c-8a71-cecfb423ff72,Action Figure,Toys,Foster LLC,78.44,20,9503,Germany,94.13,2each
+b14ae3f6-20de-4f64-814d-de1f1a63afb3,Dress,Apparel,Ray and Sons,39.47,5,6204,China,41.44,1each
+952bf83e-6c62-41bb-ad36-0a6bb608817d,Camera,Electronics,"White, Alvarez and Craig",338.56,0,8517,Germany,338.56,2each
+861520e6-88c9-4ef9-908c-0b884cacd660,Yoga Mat,Sports,"Reynolds, Wang and Hebert",286.28,20,9503,India,343.54,5each
+1913316a-2d31-4c4e-ae5b-6c62b894983c,T-shirt,Apparel,"York, Bennett and Wilson",195.11,5,6204,Mexico,204.87,1each
+a8836f3e-499e-4bf2-84ca-a0c4983c17d8,Tennis Racket,Sports,Pearson-Delacruz,128.62,5,9503,Mexico,135.05,3each
+98561d3b-fad8-401a-8f69-7f56c6b9db10,Tennis Racket,Sports,"Parks, Barber and Reed",114.68,5,9503,China,120.41,3each
+dd634e9c-c2d9-453d-bd79-9da5a5c6645f,Baseball Glove,Sports,"Fitzpatrick, Black and Douglas",299.69,5,9503,India,314.67,1each
+d91ce7ec-af35-4649-8812-7670ddb18e86,Toy Car,Toys,Walker-Johnson,56.74,20,9503,China,68.09,5each
+0bef81d5-bd1a-4682-bf31-b70cea58f38d,Smartphone,Electronics,Rasmussen-Perkins,1094.71,10,8517,Mexico,1204.18,3each
+d50a2b3a-abbf-4816-abba-aec53dae8156,Laptop,Electronics,Wilson-Price,823.69,20,8517,China,988.43,3each
+a7a37e1c-936a-4e96-9d9a-5264a9391ce2,Smartphone,Electronics,Davis-Anderson,911.6,5,8517,India,957.18,2each
+52d398dc-0fb6-4b1a-a839-8ad90915f745,Board Game,Toys,"Mitchell, Marsh and Gonzales",67.34,5,9503,China,70.71,3each
+88198138-4088-499c-a194-b4a406cbbb2d,Running Shoes,Sports,Arias LLC,344.33,10,9503,USA,378.76,2pair
+fd9b6eec-9882-4033-84f5-580f6ce3efb4,T-shirt,Apparel,Jensen PLC,165.03,15,6204,USA,189.78,5each
+f6b77f2b-f245-4fbe-a765-b3981d845df4,Microwave,Home & Kitchen,Pineda LLC,69.97,5,9405,Germany,73.47,2each
+475471f4-d6f9-4f5b-97db-ce3e967e9037,Dress,Apparel,Hines Inc,189.0,0,6204,India,189.0,3each
