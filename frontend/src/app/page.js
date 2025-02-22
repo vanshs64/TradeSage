@@ -1,10 +1,34 @@
 "use client"
 
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
+
 import "./styles.css" // Import external stylesheet
+
 
 export default function TradeSage() {
   const [productName, setProductName] = useState("");
+
+  useEffect(() => {
+    if (productName) {
+      fetchProductData(productName);
+    }
+  }, [productName]);
+
+  const fetchProductData = async (productName) => {
+    try {
+      const response = await fetch(`http://localhost:5000/${productName}`, {
+        method: "GET",
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ productName }),
+      });
+      const data = await response.json();
+      console.log(data);
+    } catch (error) {
+      console.error("Error fetching product data:", error);
+    }
+  };
 
   const get_data = () => {
     console.log("The button was pressed");
@@ -23,10 +47,18 @@ export default function TradeSage() {
         <div className="card highlight">
           <h2 className="card-title">Find Supply Chain Solutions</h2>
           <form className="search-form" onSubmit={(e) => e.preventDefault()}>
-            <input 
-              id="search" 
+          <input 
+              id="searchInput" 
               type="text" 
               placeholder="Enter product name..." 
+              className="input" 
+              value={productName}
+              onChange={(e) => setProductName(e.target.value)}
+            />
+            <input 
+              id=" " 
+              type="text" 
+              placeholder="Enter product ID..." 
               className="input" 
               value={productName}
               onChange={(e) => setProductName(e.target.value)}
