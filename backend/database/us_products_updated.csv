@@ -1,0 +1,505 @@
+Product_ID,Product_Name,Category,Supplier,Price,Tariff_Amount,Tariff_Code,Final_Price,Quantity
+1,Tennis Racket,Sports,Zuniga Inc,179.42,0.0,NULL,179.42,1each
+2,Doll,Toys,Bray-Greene,90.9,13.63,NULL,104.53,4each
+3,Baseball Glove,Sports,Estes Inc,38.82,7.76,NULL,46.58,3each
+4,Vacuum Cleaner,Home & Kitchen,"Washington, Hickman and Johnson",484.78,0.0,NULL,484.78,1each
+2,Doll,Toys,Nielsen-Coleman,54.05,8.11,NULL,62.16,3each
+3,Baseball Glove,Sports,"Jones, Jones and Parker",363.88,72.78,NULL,436.66,2each
+5,Milk,Grocery,Hale LLC,13.1,0.0,NULL,13.1,1.8L
+6,Headphones,Electronics,Boyd Ltd,1281.41,256.28,NULL,1537.69,2pair
+7,Coffee Maker,Home & Kitchen,Burch PLC,55.19,5.52,NULL,60.71,1each
+8,Smartwatch,Electronics,Lopez-Berry,372.63,55.89,NULL,428.52,3each
+9,Toy Car,Toys,Walker Group,73.1,3.65,NULL,76.75,8each
+9,Toy Car,Toys,"Rodriguez, Howard and Mcguire",34.15,1.71,NULL,35.86,1each
+10,Jacket,Apparel,Warren Inc,287.09,28.71,NULL,315.8,3each
+11,Action Figure,Toys,"Hunt, Collins and Haas",22.17,3.33,NULL,25.5,5each
+12,Board Game,Toys,James-Miller,84.53,12.68,NULL,97.21,2each
+13,Bread,Grocery,Ballard-Thomas,16.9,0.0,NULL,16.9,2loaf
+9,Toy Car,Toys,West and Sons,30.67,0.0,NULL,30.67,3each
+14,Running Shoes,Sports,Meyer Inc,398.25,19.91,NULL,418.16,3pair
+15,Eggs,Grocery,Ryan-Anderson,23.9,3.58,NULL,27.48,3dozen
+16,T-shirt,Apparel,Mckinney-Arellano,195.06,0.0,NULL,195.06,8each
+13,Bread,Grocery,Campos-Singh,9.07,1.81,NULL,10.88,3loaf
+17,Smartphone,Electronics,Osborne Inc,238.04,47.61,NULL,285.65,1each
+18,Yoga Mat,Sports,Todd Inc,242.89,36.43,NULL,279.32,1each
+14,Running Shoes,Sports,Martinez Inc,373.85,56.08,NULL,429.93,2pair
+9,Toy Car,Toys,"Martin, Adams and Campbell",83.9,4.2,NULL,88.1,10each
+19,Cheese,Grocery,Davis Group,0.73,0.11,NULL,0.84,3lb
+9,Toy Car,Toys,Chandler and Sons,29.63,1.48,NULL,31.11,7each
+20,Jeans,Apparel,"Cunningham, Carlson and Nelson",192.9,19.29,NULL,212.19,2each
+21,Blender,Home & Kitchen,Moses-Terry,474.08,71.11,NULL,545.19,3each
+1,Tennis Racket,Sports,Anderson-Moreno,383.78,0.0,NULL,383.78,1each
+16,T-shirt,Apparel,"White, Salinas and Edwards",296.48,44.47,NULL,340.95,6each
+2,Doll,Toys,Stewart-Porter,78.41,7.84,NULL,86.25,1each
+4,Vacuum Cleaner,Home & Kitchen,Cannon-Sutton,359.61,17.98,NULL,377.59,1each
+10,Jacket,Apparel,"Hernandez, Hudson and Anderson",246.02,24.6,NULL,270.62,2each
+22,Soccer Ball,Sports,Macias Inc,341.44,51.22,NULL,392.66,1each
+22,Soccer Ball,Sports,Martin LLC,74.28,3.71,NULL,77.99,4each
+2,Doll,Toys,Payne-Ward,96.93,14.54,NULL,111.47,4each
+23,Dress,Apparel,Paul LLC,85.63,0.0,NULL,85.63,3each
+4,Vacuum Cleaner,Home & Kitchen,"Dunn, Archer and Kim",377.86,37.79,NULL,415.65,1each
+8,Smartwatch,Electronics,"Smith, Frye and Shelton",970.4,0.0,NULL,970.4,2each
+24,Camera,Electronics,Martinez Group,751.41,112.71,NULL,864.12,1each
+7,Coffee Maker,Home & Kitchen,Hart Inc,199.62,0.0,NULL,199.62,2each
+24,Camera,Electronics,Murphy Inc,962.0,144.3,NULL,1106.3,2each
+14,Running Shoes,Sports,"Garcia, Monroe and Frye",107.65,10.77,NULL,118.42,1pair
+10,Jacket,Apparel,Rogers Group,30.45,1.52,NULL,31.97,4each
+25,Puzzle,Toys,Lozano-Morris,99.45,14.92,NULL,114.37,3each
+19,Cheese,Grocery,Green and Sons,22.92,1.15,NULL,24.07,1lb
+19,Cheese,Grocery,"Lyons, Taylor and Bell",15.64,0.0,NULL,15.64,2lb
+11,Action Figure,Toys,Bond-Coleman,30.46,0.0,NULL,30.46,7each
+21,Blender,Home & Kitchen,Richmond-Tucker,228.49,34.27,NULL,262.76,2each
+6,Headphones,Electronics,Payne-Maxwell,1379.87,68.99,NULL,1448.86,1pair
+2,Doll,Toys,"Singh, Brown and Bishop",49.45,9.89,NULL,59.34,4each
+13,Bread,Grocery,Hayden PLC,17.24,0.86,NULL,18.1,5loaf
+7,Coffee Maker,Home & Kitchen,"Joyce, Gray and Johnson",229.62,11.48,NULL,241.1,2each
+26,Microwave,Home & Kitchen,Ferguson-Sloan,129.02,0.0,NULL,129.02,3each
+8,Smartwatch,Electronics,"Jackson, Brown and Jackson",1093.55,164.03,NULL,1257.58,1each
+6,Headphones,Electronics,"Hill, Warner and Harris",910.44,136.57,NULL,1047.01,3pair
+14,Running Shoes,Sports,"Lopez, Hale and Cooper",169.71,33.94,NULL,203.65,2pair
+1,Tennis Racket,Sports,Houston-Rodriguez,194.14,0.0,NULL,194.14,1each
+11,Action Figure,Toys,Sanchez and Sons,99.8,9.98,NULL,109.78,3each
+25,Puzzle,Toys,Munoz Ltd,92.99,4.65,NULL,97.64,4each
+6,Headphones,Electronics,Freeman-Robinson,725.9,108.89,NULL,834.79,2pair
+3,Baseball Glove,Sports,"Carter, Perez and Walker",326.84,65.37,NULL,392.21,3each
+4,Vacuum Cleaner,Home & Kitchen,Johnson LLC,258.33,51.67,NULL,310.0,1each
+4,Vacuum Cleaner,Home & Kitchen,Jackson LLC,406.96,81.39,NULL,488.35,1each
+11,Action Figure,Toys,Evans-Sanford,91.25,13.69,NULL,104.94,10each
+18,Yoga Mat,Sports,Flores Group,325.36,0.0,NULL,325.36,1each
+25,Puzzle,Toys,Baird Group,43.94,8.79,NULL,52.73,1each
+21,Blender,Home & Kitchen,"Barrett, Baker and Acosta",392.36,78.47,NULL,470.83,1each
+27,Butter,Grocery,"Nelson, Hoffman and Nunez",2.37,0.12,NULL,2.49,3lb
+28,Apple,Apparel,Conway PLC,238.42,23.84,NULL,262.26,1unit
+21,Blender,Home & Kitchen,"Freeman, Martinez and Carter",440.36,44.04,NULL,484.4,3each
+29,Dishwasher,Home & Kitchen,Riddle-Campbell,163.9,32.78,NULL,196.68,1each
+6,Headphones,Electronics,"Robinson, Higgins and Martin",487.8,24.39,NULL,512.19,2pair
+26,Microwave,Home & Kitchen,"Green, Wolf and Cochran",221.24,33.19,NULL,254.43,2each
+17,Smartphone,Electronics,"Guzman, Chavez and Cooper",969.92,48.5,NULL,1018.42,3each
+14,Running Shoes,Sports,Myers-Harris,170.53,34.11,NULL,204.64,2pair
+13,Bread,Grocery,Collins PLC,14.89,2.23,NULL,17.12,4loaf
+15,Eggs,Grocery,Beck-Ramirez,24.33,2.43,NULL,26.76,2dozen
+8,Smartwatch,Electronics,Watson-Torres,798.37,159.67,NULL,958.04,2each
+13,Bread,Grocery,Baker LLC,20.74,4.15,NULL,24.89,3loaf
+7,Coffee Maker,Home & Kitchen,"Hughes, Smith and Brady",197.31,19.73,NULL,217.04,3each
+19,Cheese,Grocery,Walker and Sons,14.24,1.42,NULL,15.66,2lb
+6,Headphones,Electronics,"Carrillo, Lee and Castillo",805.48,80.55,NULL,886.03,2pair
+29,Dishwasher,Home & Kitchen,Freeman LLC,32.23,3.22,NULL,35.45,2each
+8,Smartwatch,Electronics,"Charles, Bennett and Cobb",987.74,98.77,NULL,1086.51,2each
+11,Action Figure,Toys,"Costa, Pratt and Taylor",47.35,7.1,NULL,54.45,2each
+8,Smartwatch,Electronics,Freeman-Wade,1123.09,56.15,NULL,1179.24,2each
+29,Dishwasher,Home & Kitchen,"Campbell, Young and Duncan",150.91,30.18,NULL,181.09,2each
+2,Doll,Toys,"Hunt, Baldwin and Schmidt",11.87,0.59,NULL,12.46,5each
+25,Puzzle,Toys,Gonzalez-Ray,69.25,10.39,NULL,79.64,7each
+5,Milk,Grocery,Rose PLC,0.93,0.05,NULL,0.98,1.4L
+19,Cheese,Grocery,Morris Inc,23.3,1.17,NULL,24.47,2lb
+22,Soccer Ball,Sports,Walls-Smith,61.25,9.19,NULL,70.44,3each
+10,Jacket,Apparel,Beck and Sons,158.07,15.81,NULL,173.88,3each
+4,Vacuum Cleaner,Home & Kitchen,"Wilson, Glass and Garcia",334.2,33.42,NULL,367.62,1each
+22,Soccer Ball,Sports,Leblanc PLC,370.24,55.54,NULL,425.78,4each
+28,Apple,Electronics,Walters Group,774.36,154.87,NULL,929.23,1unit
+1,Tennis Racket,Sports,"Robinson, Murphy and Snow",192.8,19.28,NULL,212.08,2each
+16,T-shirt,Apparel,"Clark, Fields and James",107.89,21.58,NULL,129.47,9each
+13,Bread,Grocery,"Williams, Stewart and Rivas",24.15,0.0,NULL,24.15,5loaf
+13,Bread,Grocery,Greer-Cervantes,22.14,0.0,NULL,22.14,4loaf
+19,Cheese,Grocery,Allen-Cox,14.57,0.0,NULL,14.57,5lb
+29,Dishwasher,Home & Kitchen,Green Ltd,371.69,37.17,NULL,408.86,1each
+12,Board Game,Toys,"Case, Spears and Taylor",47.53,7.13,NULL,54.66,3each
+27,Butter,Grocery,Hill Group,8.04,1.21,NULL,9.25,1lb
+29,Dishwasher,Home & Kitchen,Acosta and Sons,412.23,20.61,NULL,432.84,1each
+1,Tennis Racket,Sports,"Salinas, Mcmillan and Jordan",184.26,0.0,NULL,184.26,1each
+18,Yoga Mat,Sports,Carr Inc,187.75,37.55,NULL,225.3,5each
+11,Action Figure,Toys,"Watson, Davis and Hicks",23.04,2.3,NULL,25.34,7each
+13,Bread,Grocery,Acosta and Sons,0.14,0.01,NULL,0.15,1loaf
+4,Vacuum Cleaner,Home & Kitchen,Colon LLC,461.68,46.17,NULL,507.85,2each
+6,Headphones,Electronics,Smith-Harmon,1027.39,102.74,NULL,1130.13,2pair
+22,Soccer Ball,Sports,Adams Group,212.85,21.29,NULL,234.14,5each
+18,Yoga Mat,Sports,Walker-Hernandez,225.07,0.0,NULL,225.07,1each
+1,Tennis Racket,Sports,Mitchell-Johnson,252.06,50.41,NULL,302.47,3each
+16,T-shirt,Apparel,"Ferguson, Aguilar and Bates",255.46,38.32,NULL,293.78,8each
+17,Smartphone,Electronics,Potter and Sons,1082.63,108.26,NULL,1190.89,3each
+15,Eggs,Grocery,Mills LLC,13.27,0.0,NULL,13.27,3dozen
+21,Blender,Home & Kitchen,Weber-Boyd,380.79,57.12,NULL,437.91,2each
+27,Butter,Grocery,Mcdonald Group,3.67,0.37,NULL,4.04,1lb
+18,Yoga Mat,Sports,Herman-Sanchez,38.74,5.81,NULL,44.55,2each
+3,Baseball Glove,Sports,"Austin, Reilly and Smith",239.11,47.82,NULL,286.93,3each
+12,Board Game,Toys,"Hicks, Ewing and Hicks",19.18,1.92,NULL,21.1,3each
+12,Board Game,Toys,Howell-Mckee,64.57,3.23,NULL,67.8,1each
+17,Smartphone,Electronics,Andrews Ltd,1099.07,0.0,NULL,1099.07,5each
+20,Jeans,Apparel,Gillespie-Duran,190.86,0.0,NULL,190.86,1each
+26,Microwave,Home & Kitchen,Perry-Vasquez,220.58,33.09,NULL,253.67,2each
+26,Microwave,Home & Kitchen,Nichols-Jones,229.3,11.46,NULL,240.76,2each
+5,Milk,Grocery,Reese-Reid,5.82,0.58,NULL,6.4,1.1L
+1,Tennis Racket,Sports,"Anderson, Frye and Thompson",61.66,9.25,NULL,70.91,2each
+3,Baseball Glove,Sports,Tran Inc,179.67,35.93,NULL,215.6,1each
+2,Doll,Toys,"Osborne, Garcia and Thompson",11.49,0.0,NULL,11.49,4each
+24,Camera,Electronics,Beck-Wilson,1299.33,0.0,NULL,1299.33,4each
+1,Tennis Racket,Sports,"Yang, Rogers and Webb",247.56,0.0,NULL,247.56,3each
+21,Blender,Home & Kitchen,"Bradley, Lopez and Green",220.84,22.08,NULL,242.92,1each
+10,Jacket,Apparel,Smith LLC,243.74,36.56,NULL,280.3,4each
+24,Camera,Electronics,"Clark, Wood and Russell",74.48,0.0,NULL,74.48,1each
+10,Jacket,Apparel,Cruz-Ross,12.85,0.64,NULL,13.49,1each
+17,Smartphone,Electronics,"Barber, Chen and Gillespie",1146.06,114.61,NULL,1260.67,3each
+29,Dishwasher,Home & Kitchen,Crosby Ltd,209.18,20.92,NULL,230.1,2each
+16,T-shirt,Apparel,"Coleman, Lynch and Barry",278.62,0.0,NULL,278.62,6each
+25,Puzzle,Toys,"Daniel, Dickson and Harris",87.9,13.19,NULL,101.09,6each
+28,Apple,Apparel,Pierce PLC,251.71,12.59,NULL,264.3,1unit
+28,Apple,Electronics,Anderson-Dickerson,112.41,16.86,NULL,129.27,1unit
+18,Yoga Mat,Sports,Cole Ltd,201.5,40.3,NULL,241.8,3each
+7,Coffee Maker,Home & Kitchen,Fields and Sons,34.78,1.74,NULL,36.52,2each
+18,Yoga Mat,Sports,"Bowen, Mcguire and Lopez",270.58,13.53,NULL,284.11,5each
+2,Doll,Toys,"Mcintosh, Koch and Dawson",47.88,0.0,NULL,47.88,2each
+7,Coffee Maker,Home & Kitchen,"Lewis, Bates and Martinez",259.48,0.0,NULL,259.48,3each
+10,Jacket,Apparel,"Smith, Nelson and Wilson",62.5,3.12,NULL,65.62,1each
+21,Blender,Home & Kitchen,"Higgins, Jones and Carroll",465.45,93.09,NULL,558.54,3each
+22,Soccer Ball,Sports,Wright LLC,188.78,9.44,NULL,198.22,2each
+5,Milk,Grocery,Davis-Wong,10.8,1.62,NULL,12.42,1.3L
+4,Vacuum Cleaner,Home & Kitchen,Delgado LLC,268.8,26.88,NULL,295.68,2each
+24,Camera,Electronics,Morrison-Johnson,1071.66,107.17,NULL,1178.83,4each
+5,Milk,Grocery,Wilson and Sons,13.35,1.33,NULL,14.68,1.9L
+15,Eggs,Grocery,Thompson-Hull,1.22,0.12,NULL,1.34,3dozen
+22,Soccer Ball,Sports,Simmons-Oconnell,124.42,12.44,NULL,136.86,3each
+29,Dishwasher,Home & Kitchen,Patel Ltd,335.66,50.35,NULL,386.01,2each
+3,Baseball Glove,Sports,"Hernandez, Shaw and Moore",342.64,34.26,NULL,376.9,1each
+12,Board Game,Toys,"Castro, Mclaughlin and Lewis",76.15,3.81,NULL,79.96,1each
+14,Running Shoes,Sports,Townsend PLC,329.21,32.92,NULL,362.13,3pair
+17,Smartphone,Electronics,Schultz-Huerta,460.17,23.01,NULL,483.18,1each
+6,Headphones,Electronics,"Rivera, Baird and Lee",362.69,36.27,NULL,398.96,1pair
+23,Dress,Apparel,"Marshall, Stewart and Pugh",278.94,55.79,NULL,334.73,2each
+7,Coffee Maker,Home & Kitchen,"Watson, Gregory and Harris",459.7,68.95,NULL,528.65,1each
+24,Camera,Electronics,Morris LLC,911.08,91.11,NULL,1002.19,1each
+28,Apple,Apparel,"Robinson, Walker and Morris",131.3,26.26,NULL,157.56,1unit
+12,Board Game,Toys,Cobb-Walton,45.04,2.25,NULL,47.29,4each
+5,Milk,Grocery,Martin-Rodriguez,6.49,0.65,NULL,7.14,1.2L
+30,Sneakers,Apparel,Richardson-Fitzgerald,162.59,0.0,NULL,162.59,1pair
+27,Butter,Grocery,Bowman Ltd,10.35,1.03,NULL,11.38,5lb
+31,Laptop,Electronics,Johnson PLC,110.15,11.02,NULL,121.17,3each
+18,Yoga Mat,Sports,Wilson LLC,276.48,27.65,NULL,304.13,3each
+12,Board Game,Toys,Nguyen-Green,47.64,0.0,NULL,47.64,2each
+22,Soccer Ball,Sports,"Jones, Martin and Moore",271.02,0.0,NULL,271.02,4each
+19,Cheese,Grocery,Alvarado Ltd,8.41,1.68,NULL,10.09,1lb
+31,Laptop,Electronics,Holt Inc,392.0,39.2,NULL,431.2,3each
+31,Laptop,Electronics,Rodgers Ltd,569.88,56.99,NULL,626.87,1each
+6,Headphones,Electronics,Sims-Cook,663.34,99.5,NULL,762.84,3pair
+12,Board Game,Toys,Freeman-White,81.96,4.1,NULL,86.06,4each
+2,Doll,Toys,Miller Ltd,31.28,0.0,NULL,31.28,4each
+10,Jacket,Apparel,Bailey Group,64.68,9.7,NULL,74.38,1each
+18,Yoga Mat,Sports,Roth Ltd,134.16,13.42,NULL,147.58,5each
+23,Dress,Apparel,"Mercer, Hess and Hayes",294.05,29.41,NULL,323.46,1each
+2,Doll,Toys,"Snyder, Gillespie and Jordan",89.59,17.92,NULL,107.51,2each
+29,Dishwasher,Home & Kitchen,"Hawkins, Moore and Spencer",237.01,35.55,NULL,272.56,2each
+28,Apple,Electronics,Anderson-Reid,1384.77,276.95,NULL,1661.72,1unit
+5,Milk,Grocery,Smith Group,23.0,2.3,NULL,25.3,0.7L
+24,Camera,Electronics,Hawkins Inc,301.95,30.2,NULL,332.15,1each
+23,Dress,Apparel,"Castro, Jennings and Webb",235.72,11.79,NULL,247.51,2each
+9,Toy Car,Toys,"Reynolds, Charles and Jacobs",45.17,9.03,NULL,54.2,2each
+26,Microwave,Home & Kitchen,"Hawkins, Warren and Stone",409.29,0.0,NULL,409.29,1each
+19,Cheese,Grocery,Nelson Group,9.6,1.44,NULL,11.04,1lb
+2,Doll,Toys,Morgan-Reynolds,25.8,2.58,NULL,28.38,4each
+22,Soccer Ball,Sports,Roman-White,236.31,11.82,NULL,248.13,2each
+3,Baseball Glove,Sports,Barker-Luna,147.56,29.51,NULL,177.07,1each
+5,Milk,Grocery,Williams and Sons,18.47,1.85,NULL,20.32,1.5L
+5,Milk,Grocery,Woodward-Rose,18.51,3.7,NULL,22.21,1.3L
+28,Apple,Apparel,"Lee, Davis and Buck",299.0,14.95,NULL,313.95,1unit
+12,Board Game,Toys,Merritt Group,38.41,7.68,NULL,46.09,4each
+15,Eggs,Grocery,Larson-Moore,4.61,0.23,NULL,4.84,1dozen
+18,Yoga Mat,Sports,Moore-Swanson,107.96,10.8,NULL,118.76,3each
+26,Microwave,Home & Kitchen,"Reynolds, Smith and Marsh",124.77,0.0,NULL,124.77,3each
+29,Dishwasher,Home & Kitchen,Watts Inc,131.1,13.11,NULL,144.21,2each
+24,Camera,Electronics,Perez and Sons,286.69,57.34,NULL,344.03,1each
+3,Baseball Glove,Sports,Kim Ltd,294.41,44.16,NULL,338.57,3each
+29,Dishwasher,Home & Kitchen,Smith Ltd,373.02,74.6,NULL,447.62,1each
+8,Smartwatch,Electronics,"Alexander, Navarro and Davis",943.16,94.32,NULL,1037.48,2each
+25,Puzzle,Toys,"Zhang, Gross and Fernandez",8.07,1.21,NULL,9.28,8each
+31,Laptop,Electronics,Levy-Pugh,363.7,0.0,NULL,363.7,1each
+3,Baseball Glove,Sports,Myers-Wilson,197.57,29.64,NULL,227.21,1each
+9,Toy Car,Toys,"Kemp, Guzman and Anderson",22.53,4.51,NULL,27.04,8each
+9,Toy Car,Toys,"Price, Peters and Taylor",84.31,4.22,NULL,88.53,9each
+7,Coffee Maker,Home & Kitchen,"Franklin, Park and Hicks",173.24,17.32,NULL,190.56,3each
+1,Tennis Racket,Sports,Kelly-Barnes,287.48,0.0,NULL,287.48,2each
+12,Board Game,Toys,"Stanton, Parker and Odonnell",86.07,12.91,NULL,98.98,4each
+17,Smartphone,Electronics,Sullivan-Gay,382.06,0.0,NULL,382.06,4each
+20,Jeans,Apparel,Oneill-Small,148.93,29.79,NULL,178.72,3each
+1,Tennis Racket,Sports,"Cline, Black and Knapp",286.25,0.0,NULL,286.25,3each
+4,Vacuum Cleaner,Home & Kitchen,"Hayes, Woods and Randolph",492.15,98.43,NULL,590.58,1each
+18,Yoga Mat,Sports,Jones-Smith,364.94,72.99,NULL,437.93,4each
+19,Cheese,Grocery,"Wong, Sanchez and Phillips",20.54,3.08,NULL,23.62,2lb
+3,Baseball Glove,Sports,Calderon Ltd,163.6,32.72,NULL,196.32,3each
+31,Laptop,Electronics,Williamson-Rogers,1032.67,206.53,NULL,1239.2,3each
+30,Sneakers,Apparel,Valdez Inc,178.99,35.8,NULL,214.79,3pair
+1,Tennis Racket,Sports,Hicks and Sons,378.32,75.66,NULL,453.98,2each
+28,Apple,Apparel,Wallace-Richardson,146.48,21.97,NULL,168.45,1unit
+4,Vacuum Cleaner,Home & Kitchen,"Collins, Bullock and King",270.49,54.1,NULL,324.59,2each
+29,Dishwasher,Home & Kitchen,"Curtis, Edwards and Harris",140.27,28.05,NULL,168.32,2each
+20,Jeans,Apparel,Taylor-Garrett,46.83,9.37,NULL,56.2,4each
+21,Blender,Home & Kitchen,Mathis-Dunn,484.6,96.92,NULL,581.52,3each
+4,Vacuum Cleaner,Home & Kitchen,Gardner Inc,231.26,11.56,NULL,242.82,1each
+10,Jacket,Apparel,Larson-Choi,40.64,6.1,NULL,46.74,5each
+16,T-shirt,Apparel,"Mack, Miller and Shepard",87.28,13.09,NULL,100.37,8each
+3,Baseball Glove,Sports,"Merritt, Aguilar and Green",74.7,11.21,NULL,85.91,2each
+29,Dishwasher,Home & Kitchen,"Butler, Lambert and Aguirre",289.83,0.0,NULL,289.83,1each
+30,Sneakers,Apparel,Kelley-Cox,176.61,17.66,NULL,194.27,5pair
+31,Laptop,Electronics,Thomas Group,91.39,4.57,NULL,95.96,1each
+6,Headphones,Electronics,Hawkins Group,417.11,83.42,NULL,500.53,3pair
+3,Baseball Glove,Sports,Allen and Sons,239.59,11.98,NULL,251.57,1each
+5,Milk,Grocery,Kelly Ltd,16.25,0.81,NULL,17.06,0.6L
+11,Action Figure,Toys,"Martinez, Randall and Combs",92.87,9.29,NULL,102.16,10each
+26,Microwave,Home & Kitchen,Koch PLC,85.52,4.28,NULL,89.8,1each
+27,Butter,Grocery,"Hayes, Wagner and Patrick",21.0,0.0,NULL,21.0,2lb
+13,Bread,Grocery,Brown Ltd,16.11,0.81,NULL,16.92,1loaf
+9,Toy Car,Toys,Morrow and Sons,64.4,12.88,NULL,77.28,7each
+10,Jacket,Apparel,"Owen, Lee and Snow",245.33,49.07,NULL,294.4,2each
+9,Toy Car,Toys,Cole Ltd,71.06,3.55,NULL,74.61,9each
+24,Camera,Electronics,Green-Rodriguez,916.81,0.0,NULL,916.81,1each
+10,Jacket,Apparel,Schultz-Mullins,59.51,2.98,NULL,62.49,3each
+27,Butter,Grocery,Butler PLC,23.85,4.77,NULL,28.62,5lb
+22,Soccer Ball,Sports,"Gonzales, Fields and Simmons",231.98,11.6,NULL,243.58,2each
+18,Yoga Mat,Sports,Garcia-Bruce,273.28,13.66,NULL,286.94,3each
+25,Puzzle,Toys,"Cook, Murphy and Bradley",57.91,0.0,NULL,57.91,10each
+28,Apple,Electronics,"Friedman, Riggs and Oliver",826.55,82.66,NULL,909.21,1unit
+28,Apple,Apparel,"Burns, Gomez and Hoffman",250.43,0.0,NULL,250.43,1unit
+7,Coffee Maker,Home & Kitchen,"Raymond, Chen and Crawford",428.48,85.7,NULL,514.18,3each
+5,Milk,Grocery,Allen-Taylor,10.09,2.02,NULL,12.11,0.6L
+28,Apple,Apparel,Gross LLC,168.43,16.84,NULL,185.27,1unit
+16,T-shirt,Apparel,Peters Ltd,39.02,7.8,NULL,46.82,3each
+31,Laptop,Electronics,Young-Lutz,1082.81,162.42,NULL,1245.23,1each
+20,Jeans,Apparel,"Kirby, Contreras and Ruiz",95.9,0.0,NULL,95.9,3each
+3,Baseball Glove,Sports,Romero-Collins,201.63,0.0,NULL,201.63,3each
+21,Blender,Home & Kitchen,Fowler PLC,73.32,11.0,NULL,84.32,2each
+22,Soccer Ball,Sports,Roberts and Sons,78.6,0.0,NULL,78.6,3each
+4,Vacuum Cleaner,Home & Kitchen,Brown-Ramirez,391.97,58.8,NULL,450.77,2each
+21,Blender,Home & Kitchen,Miller LLC,209.44,41.89,NULL,251.33,3each
+11,Action Figure,Toys,Turner-Smith,93.8,0.0,NULL,93.8,1each
+4,Vacuum Cleaner,Home & Kitchen,Foster Ltd,115.72,0.0,NULL,115.72,1each
+8,Smartwatch,Electronics,"Davis, Schultz and Morales",823.99,41.2,NULL,865.19,2each
+6,Headphones,Electronics,Valdez-Martin,245.15,24.52,NULL,269.67,2pair
+15,Eggs,Grocery,"Beasley, Sparks and Brown",1.4,0.21,NULL,1.61,2dozen
+12,Board Game,Toys,"Cannon, Newton and Jordan",89.94,17.99,NULL,107.93,3each
+24,Camera,Electronics,Warren-Harris,403.93,80.79,NULL,484.72,1each
+27,Butter,Grocery,"Fisher, Lewis and Gardner",7.25,0.36,NULL,7.61,5lb
+24,Camera,Electronics,"Mcdowell, Price and Hammond",615.67,92.35,NULL,708.02,1each
+5,Milk,Grocery,Lee Ltd,8.19,1.23,NULL,9.42,1.5L
+15,Eggs,Grocery,"Bell, Johnson and Gomez",5.4,0.0,NULL,5.4,3dozen
+28,Apple,Apparel,"Andrade, Green and Gaines",27.16,2.72,NULL,29.88,1unit
+2,Doll,Toys,"Huff, Hogan and Garza",43.6,6.54,NULL,50.14,4each
+13,Bread,Grocery,Stokes and Sons,5.66,1.13,NULL,6.79,3loaf
+31,Laptop,Electronics,Olson and Sons,427.67,64.15,NULL,491.82,3each
+24,Camera,Electronics,Fry-Luna,575.04,57.5,NULL,632.54,3each
+25,Puzzle,Toys,Reeves-Baker,57.67,0.0,NULL,57.67,6each
+31,Laptop,Electronics,Schroeder-Foster,1067.54,53.38,NULL,1120.92,3each
+19,Cheese,Grocery,Robinson PLC,1.56,0.16,NULL,1.72,5lb
+16,T-shirt,Apparel,"Ramirez, Griffin and Shaw",91.59,0.0,NULL,91.59,10each
+3,Baseball Glove,Sports,"Page, Nguyen and White",364.04,18.2,NULL,382.24,1each
+26,Microwave,Home & Kitchen,"Taylor, Maynard and Boyd",450.18,67.53,NULL,517.71,1each
+15,Eggs,Grocery,Carrillo-Brock,4.98,0.5,NULL,5.48,2dozen
+1,Tennis Racket,Sports,Daniel Group,186.37,0.0,NULL,186.37,1each
+31,Laptop,Electronics,Davis Inc,989.73,0.0,NULL,989.73,3each
+29,Dishwasher,Home & Kitchen,Collier-Young,96.35,19.27,NULL,115.62,2each
+23,Dress,Apparel,"Gordon, Sims and Ramsey",125.83,6.29,NULL,132.12,5each
+22,Soccer Ball,Sports,"Miller, Ford and Liu",391.68,0.0,NULL,391.68,2each
+12,Board Game,Toys,Perry Ltd,52.87,7.93,NULL,60.8,1each
+12,Board Game,Toys,Gallagher PLC,6.91,1.38,NULL,8.29,2each
+28,Apple,Electronics,"Irwin, Ford and Ramsey",225.66,22.57,NULL,248.23,1unit
+11,Action Figure,Toys,"Gonzales, Stevens and Newman",96.54,4.83,NULL,101.37,9each
+4,Vacuum Cleaner,Home & Kitchen,Bennett Inc,122.72,0.0,NULL,122.72,1each
+18,Yoga Mat,Sports,Walker Group,40.24,0.0,NULL,40.24,5each
+28,Apple,Electronics,Lewis-Sanchez,1279.39,63.97,NULL,1343.36,1unit
+28,Apple,Apparel,"Weaver, Anderson and Jacobson",39.71,7.94,NULL,47.65,1unit
+28,Apple,Apparel,"Newton, Hawkins and Rivera",219.59,43.92,NULL,263.51,1unit
+10,Jacket,Apparel,"Whitaker, Green and West",26.49,5.3,NULL,31.79,3each
+7,Coffee Maker,Home & Kitchen,Combs LLC,497.68,0.0,NULL,497.68,1each
+6,Headphones,Electronics,"Alvarez, Taylor and Blevins",707.77,141.55,NULL,849.32,1pair
+30,Sneakers,Apparel,"Blair, Fuentes and Castro",205.18,30.78,NULL,235.96,5pair
+28,Apple,Electronics,Young PLC,840.74,0.0,NULL,840.74,1unit
+11,Action Figure,Toys,Lewis-Hudson,58.51,5.85,NULL,64.36,6each
+30,Sneakers,Apparel,White-Conrad,271.86,0.0,NULL,271.86,3pair
+27,Butter,Grocery,Edwards PLC,18.76,3.75,NULL,22.51,4lb
+14,Running Shoes,Sports,Black and Sons,285.28,28.53,NULL,313.81,4pair
+11,Action Figure,Toys,Smith-Clarke,33.83,3.38,NULL,37.21,6each
+15,Eggs,Grocery,Rodriguez-Moss,17.13,2.57,NULL,19.7,1dozen
+21,Blender,Home & Kitchen,Paul-Davis,59.62,0.0,NULL,59.62,2each
+21,Blender,Home & Kitchen,"Reed, Mccarthy and Davis",393.7,78.74,NULL,472.44,2each
+23,Dress,Apparel,"Wood, Evans and Garcia",136.56,0.0,NULL,136.56,1each
+28,Apple,Apparel,Sanchez Ltd,166.73,25.01,NULL,191.74,1unit
+2,Doll,Toys,Evans-Keith,20.81,1.04,NULL,21.85,2each
+15,Eggs,Grocery,"Martinez, Hicks and Whitney",11.35,1.7,NULL,13.05,3dozen
+6,Headphones,Electronics,"Jones, Lynch and Miller",131.17,26.23,NULL,157.4,3pair
+21,Blender,Home & Kitchen,Cabrera LLC,418.93,62.84,NULL,481.77,2each
+13,Bread,Grocery,Hall-Cannon,23.32,3.5,NULL,26.82,1loaf
+17,Smartphone,Electronics,"Martin, Shannon and Watson",716.0,107.4,NULL,823.4,1each
+30,Sneakers,Apparel,Fisher-Cannon,105.91,10.59,NULL,116.5,5pair
+29,Dishwasher,Home & Kitchen,Joseph PLC,380.28,0.0,NULL,380.28,2each
+7,Coffee Maker,Home & Kitchen,"Erickson, Dougherty and Harris",201.52,20.15,NULL,221.67,3each
+29,Dishwasher,Home & Kitchen,Green-Holmes,127.45,25.49,NULL,152.94,1each
+1,Tennis Racket,Sports,Blake-Lewis,70.68,0.0,NULL,70.68,3each
+4,Vacuum Cleaner,Home & Kitchen,Ray Ltd,134.86,0.0,NULL,134.86,2each
+26,Microwave,Home & Kitchen,King-Hill,375.84,18.79,NULL,394.63,2each
+27,Butter,Grocery,Flores LLC,4.54,0.23,NULL,4.77,2lb
+24,Camera,Electronics,Bennett Inc,952.18,47.61,NULL,999.79,4each
+22,Soccer Ball,Sports,Johnson Inc,106.76,16.01,NULL,122.77,5each
+1,Tennis Racket,Sports,"Walters, Ross and Dominguez",147.4,29.48,NULL,176.88,3each
+2,Doll,Toys,Hines-Rogers,38.4,5.76,NULL,44.16,2each
+27,Butter,Grocery,"Harris, Bishop and Powell",15.5,0.78,NULL,16.28,2lb
+29,Dishwasher,Home & Kitchen,Hawkins-Martinez,144.68,21.7,NULL,166.38,2each
+28,Apple,Electronics,"Ford, Smith and Sanford",1225.17,0.0,NULL,1225.17,1unit
+22,Soccer Ball,Sports,"Gonzalez, Jones and Reid",76.98,11.55,NULL,88.53,1each
+30,Sneakers,Apparel,Rush Ltd,129.1,25.82,NULL,154.92,2pair
+18,Yoga Mat,Sports,Reese Inc,381.66,57.25,NULL,438.91,4each
+18,Yoga Mat,Sports,Garcia Group,166.26,8.31,NULL,174.57,4each
+3,Baseball Glove,Sports,"Garcia, Osborn and Cabrera",195.14,19.51,NULL,214.65,3each
+24,Camera,Electronics,"Serrano, Tapia and Poole",747.72,37.39,NULL,785.11,2each
+13,Bread,Grocery,"Ellis, Hensley and Pena",20.75,4.15,NULL,24.9,3loaf
+28,Apple,Electronics,Finley Ltd,1114.32,167.15,NULL,1281.47,1unit
+11,Action Figure,Toys,Garcia-Black,94.75,0.0,NULL,94.75,5each
+15,Eggs,Grocery,Hudson-Bond,23.23,4.65,NULL,27.88,1dozen
+28,Apple,Apparel,Young-Orozco,161.81,8.09,NULL,169.9,1unit
+22,Soccer Ball,Sports,Young PLC,333.04,33.3,NULL,366.34,5each
+15,Eggs,Grocery,Dunn LLC,22.79,3.42,NULL,26.21,2dozen
+8,Smartwatch,Electronics,Villanueva Ltd,694.37,0.0,NULL,694.37,1each
+18,Yoga Mat,Sports,Graham LLC,187.1,0.0,NULL,187.1,5each
+23,Dress,Apparel,"Santiago, Foster and Shaw",62.78,9.42,NULL,72.2,2each
+10,Jacket,Apparel,Mitchell-Hernandez,263.22,0.0,NULL,263.22,2each
+14,Running Shoes,Sports,Mason Group,170.91,8.55,NULL,179.46,2pair
+13,Bread,Grocery,"Thompson, Hess and Martin",17.77,0.0,NULL,17.77,2loaf
+2,Doll,Toys,Bowman-Henderson,30.42,4.56,NULL,34.98,3each
+25,Puzzle,Toys,"Brooks, Guzman and Blanchard",64.3,12.86,NULL,77.16,2each
+10,Jacket,Apparel,"Turner, Fernandez and Johnson",111.7,0.0,NULL,111.7,3each
+31,Laptop,Electronics,Hernandez and Sons,344.94,0.0,NULL,344.94,2each
+29,Dishwasher,Home & Kitchen,"Donaldson, Campos and Phillips",338.89,0.0,NULL,338.89,1each
+31,Laptop,Electronics,Armstrong-Morgan,307.64,0.0,NULL,307.64,1each
+26,Microwave,Home & Kitchen,"Skinner, Ballard and Brown",20.95,4.19,NULL,25.14,3each
+17,Smartphone,Electronics,"Cook, Moore and Miller",1017.39,152.61,NULL,1170.0,2each
+19,Cheese,Grocery,Bradley and Sons,19.59,0.98,NULL,20.57,5lb
+18,Yoga Mat,Sports,Carlson-Green,265.1,53.02,NULL,318.12,1each
+14,Running Shoes,Sports,Ortiz Group,136.55,27.31,NULL,163.86,1pair
+15,Eggs,Grocery,"Lyons, Gardner and Sanders",24.21,0.0,NULL,24.21,3dozen
+20,Jeans,Apparel,Smith LLC,293.94,58.79,NULL,352.73,3each
+25,Puzzle,Toys,"Cox, Smith and Valenzuela",62.53,0.0,NULL,62.53,9each
+31,Laptop,Electronics,"Stephens, Ryan and Palmer",136.94,13.69,NULL,150.63,2each
+14,Running Shoes,Sports,Marks-Ross,326.8,65.36,NULL,392.16,3pair
+1,Tennis Racket,Sports,"Johnson, Adams and Soto",325.39,32.54,NULL,357.93,2each
+29,Dishwasher,Home & Kitchen,Anderson Ltd,105.62,10.56,NULL,116.18,1each
+9,Toy Car,Toys,Garcia-Kelly,84.94,16.99,NULL,101.93,8each
+27,Butter,Grocery,Smith-Gamble,9.19,0.0,NULL,9.19,2lb
+14,Running Shoes,Sports,Sparks Group,144.78,14.48,NULL,159.26,4pair
+4,Vacuum Cleaner,Home & Kitchen,Owens LLC,359.49,0.0,NULL,359.49,1each
+14,Running Shoes,Sports,Kidd-Stephens,134.99,6.75,NULL,141.74,4pair
+24,Camera,Electronics,"Wood, Duarte and Johnson",111.51,0.0,NULL,111.51,4each
+10,Jacket,Apparel,Cooper LLC,274.36,13.72,NULL,288.08,4each
+23,Dress,Apparel,Walker Inc,169.11,8.46,NULL,177.57,5each
+28,Apple,Apparel,Clay Inc,109.62,21.92,NULL,131.54,1unit
+1,Tennis Racket,Sports,Collins LLC,96.05,19.21,NULL,115.26,2each
+29,Dishwasher,Home & Kitchen,Tate Ltd,285.0,0.0,NULL,285.0,2each
+12,Board Game,Toys,"Meza, Rodriguez and Mosley",27.45,2.75,NULL,30.2,4each
+28,Apple,Apparel,Johnson-Williams,103.68,0.0,NULL,103.68,1unit
+15,Eggs,Grocery,Davis Ltd,7.05,0.35,NULL,7.4,2dozen
+6,Headphones,Electronics,Evans-Allen,909.32,181.86,NULL,1091.18,2pair
+13,Bread,Grocery,"Davis, Knox and Maxwell",15.8,3.16,NULL,18.96,2loaf
+12,Board Game,Toys,Martinez-Hernandez,56.55,8.48,NULL,65.03,2each
+30,Sneakers,Apparel,Marquez-Williams,251.48,25.15,NULL,276.63,5pair
+17,Smartphone,Electronics,"Reyes, Mckinney and Clark",1038.27,155.74,NULL,1194.01,1each
+29,Dishwasher,Home & Kitchen,"Moreno, Santiago and Jackson",432.14,21.61,NULL,453.75,2each
+15,Eggs,Grocery,Cantrell Inc,4.85,0.48,NULL,5.33,3dozen
+2,Doll,Toys,Davis Group,57.77,2.89,NULL,60.66,4each
+18,Yoga Mat,Sports,Morrow LLC,241.97,36.3,NULL,278.27,1each
+24,Camera,Electronics,Vazquez PLC,1391.96,0.0,NULL,1391.96,2each
+22,Soccer Ball,Sports,Mcclure PLC,262.67,13.13,NULL,275.8,5each
+14,Running Shoes,Sports,Beard Group,74.38,0.0,NULL,74.38,1pair
+16,T-shirt,Apparel,Norris-Hatfield,141.12,0.0,NULL,141.12,7each
+8,Smartwatch,Electronics,"Cannon, Higgins and Galloway",856.65,85.67,NULL,942.32,2each
+9,Toy Car,Toys,Lucas-Randolph,58.85,0.0,NULL,58.85,8each
+23,Dress,Apparel,"Hawkins, Stone and Sanders",145.62,7.28,NULL,152.9,4each
+11,Action Figure,Toys,Howard PLC,18.17,2.73,NULL,20.9,5each
+18,Yoga Mat,Sports,Smith-Garcia,190.28,0.0,NULL,190.28,3each
+24,Camera,Electronics,"Blackwell, Gutierrez and Ross",57.48,0.0,NULL,57.48,4each
+26,Microwave,Home & Kitchen,"Brown, Meyer and Fernandez",261.6,13.08,NULL,274.68,2each
+8,Smartwatch,Electronics,"Ramos, Murphy and Hart",1152.77,57.64,NULL,1210.41,1each
+6,Headphones,Electronics,Gallegos-Freeman,221.21,33.18,NULL,254.39,2pair
+15,Eggs,Grocery,Berry and Sons,12.45,1.25,NULL,13.7,1dozen
+8,Smartwatch,Electronics,Pennington and Sons,1245.06,62.25,NULL,1307.31,2each
+10,Jacket,Apparel,Serrano Group,142.19,14.22,NULL,156.41,3each
+12,Board Game,Toys,Anderson PLC,35.37,7.07,NULL,42.44,4each
+26,Microwave,Home & Kitchen,Lawson-Smith,276.3,27.63,NULL,303.93,2each
+11,Action Figure,Toys,"Jones, Potter and Gomez",57.1,11.42,NULL,68.52,10each
+17,Smartphone,Electronics,"Bartlett, Benton and Roberts",715.38,71.54,NULL,786.92,5each
+14,Running Shoes,Sports,"Odonnell, Brown and Kelley",239.39,11.97,NULL,251.36,1pair
+10,Jacket,Apparel,"Booker, Bishop and Hubbard",143.19,7.16,NULL,150.35,3each
+7,Coffee Maker,Home & Kitchen,"Arnold, Carter and Brooks",320.91,64.18,NULL,385.09,1each
+27,Butter,Grocery,"Turner, Dickerson and Zimmerman",9.03,1.81,NULL,10.84,2lb
+4,Vacuum Cleaner,Home & Kitchen,French PLC,105.5,0.0,NULL,105.5,1each
+28,Apple,Electronics,Lopez-Ross,800.53,160.11,NULL,960.64,1unit
+17,Smartphone,Electronics,Frost-Maldonado,345.37,34.54,NULL,379.91,4each
+28,Apple,Apparel,Rice PLC,37.35,7.47,NULL,44.82,1unit
+26,Microwave,Home & Kitchen,Gordon Ltd,202.77,0.0,NULL,202.77,2each
+31,Laptop,Electronics,Hernandez Group,436.29,65.44,NULL,501.73,2each
+24,Camera,Electronics,"Thompson, Wang and Cole",224.61,11.23,NULL,235.84,4each
+6,Headphones,Electronics,Barber and Sons,209.7,31.45,NULL,241.15,3pair
+15,Eggs,Grocery,"Patel, Valencia and Luna",8.92,1.34,NULL,10.26,1dozen
+2,Doll,Toys,Hill-Sosa,34.16,6.83,NULL,40.99,5each
+31,Laptop,Electronics,Clark LLC,1397.88,69.89,NULL,1467.77,3each
+29,Dishwasher,Home & Kitchen,"Mcbride, Williams and Berger",81.42,12.21,NULL,93.63,1each
+9,Toy Car,Toys,Martinez PLC,88.37,0.0,NULL,88.37,7each
+14,Running Shoes,Sports,Hayes LLC,266.2,39.93,NULL,306.13,2pair
+16,T-shirt,Apparel,Stuart Group,152.13,22.82,NULL,174.95,4each
+12,Board Game,Toys,Hayes Inc,82.36,16.47,NULL,98.83,5each
+3,Baseball Glove,Sports,"French, Daniel and Bennett",182.32,0.0,NULL,182.32,3each
+14,Running Shoes,Sports,"Burke, Jackson and Roth",32.94,6.59,NULL,39.53,3pair
+6,Headphones,Electronics,Guerra-Lewis,1115.49,0.0,NULL,1115.49,2pair
+1,Tennis Racket,Sports,Evans LLC,256.24,25.62,NULL,281.86,3each
+29,Dishwasher,Home & Kitchen,Leach PLC,397.76,79.55,NULL,477.31,1each
+7,Coffee Maker,Home & Kitchen,"Fitzpatrick, Brown and Maynard",382.47,19.12,NULL,401.59,1each
+28,Apple,Electronics,Ortiz PLC,549.47,109.89,NULL,659.36,1unit
+24,Camera,Electronics,Kane Inc,1454.2,145.42,NULL,1599.62,1each
+21,Blender,Home & Kitchen,Ramirez Ltd,303.31,0.0,NULL,303.31,1each
+9,Toy Car,Toys,"West, Gonzalez and Carrillo",23.28,1.16,NULL,24.44,1each
+28,Apple,Electronics,"Chapman, Small and Contreras",1426.14,213.92,NULL,1640.06,1unit
+2,Doll,Toys,Mills-Higgins,53.23,5.32,NULL,58.55,5each
+22,Soccer Ball,Sports,Christensen-Silva,50.8,0.0,NULL,50.8,1each
+29,Dishwasher,Home & Kitchen,Bray-Ramos,394.32,39.43,NULL,433.75,2each
+5,Milk,Grocery,"Moore, Velazquez and Hines",13.55,2.71,NULL,16.26,0.9L
+22,Soccer Ball,Sports,"Forbes, Fox and Jones",157.88,0.0,NULL,157.88,3each
+3,Baseball Glove,Sports,Gonzalez Group,103.8,0.0,NULL,103.8,1each
+7,Coffee Maker,Home & Kitchen,"Johnson, Villegas and Warren",98.96,4.95,NULL,103.91,1each
+19,Cheese,Grocery,"Anderson, Rogers and Dennis",24.05,2.4,NULL,26.45,3lb
+22,Soccer Ball,Sports,"Duarte, Dorsey and Wilson",289.31,14.47,NULL,303.78,3each
+5,Milk,Grocery,"Mcdonald, White and Morris",1.24,0.06,NULL,1.3,0.7L
+30,Sneakers,Apparel,Johnson-Reid,105.68,15.85,NULL,121.53,5pair
+21,Blender,Home & Kitchen,Smith and Sons,241.3,12.06,NULL,253.36,2each
+15,Eggs,Grocery,"Watkins, Jensen and Johnson",6.18,0.31,NULL,6.49,2dozen
+20,Jeans,Apparel,Holmes Ltd,276.43,55.29,NULL,331.72,5each
+26,Microwave,Home & Kitchen,Thomas PLC,486.82,0.0,NULL,486.82,1each
+9,Toy Car,Toys,Collins-Moon,62.73,6.27,NULL,69.0,7each
+21,Blender,Home & Kitchen,Jones Inc,252.46,0.0,NULL,252.46,3each
+12,Board Game,Toys,Johnson-Maxwell,82.37,16.47,NULL,98.84,3each
+28,Apple,Apparel,Fuller-King,222.8,44.56,NULL,267.36,1unit
+18,Yoga Mat,Sports,"Simpson, Murray and Baker",313.17,15.66,NULL,328.83,5each
+3,Baseball Glove,Sports,Butler-Roberts,340.96,17.05,NULL,358.01,1each
+10,Jacket,Apparel,Gonzalez LLC,109.78,16.47,NULL,126.25,4each
+21,Blender,Home & Kitchen,"Lloyd, Johnson and Walker",33.12,6.62,NULL,39.74,2each
+8,Smartwatch,Electronics,Schwartz-Hood,350.7,17.54,NULL,368.24,4each
+23,Dress,Apparel,Blake-Payne,262.54,39.38,NULL,301.92,4each
+16,T-shirt,Apparel,Thompson-Lopez,48.28,9.66,NULL,57.94,7each
+16,T-shirt,Apparel,Blake Group,141.64,14.16,NULL,155.8,10each
+4,Vacuum Cleaner,Home & Kitchen,Johnson Ltd,218.55,10.93,NULL,229.48,1each
+14,Running Shoes,Sports,Krueger PLC,41.04,0.0,NULL,41.04,3pair
+9,Toy Car,Toys,Williams-Garcia,45.21,6.78,NULL,51.99,6each
+23,Dress,Apparel,Rodriguez and Sons,13.59,0.0,NULL,13.59,3each
+16,T-shirt,Apparel,"Le, Graham and Peterson",149.57,29.91,NULL,179.48,6each
+4,Vacuum Cleaner,Home & Kitchen,"Davila, Scott and Anderson",468.93,23.45,NULL,492.38,1each
+11,Action Figure,Toys,"Thompson, Bass and Price",95.96,4.8,NULL,100.76,4each
+21,Blender,Home & Kitchen,Turner Ltd,233.03,34.95,NULL,267.98,1each
+15,Eggs,Grocery,Morris Ltd,23.58,0.0,NULL,23.58,1dozen
+31,Laptop,Electronics,Gallegos-Bell,407.26,81.45,NULL,488.71,3each
+1,Tennis Racket,Sports,"Walker, Beck and Huff",160.13,24.02,NULL,184.15,1each
+14,Running Shoes,Sports,"Ellis, Powers and Webb",396.94,39.69,NULL,436.63,2pair
+4,Vacuum Cleaner,Home & Kitchen,Hanson-Walter,454.31,68.15,NULL,522.46,2each
+22,Soccer Ball,Sports,"Hudson, Ellison and Rios",283.35,0.0,NULL,283.35,2each
+6,Headphones,Electronics,Walker PLC,985.49,147.82,NULL,1133.31,1pair
+23,Dress,Apparel,Jones Group,145.08,7.25,NULL,152.33,3each
+9,Toy Car,Toys,Evans PLC,27.97,1.4,NULL,29.37,3each
+21,Blender,Home & Kitchen,Griffith-Fisher,347.45,17.37,NULL,364.82,2each
+15,Eggs,Grocery,"Cowan, West and Stone",21.4,1.07,NULL,22.47,2dozen
+5,Milk,Grocery,"Gray, Abbott and Smith",14.8,1.48,NULL,16.28,1.2L
+40,Apricots,Fruit,GreatfreshLLC,0.9,0.2,0809.10.00,1.1,1kg
+41,Macadamianuts,Fruit,TierraFarm,9.1,1.9,0802.52.00,11,1kg
+42,CarbonatedDrinks,Grocery,AlternateSodaInternational,2.21,0.2,2202.10.00,2.23,1liter
+43,ConcentrateTungstenContent,RawMaterials,AlmagAluminum,370,37.5,2611.00.60,407.5,1000kg
