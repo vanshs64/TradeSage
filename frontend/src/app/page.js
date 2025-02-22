@@ -3,63 +3,59 @@
 import React, { useState } from "react"
 import "./styles.css" // Import external stylesheet
 
-export default function TradingAssistant() {
+export default function TradeSage() {
+  const [productName, setProductName] = useState("");
+
+  const get_data = () => {
+    console.log("The button was pressed");
+    // Additional functionality can be implemented here later
+  };
+
   return (
     <div className="container">
       <div className="content">
         {/* Header */}
         <div className="header">
-          <div className="header-left">
-            <img src="/maple-leaf.png" alt="Government of Canada" className="logo" />
-            <div>
-              <h1 className="title">Crypto Trading Assistant</h1>
-              <span className="subtitle">Government of Canada • Gouvernement du Canada</span>
-            </div>
-          </div>
-          <div className="header-buttons">
-            <button className="btn secondary">FR</button>
-            <button className="btn secondary">Help</button>
-          </div>
+          <h1 className="title">TradeSage</h1>
         </div>
 
         {/* Search Section */}
         <div className="card highlight">
-          <h2 className="card-title">Search Cryptocurrencies</h2>
-          <form className="search-form">
-            <input id="search" type="text" placeholder="Enter cryptocurrency name..." className="input" />
-            <button className="btn primary">Search</button>
+          <h2 className="card-title">Find Supply Chain Solutions</h2>
+          <form className="search-form" onSubmit={(e) => e.preventDefault()}>
+            <input 
+              id="search" 
+              type="text" 
+              placeholder="Enter product name..." 
+              className="input" 
+              value={productName}
+              onChange={(e) => setProductName(e.target.value)}
+            />
+            <button className="btn primary" onClick={get_data}>Search</button>
           </form>
-          <div className="button-group">
-            <button className="btn secondary">Market Overview</button>
-            <button className="btn secondary">Trading Volume</button>
-            <button className="btn secondary">Popular Cryptos</button>
-          </div>
         </div>
 
         {/* Results Section */}
         <div className="card">
-          <h2 className="card-title">Cryptocurrency Information</h2>
+          <h2 className="card-title">Product Information</h2>
           <div className="info-grid">
-            <div className="info-item">
-              <h3 className="info-key">Price</h3>
-              <p className="info-value">$45,000</p>
-            </div>
+            {/* Placeholder for product information */}
           </div>
         </div>
 
         {/* Chat Section */}
         <div className="card">
-          <h2 className="card-title">Chat with Assistant</h2>
+          <h2 className="card-title">Chat with TradeSage Assistant</h2>
           <div className="chat-box">
             <div className="chat-message user">Hello</div>
-            <div className="chat-message assistant">How can I assist you?</div>
+            <div className="chat-message assistant">How can I assist you with your supply chain needs?</div>
           </div>
-          <form className="chat-form">
-            <input type="text" className="input" placeholder="Ask about crypto markets..." />
+          <form className="chat-form" onSubmit={(e) => e.preventDefault()}>
+            <input type="text" className="input" placeholder="Ask about tariffs or products..." />
             <button className="btn primary">Send</button>
           </form>
         </div>
       </div>
     </div>
-  )
+  );
 }
