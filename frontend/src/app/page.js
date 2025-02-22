@@ -6,6 +6,21 @@ export default function SearchForm() {
   const [query, setQuery] = useState("");
   const [result, setResult] = useState(null);
 
+  const [canadianResult, setCanadianResult] = useState(null);
+
+  const handleCanadianSearch = async (e) => {
+    e.preventDefault(); // Prevent full page reload
+
+    try {
+      const res = await fetch(`http://localhost:5000/search/cad?name=${query}`);
+      const data = await res.json();
+      setCanadianResult(data); // Store result in state
+      console.log("Canadian Search Result:", data);
+    } catch (error) {
+      console.error("Error fetching:", error);
+    }
+  }
+
   const handleSearch = async (e) => {
     e.preventDefault(); // Prevent full page reload
 
@@ -34,13 +49,27 @@ export default function SearchForm() {
           Search
         </button>
       </form>
-
       {result && (
-        <div className="result">
-          <h3>Search Result:</h3>
-          <pre>{JSON.stringify(result, null, 2)}</pre>
-        </div>
-      )}
+
+
+      <div className="result">
+        <h3>Search Result:</h3>
+        <pre>{JSON.stringify(result, null, 2)}</pre>
+
+        {result.exists && (
+          <button className="btn secondary" onClick={handleCanadianSearch}>
+            Explore Canadian Alternatives
+          </button>
+        )}
+
+        {canadianResult && (
+          <div className="result">
+            <h3>Canadian Alternative:</h3>
+            <pre>{JSON.stringify(canadianResult, null, 2)}</pre>
+          </div>
+        )}
+      </div>
+    )}
     </div>
   );
 }
