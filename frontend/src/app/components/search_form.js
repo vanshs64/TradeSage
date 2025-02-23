@@ -2,27 +2,25 @@
 
 import { useState, useEffect } from "react";
 import CanadianSearch from "./canadian_search";
+import Why from "./why";
 
 export default function SearchForm() {
   const [query, setQuery] = useState("");
   const [result, setResult] = useState(null);
-  const [tariffCode, setTariffCode] = useState(undefined)
-
-  // Define the fields we want to display
-  const selectedFields = ["Product_Name", "Category", "Supplier", "Final_Price", "Quantity"];
-
-  // Format field names and values
-  const formatFieldName = (field) => (field === "Final_Price" ? "Price" : field);
-
-  const formatValue = (field, value) => (field === "Final_Price" ? `$${Number(value).toFixed(2)}` : String(value));
+  const [tariffCode, setTariffCode] = useState("");
+  const [showLearnMore, setShowLearnMore] = useState(false); // New state
 
   useEffect(() => {
-       if (result?.exists) {
-         console.log("VICKY");
-      setTariffCode(result.data.tariffCode || undefined); // Update tariffCode when result changes
-    }
-  }, [result]);
-
+     if (result?.exists) {
+       setTariffCode(result.data.Tariff_Code); // Fix the key to match the API response
+     }
+   }, [result]);
+   
+   useEffect(() => {
+     console.log("VICKY", tariffCode); // Logs updated value when tariffCode changes
+   }, [tariffCode]);
+   
+   
   const handleSearch = async (e) => {
     e.preventDefault();
 
@@ -59,14 +57,14 @@ export default function SearchForm() {
             <>
               <table>
                 <tbody>
-                  {selectedFields.map(
+                  {["Product_Name", "Category", "Supplier", "Final_Price", "Quantity"].map(
                     (field) =>
                       result.data[field] && (
                         <tr key={field}>
                           <td>
-                            <strong>{formatFieldName(field)}</strong>
+                            <strong>{field === "Final_Price" ? "Price" : field}</strong>
                           </td>
-                          <td>{formatValue(field, result.data[field])}</td>
+                          <td>{field === "Final_Price" ? `$${Number(result.data[field]).toFixed(2)}` : result.data[field]}</td>
                         </tr>
                       )
                   )}
@@ -77,7 +75,11 @@ export default function SearchForm() {
             <p>Item not found.</p>
           )}
 
-          {result.exists && <CanadianSearch query={query} />}
+          {/* Pass function to handle clicking "Explore Canadian Alternatives" */}
+          {result.exists && <CanadianSearch query={query} onExploreClick={() => setShowLearnMore(true)} />}
+
+          {/* Show "Learn More" if button is clicked */}
+          {showLearnMore && <Why tariffCode={tariffCode} />}
         </div>
       )}
     </div>

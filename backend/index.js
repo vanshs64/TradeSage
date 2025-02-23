@@ -4,6 +4,7 @@ const express = require("express");
 const cors = require("cors");
 
 const { BigQuery } = require("@google-cloud/bigquery");
+const { get_gemini_response } = "./gemini.js";
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -93,6 +94,22 @@ app.get("/search/cad", async (req, res) => {
     res.status(500).json({ error: "Internal Server Error" });
   }
 });
+
+
+app.post("/api/gemini", async (req, res) => {
+  try {
+    console.log("VICKY")
+    const { tariffCode } = req.body;
+    if (!tariffCode) return res.status(400).json({ error: "Tariff code is required" });
+
+    const response = await get_gemini_response(tariffCode);
+    res.json({ message: response });
+  } catch (error) {
+    res.status(500).json({ error: "Failed to fetch Gemini response" });
+  }
+});
+
+
 
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);

@@ -2,21 +2,18 @@
 
 import { useState } from "react";
 
-export default function CanadianSearch({ query }) {
+export default function CanadianSearch({ query, onExploreClick }) {
   const [canadianResult, setCanadianResult] = useState(null);
 
-  // Define the fields we want to display, matching the structure from SearchForm
   const selectedFields = [
     "Product_Name",
     "Category",
     "Supplier",
     "Price",
-    "Quantity"
+    "Quantity",
   ];
 
-  const formatSupplierName = (name) => {
-    return name.replace(/([A-Z])/g, ' $1').trim();
-  };
+  const formatSupplierName = (name) => name.replace(/([A-Z])/g, " $1").trim();
 
   const formatValue = (field, value) => {
     if (field === "Supplier") return formatSupplierName(value);
@@ -30,6 +27,10 @@ export default function CanadianSearch({ query }) {
       const data = await res.json();
       setCanadianResult(data);
       console.log("Canadian Search Result:", data);
+
+      if (data.exists) {
+        onExploreClick(); // Trigger "Learn More" when a result is found
+      }
     } catch (error) {
       console.error("Error fetching:", error);
     }
@@ -47,14 +48,19 @@ export default function CanadianSearch({ query }) {
           {canadianResult.exists ? (
             <table>
               <tbody>
-                {selectedFields.map((field) => (
-                  canadianResult.data[field] && (
-                    <tr key={field}>
-                      <td><strong>{field}</strong></td>
-                      <td>{formatValue(field, canadianResult.data[field])}</td>
-                    </tr>
-                  )
-                ))}
+                {selectedFields.map(
+                  (field) =>
+                    canadianResult.data[field] && (
+                      <tr key={field}>
+                        <td>
+                          <strong>{field}</strong>
+                        </td>
+                        <td>
+                          {formatValue(field, canadianResult.data[field])}
+                        </td>
+                      </tr>
+                    )
+                )}
               </tbody>
             </table>
           ) : (
