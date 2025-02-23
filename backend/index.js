@@ -97,10 +97,11 @@ app.get("/search/cad", async (req, res) => {
 
 
 app.post("/api/gemini", async (req, res) => {
+  console.log("SURNISH");
   try {
-    console.log("VICKY")
     const { tariffCode } = req.body;
     if (!tariffCode) return res.status(400).json({ error: "Tariff code is required" });
+
 
     const response = await get_gemini_response(tariffCode);
     res.json({ message: response });

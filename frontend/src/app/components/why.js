@@ -18,10 +18,8 @@ export default function Why({ tariffCode }) {
         body: JSON.stringify({ tariffCode }),
       });
 
-      const response = await res.text() 
-
-
-      setGeminiResponse(response || "No response from Gemini.");
+      const data = await res.json();
+      setGeminiResponse(data.message || "No response from Gemini.");
     } catch (error) {
       console.error("Error fetching Gemini response:", error);
       setGeminiResponse("Error fetching data.");
