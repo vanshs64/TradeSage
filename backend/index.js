@@ -14,12 +14,17 @@ app.use(express.json());
 // Initialize BigQuery Client
 const bigquery = new BigQuery();
 
+
+
+// Endpoint 0 => main
 app.get("/", (req, res) => {
   console.log("here");
   res.send("Backend is running!");
 });
 
-// Search endpoint to check if grocery item exists
+
+
+// Endpoint1 => search
 app.get("/search", async (req, res) => {
   const { name } = req.query;
   if (!name) {
@@ -53,6 +58,9 @@ app.get("/search", async (req, res) => {
   }
 });
 
+
+
+// Endpoint2 => search/cad
 app.get("/search/cad", async (req, res) => {
   try {
     const { name } = req.query;
