@@ -5,16 +5,9 @@ import { useState } from "react";
 export default function CanadianSearch({ query, onExploreClick }) {
   const [canadianResult, setCanadianResult] = useState(null);
 
-  const selectedFields = [
-    "Product_Name",
-    "Category",
-    "Supplier",
-    "Price",
-    "Quantity",
-  ];
+  const selectedFields = ["Product_Name", "Category", "Supplier", "Price", "Quantity"];
 
   const formatSupplierName = (name) => name.replace(/([A-Z])/g, " $1").trim();
-
   const formatValue = (field, value) => {
     if (field === "Supplier") return formatSupplierName(value);
     if (field === "Price") return `$${Number(value).toFixed(2)}`;
@@ -29,7 +22,7 @@ export default function CanadianSearch({ query, onExploreClick }) {
       console.log("Canadian Search Result:", data);
 
       if (data.exists) {
-        onExploreClick(); // Trigger "Learn More" when a result is found
+        onExploreClick();
       }
     } catch (error) {
       console.error("Error fetching:", error);
@@ -37,14 +30,14 @@ export default function CanadianSearch({ query, onExploreClick }) {
   };
 
   return (
-    <div>
+    <div className="card">
+      <h2 className="card-title">Canadian Alternatives</h2>
       <button className="btn secondary" onClick={handleCanadianSearch}>
-        Explore Canadian Alternatives
+        Explore Canadian Options
       </button>
 
       {canadianResult && (
         <div className="result">
-          <h3>Canadian Alternative:</h3>
           {canadianResult.exists ? (
             <table>
               <tbody>
@@ -52,19 +45,15 @@ export default function CanadianSearch({ query, onExploreClick }) {
                   (field) =>
                     canadianResult.data[field] && (
                       <tr key={field}>
-                        <td>
-                          <strong>{field}</strong>
-                        </td>
-                        <td>
-                          {formatValue(field, canadianResult.data[field])}
-                        </td>
+                        <th>{field}</th>
+                        <td>{formatValue(field, canadianResult.data[field])}</td>
                       </tr>
                     )
                 )}
               </tbody>
             </table>
           ) : (
-            <p>No Canadian alternative found.</p>
+            <p>No Canadian alternative available.</p>
           )}
         </div>
       )}

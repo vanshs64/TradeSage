@@ -8,8 +8,7 @@ export default function Why({ tariffCode }) {
 
   const handleClick = async () => {
     setIsHidden(false);
-    console.log("VICKY");
-    console.log(tariffCode);
+    console.log("Tariff Code:", tariffCode);
 
     try {
       const res = await fetch("http://localhost:5000/api/gemini", {
@@ -17,7 +16,6 @@ export default function Why({ tariffCode }) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ tariffCode }),
       });
-      
       const data = await res.json();
       console.log(data);
       setGeminiResponse(data.message || "No response from Gemini.");
@@ -28,9 +26,14 @@ export default function Why({ tariffCode }) {
   };
 
   return (
-    <div>
-      <button onClick={handleClick}>Learn More</button>
-      <div hidden={isHidden}>{geminiResponse || "Loading..."}</div>
+    <div className="card">
+      <h2 className="card-title">Why This Tariff?</h2>
+      <button className="btn primary" onClick={handleClick}>
+        Learn More
+      </button>
+      <div hidden={isHidden} className="result">
+        <p>{geminiResponse || "Loading..."}</p>
+      </div>
     </div>
   );
 }
