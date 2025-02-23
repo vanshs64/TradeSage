@@ -1,8 +1,12 @@
 # TradeSage
 
 TradeSage is a platform designed to help small Canadian businesses navigate supply chain challenges caused by tariffs. By offering a comprehensive search tool for local alternatives to tariffed goods, TradeSage helps businesses save costs and supports the Canadian economy.
+![image](https://github.com/user-attachments/assets/5b12fb42-a721-458e-bea9-1eb25ba7d649)
 
 DoraHacks submission: https://dorahacks.io/buidl/23017
+
+## Demonstration
+https://github.com/user-attachments/assets/05886a47-d1b5-4ccc-a772-1a2a8f9c1388
 
 ## Getting Started
 
