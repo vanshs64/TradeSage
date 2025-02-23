@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ai-sdk/react": "^1.1.17",
+    "@google/generative-ai": "^0.22.0",
     "lucide-react": "^0.475.0",
     "mongodb": "^6.13.1",
     "next": "14.2.24",

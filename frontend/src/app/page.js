@@ -1,5 +1,8 @@
 "use client"
 
+import SearchForm from "./components/search_form";
+import CanadianSearch from "./components/canadian_search";
+
 import React, { useState, useEffect } from "react"
 
 import "./styles.css" // Import external stylesheet
@@ -65,6 +68,8 @@ export default function TradeSage() {
             />
             <button className="btn primary" onClick={get_data}>Search</button>
           </form>
+          <SearchForm />
+
         </div>
 
         {/* Results Section */}
