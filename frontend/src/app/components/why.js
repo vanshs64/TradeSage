@@ -17,8 +17,9 @@ export default function Why({ tariffCode }) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ tariffCode }),
       });
-
+      
       const data = await res.json();
+      console.log(data);
       setGeminiResponse(data.message || "No response from Gemini.");
     } catch (error) {
       console.error("Error fetching Gemini response:", error);

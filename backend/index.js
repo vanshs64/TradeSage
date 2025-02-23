@@ -4,7 +4,9 @@ const express = require("express");
 const cors = require("cors");
 
 const { BigQuery } = require("@google-cloud/bigquery");
-const { get_gemini_response } = "./gemini.js";
+const get_gemini_response = require("./gemini.js");
+//import { get_gemini_response } from "./gemini.js";
+
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -97,15 +99,18 @@ app.get("/search/cad", async (req, res) => {
 
 
 app.post("/api/gemini", async (req, res) => {
-  console.log("SURNISH");
+  console.log("Request Body:", req.body.tariffCode);
   try {
-    const { tariffCode } = req.body;
+    const tariffCode = req.body.tariffCode;
     if (!tariffCode) return res.status(400).json({ error: "Tariff code is required" });
-
-
+    
+    
+    console.log("VICKY")
     const response = await get_gemini_response(tariffCode);
+    
     res.json({ message: response });
   } catch (error) {
+    console.error(error);
     res.status(500).json({ error: "Failed to fetch Gemini response" });
   }
 });
