@@ -99,22 +99,20 @@ app.get("/search/cad", async (req, res) => {
 
 
 app.post("/api/gemini", async (req, res) => {
-  console.log("Request Body:", req.body.tariffCode);
+  console.log("Request Body:", req.body);
   try {
-    const tariffCode = req.body.tariffCode;
+    const { tariffCode, followUp } = req.body;
     if (!tariffCode) return res.status(400).json({ error: "Tariff code is required" });
-    
-    
-    console.log("VICKY")
-    const response = await get_gemini_response(tariffCode);
-    
+
+    console.log("VICKY");
+    const response = await get_gemini_response(tariffCode, followUp);
+
     res.json({ message: response });
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: "Failed to fetch Gemini response" });
   }
 });
-
 
 
 app.listen(PORT, () => {
