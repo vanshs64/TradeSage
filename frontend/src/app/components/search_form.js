@@ -40,7 +40,7 @@ export default function SearchForm() {
             <img src="/logo.png" alt="TradeSage Logo" /> {/* Add your logo */}
             <div>
               <h1 className="title">TradeSage</h1>
-              <p className="subtitle">Find local alternatives with Ease</p>
+              <p className="subtitle">Find local alternatives with ease!</p>
             </div>
           </div>
         </div>

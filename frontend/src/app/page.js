@@ -2,7 +2,7 @@ import SearchForm from "./components/search_form";
 
 export default function Page() {
   return (
-    <div >
+    <div>
       <SearchForm />
     </div>
   );
